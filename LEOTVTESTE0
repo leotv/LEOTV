@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://ia601406.us.archive.org/11/items/a-fazenda-12_20201011/A_Fazenda_12.jpg",A FAZENDA
+https://amd01eng.akamaized.net/hls/live/2008102/fazenda/master_360.m3u8
+
+#EXTINF:-1 tvg-logo="https://ia601406.us.archive.org/11/items/a-fazenda-12_20201011/A_Fazenda_12.jpg",A FAZENDA HD
+https://amd01eng.akamaized.net/hls/live/2008102/fazenda/master_480.m3u8
+
+#EXTINF:-1 tvg-logo="https://ia601406.us.archive.org/11/items/a-fazenda-12_20201011/A_Fazenda_12.jpg",A FAZENDA FHD
+https://amd01eng.akamaized.net/hls/live/2008102/fazenda/master_720.m3u8
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png",GLOBO RJ
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
 
@@ -80,6 +89,9 @@ http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_360_av-b.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image11882864935f723beba073f.png" tvg-id="0" group-title="CANAIS",COMBATE HD
 http://ts.ec.cx:1080/hls1/combate.m3u8
+
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image11882864935f723beba073f.png" tvg-id="0" group-title="CANAIS",COMBATE
+http://51.161.87.116:25461/oTkjUECQHLy5xm/n87NwGSjUGjx/61?token==QhANVRFYGgxEDQUHAFVXAgQDVwYHB1YAXFVVUQJRAVBfBFEDAwReBgQbGRZKRxMEVlg8XgUXCVdUSEZGRwBAOlBWRw5AARoaRE1cWVwRW1ABBVEEWQMLU1dIRkNdARBfGwVXDVMSFBQDQUFRS10ADWhRBkEIVlZDXwoRX1hJEApXbQFRD1FWUkQDFwQbH0MIREVBDQ9AXw1JRgZaQBdTEVwQXxZTBwEDRBUXV1ZGDxVFTEENQ3dhQ0lGAUtAAFwWUF0LFlgSTEVEFRddSmwTBERBEVIAWFYTR15GAxZJEAhYSjpXDV5WUwVNXFtXQENbFQVBG0NYXA8MEAtBaxVbARsIRwVVAgsCREQ=
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image18764987475f723beba0a4f.png" tvg-id="0" group-title="CANAIS",SPORTV
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/466.m3u8
