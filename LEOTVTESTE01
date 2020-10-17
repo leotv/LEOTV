@@ -34,10 +34,10 @@ http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/redetv_45cbe19f_af849fa4a9d20b1b32110260e7033b544a67cc00/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image5444379505f723beb9ff29.png" tvg-id="0" group-title="CANAIS",FOX SPORTS
-http://ts.ec.cx:1080/hls1/foxsports1.m3u8
+http://51.161.87.116:25461/live/rcyUjoOIidmIKL/pQ0L0EzTrHtA/131.m3u8?token=QhANVRFYGgxEWgYCXwNYUwdTAA5QUVIAVFUCUlFXUABaBV1XWgQNAlcbGRZKRxMEVlg8XgUXCVBWVUgRQRZXF2ZbARZYEgkUShtBXVRWQ1sHGUFHCFERW0dWUgcAUhBJG1cdQAdCVlcKZlFRT1oCBBUPDUINWR9DCgo7V1EIUwtdEF8WUhIUFA9KRRYDXRQNWxlBVQhBQQARAUYJFlQEVgEQSRYBX01YEktMFgMRIzMVGUFSGUFWDxYNC10WXxAICkddFk4SUUU5S1BHTUEEAFpQERVbFwNDSUYJUkw6UQpXXABXFllXWBUbDxYJEU1DWloNXhVaQT4VDQARDkcGUw4HR0k=
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image909634055f723beba06cc.png" tvg-id="0" group-title="CANAIS",FOX SPORTS2
-http://ts.ec.cx:1080/hls1/foxsports2.m3u8
+http://51.161.87.116:25461/live/rcyUjoOIidmIKL/pQ0L0EzTrHtA/130.m3u8?token=QhANVRFYGgxECg0NXQYEWQ5UWgVYAwpRXF0GAAcGV1BaAVJVAwdZBFYbGRZKRxMEVlg8XgUXCVBWVEgRQRZXF2ZbARZYEgkUShtBXVRWQ1sHGUFHCFERW0dWUgUFXRBJG1cdQAdCVlcKZlFRT1oCBBUPDUINWR9DCgo7V1EIUwtdEF8WUhIUFA9KRRYDXRQNWxlBVQhBQQARAUYJFlQBUQoQSRYBX01YEktMFgMRIzMVGUFSGUFWDxYNC10WXxAICkddFk4SUUU5S1BHTUEEAFpQERVbFwNDSUYJUkw6UQpXXABXFllXWBUbDxYJEU1DWloNXhVaQT4VDQARDkcAUwwHUxYf
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS",PREMIERE
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/404.m3u8
@@ -61,9 +61,6 @@ http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/388.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS", PREMIERE4 HD
-http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/384.m3u8
-
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS", PREMIERE4 FHD
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/390.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS",PREMIERE5
@@ -87,11 +84,8 @@ http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image1957307665f723beba0135.png" tvg-id="0" group-title="CANAIS",ESPN EXTRA
 http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_360_av-b.m3u8
 
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image11882864935f723beba073f.png" tvg-id="0" group-title="CANAIS",COMBATE HD
-http://ts.ec.cx:1080/hls1/combate.m3u8
-
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image11882864935f723beba073f.png" tvg-id="0" group-title="CANAIS",COMBATE
-http://51.161.87.116:25461/oTkjUECQHLy5xm/n87NwGSjUGjx/61?token==QhANVRFYGgxEDQUHAFVXAgQDVwYHB1YAXFVVUQJRAVBfBFEDAwReBgQbGRZKRxMEVlg8XgUXCVdUSEZGRwBAOlBWRw5AARoaRE1cWVwRW1ABBVEEWQMLU1dIRkNdARBfGwVXDVMSFBQDQUFRS10ADWhRBkEIVlZDXwoRX1hJEApXbQFRD1FWUkQDFwQbH0MIREVBDQ9AXw1JRgZaQBdTEVwQXxZTBwEDRBUXV1ZGDxVFTEENQ3dhQ0lGAUtAAFwWUF0LFlgSTEVEFRddSmwTBERBEVIAWFYTR15GAxZJEAhYSjpXDV5WUwVNXFtXQENbFQVBG0NYXA8MEAtBaxVbARsIRwVVAgsCREQ=
+http://51.161.87.116:25461/live/rcyUjoOIidmIKL/pQ0L0EzTrHtA/61.m3u8?token=QhANVRFYGgxEWwFSCAcEUlQGVQ4HDVAEVFVUA1FVVlZfAQQHVAQNBwcbGRZKRxMEVlg8XgUXCVdUSEZGRwBAOlBWRw5AARoaRE1cWVwRW1EbFxNeBRcJQ1ddVQYARx5HXEoRURBeWVo5XVBCUFAEQw1bFlsNGREOCzsAVlkEXAEbCEcEQBwaXxVJFw5XRg0NGxcBXhVHUhUARl4RBVIDXRseR1cNRVZCFEAXDhtxM0MbFwZPFVBdEgwLChEOR19WTApHGEBZS2kUXEZAS1YADFJHQQ1DBRFNRwkFS2sGXQtXVwZAC19WRUQDFwQbH0MMWFsKQw5HbBEMAEYJFlQGUA8KR0k=
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image18764987475f723beba0a4f.png" tvg-id="0" group-title="CANAIS",SPORTV
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/466.m3u8
@@ -127,10 +121,10 @@ http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/600.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image5993965045f723beba1057.png" tvg-id="0" group-title="CANAIS",CARTOON
-http://ts.ec.cx:1080/hls1/cartoon.m3u8
+https://streaming.belugacdn.link/hls1/cartoon.m3u8?expires=1602637416&token=c61c102dae1271bd94d238fe8941f16e
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image18024634895f723beba110d.png" tvg-id="0" group-title="CANAIS",TOONCAST
-http://ts.ec.cx:1080/hls1/tooncast.m3u8
+http://51.161.84.74:25461/live/rcyUjoOIidmIKL/pQ0L0EzTrHtA/304.m3u8?token=QhANVRFYGgxEAAIBWwsFAlQNW1VTUVIDU1ZcBAFUAgdaBVBSUlZcUlIbGRZKRxMEVlg8XgUXCVJVUEgRQRZXF2ZbARZYEgkUShtBXVRWQ1sHGUFHCFERW0dWVAUMVRBJG1cdQAdCVlcKZlFRT1oCBBUPDUINWR9DCgo7V1EIUwtdEF8WUhIUFA9KRRYDXRQNWxlBVQhBQQARAUYJFlwLVRseR1cNRVZCFEAXDhtxM0MbFwZPFVBdEgwLChEOR19WTApHGEBZS2kUXEZAS1YADFJHQQ1DBRFNRwkFS2sGXQtXVwZAC19WRUQDFwQbH0MMWFsKQw5HbBEMAEYJFlcEUwkCR0k=
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image14746337025f723beba117b.png" tvg-id="0" group-title="CANAIS",DISNEY JR
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8
@@ -157,7 +151,7 @@ http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/280.m3u8
 
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/11/items/boomerangdownload-1/boomerangdownload%20%281%29.png" tvg-id="0" group-title="CANAIS",BOOMERANG
-http://ts.ec.cx:1080/hls1/boomerang.m3u8
+https://streaming.belugacdn.link/hls1/boomerang.m3u8?expires=1602638581&token=9293fee32ce370e5b201d694d486bfa7
 
 #EXTINF:-1 tvg-logo="https://ia801507.us.archive.org/10/items/naruto-classico-e-naruto-shippuden-fillers/Naruto-Cl%C3%A1ssico-e-Naruto-Shippuden-fillers.jpg" tvg-id="0" group-title="CANAIS",24h NARUTO CLASSICO
 http://stream-sky.cf/live/edvandro24h/4mRJSpRD1h/715098.m3u8
@@ -168,12 +162,30 @@ http://stream-sky.cf:8080/live/edvandro24h/4mRJSpRD1h/715092.m3u8
 #EXTINF:-1 tvg-logo="https://ia801704.us.archive.org/3/items/dragon-ball-super-key-visual/Dragon_Ball_Super_Key_visual.jpg" tvg-id="0" group-title="CANAIS",24h DRAGON BALL SUPER
 http://stream-sky.cf:8080/live/edvandro24h/4mRJSpRD1h/755669.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",24h CHAVES
-http://stream-sky.cf:8080/live/edvandro24h/4mRJSpRD1h/715110.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",24h O HOMEM ARANHA
+http://stream-sky.cf:8080/live/edvandro24h/4mRJSpRD1h/715108.m3u8
 
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",24h EU A PATROA E AS CRIANCAS
 http://stream-sky.cf:8080/live/edvandro24h/4mRJSpRD1h/715105.m3u8
 
+
+#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",24h TODO MUNDO ODEIA O CRIS
+http://stream-sky.cf:8080/live/edvandro24h/4mRJSpRD1h/715099.m3u8
+
+#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",24h CAPITAO TSUBAZA
+http://stream-sky.cf:8080/live/edvandro24h/4mRJSpRD1h/755675.m3u8
+
+#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",24h YI GI OH 
+http://stream-sky.cf:8080/live/edvandro24h/4mRJSpRD1h/755672.m3u8
+
+#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",24h OS SIMPSONS
+http://stream-sky.cf:8080/live/edvandro24h/4mRJSpRD1h/755678.m3u8
+
+#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",24h IRMAO DO JOREL
+http://stream-sky.cf:8080/live/edvandro24h/4mRJSpRD1h/755688.m3u8
+
+#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",24h X-MEN
+http://stream-sky.cf:8080/live/edvandro24h/4mRJSpRD1h/755671.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image740667195f723beba1689.png" tvg-id="0" group-title="CANAIS",PARAMOUNT
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/376.m3u8
@@ -182,7 +194,7 @@ http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/374.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image17072419575f723beba16e5.png" tvg-id="0" group-title="CANAIS",AMC
-http://ts.ec.cx:1080/hls1/amc.m3u8
+https://streaming.belugacdn.link/hls1/amc.m3u8?expires=1602639770&token=7676b946640f81c20cd60fa91f2c3dd4
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image2627063995f723beba1739.png" tvg-id="0" group-title="CANAIS",TELECINE PREMIUM
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/498.m3u8
@@ -281,7 +293,10 @@ http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/534.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image10971972655f723beba2567.png" tvg-id="0" group-title="CANAIS",DISCOREVY H&H
-http://ts.ec.cx:1080/hls1/discoveryhomeihealth.m3u8
+https://streaming.belugacdn.link/hls1/discoveryhomeihealth.m3u8?expires=1602640148&token=a13331bf38df7e27da4cd324151f1ea8
+
+#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",DISCOREVY
+https://megafilmeshd50.top/canais/token=60072fe7f5e6e59786ea6277c644709b.php?canal=discovery
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image10971972655f723beba2567.png" tvg-id="0" group-title="CANAIS",HGTV
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/594.m3u8
@@ -360,8 +375,6 @@ http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/
 
 #EXTINF:-1 tvg-logo="https://ia601509.us.archive.org/5/items/cine-sky-resize-1/cine%20skyResize-1.png" tvg-id="0" group-title="CANAIS",CINE SKY 7
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/574.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image5501966555f723beba32f3.png" tvg-id="0" group-title="CANAIS",SEX HOT2
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/556.m3u8
