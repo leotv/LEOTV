@@ -58,7 +58,7 @@ http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/
 http://esrv.cc:80/live/user91920/pass29190/359.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES-1080-H264" tvg-logo="http://tcomweb.site/icons/Premiere-Clubes.png" group-title="SPORTS",PREMIERE CLUBES-1080-H264
-http://pfsv.io:80/live/3797181177/6043/537.m3u8
+http://51.161.119.126:8080/tvplay/esporte_premiereclubes/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS",PREMIERE2
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/380.m3u8
