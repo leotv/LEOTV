@@ -7,19 +7,19 @@ http://esrv.cc:80/live/user91920/pass29190/32023.m3u8
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png",GLOBO RJ 2
-http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/220.m3u8
+http://grtsvk.life:8080/live/12345678/123456789/12646.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png",GLOBO RJ 3
-http://esrv.cc:80/live/user91920/pass29190/217.m3u8
+http://grtsvk.life:8080/live/12345678/123456789/10825.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png",GLOBO RJ 4
-http://esrv.cc:80/live/user91920/pass29190/31805.m3u8
+http://grtsvk.life:8080/live/12345678/123456789/12778.m3u8
 
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="CANAIS ABERTOS",SBT
-http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/444.m3u8
+http://grtsvk.life:8080/live/12345678/123456789/23386.m3u8
 
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="CANAIS ABERTOS",SBT 2 
-http://esrv.cc:80/live/user91920/pass29190/383.m3u8
+http://grtsvk.life:8080/live/12345678/123456789/16995.m3u8
 
 #EXTINF:-1 tvg-id="band.br" tvg-name="BAND" tvg-logo="" group-title="CANAIS ABERTOS",BAND
 http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist.m3u8
@@ -34,32 +34,32 @@ http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/redetv_45cbe19f_af849fa4a9d20b1b32110260e7033b544a67cc00/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://z4.vc/nWk" group-title=" Canais | Esportes",Fox Sports HD
-http://esrv.cc:80/live/user91920/pass29190/180.m3u8
+http://grtsvk.life:8080/live/12345678/123456789/39960.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image909634055f723beba06cc.png" tvg-id="0" group-title="CANAIS",FOX SPORTS2
-http://esrv.cc:80/live/user91920/pass29190/177.m3u8
+http://grtsvk.life:8080/live/12345678/123456789/39957.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS",PREMIERE HD
-http://51.161.119.170:25461/live/B346AK1T3DqL0w/nMTiBY3BpJaP/230.m3u8?token=QhANVRFYGgxEWgxRCQUCBwUNVANRBQdYU1RRCgBRCwBcUVdWB1YMV1cbGRZKRxMEVlg8XgUXCVNWVEgRQRZXF2ZbARZYEgkUShtBXVRWQ1sHGUFHCFERW0dWVAUMURBJG1cdQAdCVlcKZlFRT1oCBBUPDUINWR9DCgo7V1EIUwtdEF8WUhIUFA9KRRYDXRQNWxlBVQhBQQARAUYJFlQDUg0QSRYBX01YEktMFgMRIzMVGUFSGUFWDxYNC10WXxAICkddFk4SUUU5S1BHTUEEAFpQERVbFwNDSUYJUkw6UQpXXABXFllXWBUbDxYJEU1DWloNXhVaQT4VDQARDkcDVwkDVxYf
+http://grtsvk.life:8080/live/12345678/123456789/1053.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS",PREMIERE2 HD
-http://esrv.cc:80/live/user91920/pass29190/340.m3u8
+http://grtsvk.life:8080/live/12345678/123456789/7372.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS",PREMIERE3 HD
-http://esrv.cc:80/live/user91920/pass29190/343.m3u8
+http://grtsvk.life:8080/live/12345678/123456789/7873.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS", PREMIERE4 HD
-http://esrv.cc:80/live/user91920/pass29190/346.m3u8
+http://grtsvk.life:8080/live/12345678/123456789/7370.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS",PREMIERE5 HD
-http://esrv.cc:80/live/user91920/pass29190/349.m3u8
+http://grtsvk.life:8080/live/12345678/123456789/7369.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS",PREMIERE6 HD
-http://esrv.cc:80/live/user91920/pass29190/352.m3u8
+http://grtsvk.life:8080/live/12345678/123456789/29948.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS",PREMIERE7 HD
-http://esrv.cc:80/live/user91920/pass29190/355.m3u8
+http://grtsvk.life:8080/live/12345678/123456789/9681.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image1957307665f723beba0135.png" tvg-id="0" group-title="CANAIS",ESPN EXTRA
 http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_360_av-b.m3u8
@@ -68,10 +68,10 @@ http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_360_av-b.m3u8
 http://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image11882864935f723beba073f.png" tvg-id="0" group-title="CANAIS",COMBATE HD
-http://51.161.87.116:25461/live/B346AK1T3DqL0w/nMTiBY3BpJaP/61.m3u8?token=QhANVRFYGgxEDFFVCQRUBwcMUQ5SDAJQUFxRBw0DBgdfV1cAVgJbBAUbGRZKRxMEVlg8XgUXCVdUSEZGRwBAOlBWRw5AARoaRE1cWVwRW1EbFxNeBRcJQ1ZWVQMHRx5HXEoRURBeWVo5XVBCUFAEQw1bFlsNGREOCzsAVlkEXAEbCEcEQBwaXxVJFw5XRg0NGxcBXhVHUhUARl4RBV0BVBseR1cNRVZCFEAXDhtxM0MbFwZPFVBdEgwLChEOR19WTApHGEBZS2kUXEZAS1YADFJHQQ1DBRFNRwkFS2sGXQtXVwZAC19WRUQDFwQbH0MMWFsKQw5HbBEMAEYJFlcFVgoGR0k=
+http://grtsvk.life:8080/live/12345678/123456789/1042.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image18764987475f723beba0a4f.png" tvg-id="0" group-title="CANAIS",SPORTV HD
-http://esrv.cc:80/live/user91920/pass29190/399.m3u8
+http://grtsvk.life:8080/live/12345678/123456789/32612.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image1294085625f723beba0a9f.png" tvg-id="0" group-title="CANAIS",SPORTV2 HD
 http://esrv.cc:80/live/user91920/pass29190/393.m3u8
