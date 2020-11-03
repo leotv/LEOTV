@@ -28,10 +28,10 @@ http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/redetv_45cbe19f_af849fa4a9d20b1b32110260e7033b544a67cc00/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://z4.vc/nWk" group-title=" Canais | Esportes",Fox Sports HD
-http://multicdn.xyz:8080/live/264543/264543/48757.m3u8
+http://multicdn.xyz:8080/live/264543/264543/29956.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image909634055f723beba06cc.png" tvg-id="0" group-title="CANAIS",FOX SPORTS2
-http://multicdn.xyz:8080/live/264543/264543/48758.m3u8
+http://multicdn.xyz:8080/live/264543/264543/29955.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS",PREMIERE HD
 http://multicdn.xyz:8080/live/264543/264543/39982.m3u8
@@ -64,13 +64,13 @@ http://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8
 http://multicdn.xyz:8080/live/264543/264543/39919.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image18764987475f723beba0a4f.png" tvg-id="0" group-title="CANAIS",SPORTV HD
-http://multicdn.xyz:8080/live/264543/264543/39985.m3u8
+http://multicdn.xyz:8080/live/264543/264543/29954.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image1294085625f723beba0a9f.png" tvg-id="0" group-title="CANAIS",SPORTV2 HD
-http://multicdn.xyz:8080/live/264543/264543/39987.m3u8
+http://multicdn.xyz:8080/live/264543/264543/29952.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image3319401725f723beba0b21.png" tvg-id="0" group-title="CANAIS",SPORTV3 HD
-http://multicdn.xyz:8080/live/264543/264543/39989.m3u8
+http://multicdn.xyz:8080/live/264543/264543/29953.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image12310254815f723beba0c4f.png" tvg-id="0" group-title="CANAIS",ESPN HD
 http://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_240_av-p.m3u8?sd=10&rebase=on
@@ -278,7 +278,7 @@ http://multicdn.xyz:8080/264543/264543/43368
 #EXTINF:-1 tvg-id="" tvg-name="CINE MARVEL VS DC" tvg-logo="https://4.bp.blogspot.com/-eNIsvpD7vwQ/Xt-W6zlbtvI/AAAAAAAAGNk/RwJanh-vRmAzfKsY2t9eIqJUOxdpZlBxgCK4BGAYYCw/s1600/Marvel%2Bvs%2BDC.png" group-title="CINE SKY",CINE MARVEL VS DC
 http://multicdn.xyz:8080/264543/264543/29900
 #EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01" tvg-logo="https://lh3.googleusercontent.com/-FsG9l72mYTk/X2z1Gx02dDI/AAAAAAAAHEE/zopJ1LyvVRUecUyKpY3wNFE5Mvrrz3YVACLcBGAsYHQ/SKY.png" group-title="CINE SKY",CINE SKY 01
-http://multicdn.xyz:8080/264543/264543/48666
+http://multicdn.xyz:8080/live/264543/264543/48666.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINE SKY 02" tvg-logo="https://lh3.googleusercontent.com/-FsG9l72mYTk/X2z1Gx02dDI/AAAAAAAAHEE/zopJ1LyvVRUecUyKpY3wNFE5Mvrrz3YVACLcBGAsYHQ/SKY.png" group-title="CINE SKY",CINE SKY 02
 http://multicdn.xyz:8080/264543/264543/48667
 #EXTINF:-1 tvg-id="" tvg-name="CINE SKY 03" tvg-logo="https://lh3.googleusercontent.com/-FsG9l72mYTk/X2z1Gx02dDI/AAAAAAAAHEE/zopJ1LyvVRUecUyKpY3wNFE5Mvrrz3YVACLcBGAsYHQ/SKY.png" group-title="CINE SKY",CINE SKY 03
