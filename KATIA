@@ -61,16 +61,16 @@ http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_360_av-b.m3u8
 http://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image11882864935f723beba073f.png" tvg-id="0" group-title="CANAIS",COMBATE HD
-http://multicdn.xyz:8080/live/264543/264543/39919.m3u8
+http://appcliente.com:8880/live/bibi/1234/6596.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image18764987475f723beba0a4f.png" tvg-id="0" group-title="CANAIS",SPORTV HD
-http://multicdn.xyz:8080/live/264543/264543/29954.m3u8
+http://appcliente.com:8880/live/bibi/1234/6654.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image1294085625f723beba0a9f.png" tvg-id="0" group-title="CANAIS",SPORTV2 HD
-http://multicdn.xyz:8080/live/264543/264543/29952.m3u8
+http://appcliente.com:8880/live/bibi/1234/6655.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image3319401725f723beba0b21.png" tvg-id="0" group-title="CANAIS",SPORTV3 HD
-http://multicdn.xyz:8080/live/264543/264543/29953.m3u8
+http://appcliente.com:8880/live/bibi/1234/6656.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image12310254815f723beba0c4f.png" tvg-id="0" group-title="CANAIS",ESPN HD
 http://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_240_av-p.m3u8?sd=10&rebase=on
@@ -78,23 +78,15 @@ http://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_240_av-p.m3u8?sd=10&r
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image4091937375f723beba0cbc.png" tvg-id="0" group-title="CANAIS",ESPN2 HD
 http://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_360_av-b.m3u8
 
-#EXTINF:-1 tvg-id="tvg-name="DAZN FHD" tvg-logo="group-title="SPORTS",DAZN FHD
-http://multicdn.xyz:8080/live/264543/264543/30005.m3u8
 
 #EXTINF:-1 tvg-logo="https://ia601500.us.archive.org/31/items/conmeboldownload-1/CONMEBOLdownload%20%281%29.png" tvg-id="0" group-title="CANAIS",CONMEBOL 1
-http://multicdn.xyz:8080/live/264543/264543/47728.m3u8
-
-#EXTINF:-1 tvg-logo="https://ia601500.us.archive.org/31/items/conmeboldownload-1/CONMEBOLdownload%20%281%29.png" tvg-id="0" group-title="CANAIS",CONMEBOL 2
-http://multicdn.xyz:8080/live/264543/264543/47729.m3u8
-
-#EXTINF:-1 tvg-logo="https://ia601500.us.archive.org/31/items/conmeboldownload-1/CONMEBOLdownload%20%281%29.png" tvg-id="0" group-title="CANAIS",CONMEBOL 3
-http://multicdn.xyz:8080/live/264543/264543/47734.m3u8
+http://appcliente.com:8880/live/bibi/1234/6596.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image5993965045f723beba1057.png" tvg-id="0" group-title="CANAIS",CARTOON HD
-http://multicdn.xyz:8080/live/264543/264543/29971.m3u8
+http://appcliente.com:8880/live/bibi/1234/6595.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image18024634895f723beba110d.png" tvg-id="0" group-title="CANAIS",TOONCAST HD
-http://multicdn.xyz:8080/live/264543/264543/29974.m3u8
+http://appcliente.com:8880/live/bibi/1234/7915.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image14746337025f723beba117b.png" tvg-id="0" group-title="CANAIS",DISNEY JR
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8
@@ -105,20 +97,11 @@ http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image4768043505f723beba12d4.png" tvg-id="0" group-title="CANAIS",DISNEY CHANNEL HD
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image2311270665f723beba2701.png" tvg-id="0" group-title="CANAIS",NAT GEO KIDS
-http://multicdn.xyz:8080/live/264543/264543/29966.m3u8
-
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image17198899955f723beba1331.png" tvg-id="0" group-title="CANAIS",NICKLODEON
-http://multicdn.xyz:8080/live/264543/264543/7866.m3u8
-
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image17198899955f723beba1331.png" tvg-id="0" group-title="CANAIS",NICK JR
-http://multicdn.xyz:8080/live/264543/264543/29968.m3u8
-
 #EXTINF:-1 tvg-logo="https://archive.org/download/goobunnamed/goobunnamed.png" tvg-id="0" group-title="CANAIS",GLOOB
 http://189.91.128.146:5555/udp/227.10.20.91:1234.m3u8
 
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/11/items/boomerangdownload-1/boomerangdownload%20%281%29.png" tvg-id="0" group-title="CANAIS",BOOMERANG FHD
-http://multicdn.xyz:8080/live/264543/264543/29970.m3u8
+http://appcliente.com:8880/live/bibi/1234/6592.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS-1080-H264" tvg-logo="http://tcomweb.site/icons/Discovery-Kids.png" group-title="KIDS",DISCOVERY KIDS HD
 http://189.91.128.146:5555/udp/227.10.20.83:1234.m3u8
@@ -180,25 +163,25 @@ http://189.91.128.146:5555/udp/227.10.20.89:1234.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image18805195855f723beba2029.png" tvg-id="0" group-title="CANAIS",SPACE HD
-http://multicdn.xyz:8080/live/264543/264543/29931.m3u8
+http://appcliente.com:8880/live/bibi/1234/6653.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 1-1080-H264" tvg-logo="http://tcomweb.site/icons/Fox-Premium-1.png" group-title="FILMES E SERIES",FOX PREMIUM 1-HD
-http://multicdn.xyz:8080/live/264543/264543/29990.m3u8
+http://appcliente.com:8880/live/bibi/1234/6614.m3u8
 
 #EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="FOX PREMIUM 2 SD" tvg-logo="https://1.bp.blogspot.com/-oY_j0lWUEK8/Xk70VU06WDI/AAAAAAAACE4/b-3iELzjF7k3YzBqk9QW-6vfIR076iKXQCLcBGAsYHQ/s1600/foxpremium2.png" group-title="FILMES E SERIES",FOX PREMIUM 2 SD
-http://multicdn.xyz:8080/live/264543/264543/29991.m3u8
+http://appcliente.com:8880/live/bibi/1234/6615.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image6457640105f723beba2077.png" tvg-id="0" group-title="CANAIS",FOX HD
 http://189.91.128.146:5555/udp/227.10.20.139:1234.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image4162304725f723beba2131.png" tvg-id="0" group-title="CANAIS",TNT HD
-http://multicdn.xyz:8080/live/264543/264543/29933.m3u8
+http://appcliente.com:8880/live/bibi/1234/6664.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image4162304725f723beba2131.png" tvg-id="0" group-title="CANAIS",TNT SERIES HD
-http://multicdn.xyz:8080/live/264543/264543/29934.m3u8
+http://appcliente.com:8880/live/bibi/1234/6665.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image10971972655f723beba2567.png" tvg-id="0" group-title="CANAIS",DISCOREVY H&H HD
@@ -212,209 +195,27 @@ http://189.91.128.146:5555/udp/227.10.20.80:1234.m3u8
 http://189.91.128.146:5555/udp/227.10.20.118:1234.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image10971972655f723beba2567.png" tvg-id="0" group-title="CANAIS",HGTV HD
-http://multicdn.xyz:8080/live/264543/264543/29902.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image2311270665f723beba2701.png" tvg-id="0" group-title="CANAIS",NAT GEO HD
-http://multicdn.xyz:8080/live/264543/264543/29908.m3u8
-
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image18702958085f723beba3011.png" tvg-id="0" group-title="CANAIS",NAT GEO WILD HD
-http://multicdn.xyz:8080/live/264543/264543/29909.m3u8
+http://appcliente.com:8880/live/bibi/1234/6682.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image18091603355f723beba2a1f.png" tvg-id="0" group-title="CANAIS",VIVA 
-http://multicdn.xyz:8080/live/264543/264543/7904.m3u8
+http://appcliente.com:8880/live/bibi/1234/6671.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image4272284965f723beba2a80.png" group-title="MUSICAS",Multishow
 http://multicdn.xyz:8080/live/264543/264543/29981.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MUSICAS",MTV
-http://multicdn.xyz:8080/live/264543/264543/29980.m3u8
-
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image5209234735f723beba2e2b.png" tvg-id="0" group-title="CANAIS",GLOBO NEWS HD
-http://multicdn.xyz:8080/live/264543/264543/23351.m3u8
+http://appcliente.com:8880/live/bibi/1234/6620.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="GNT-1080-H264" tvg-logo="http://tcomweb.site/icons/GNT.png" group-title="ENTRETENIMENTO",GNT HD
-http://multicdn.xyz:8080/live/264543/264543/29983.m3u8
+http://appcliente.com:8880/live/bibi/1234/6621.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image14677881085f723beba2f88.png" tvg-id="0" group-title="CANAIS",OFF
-http://multicdn.xyz:8080/live/264543/264543/29978.m3u8
+http://appcliente.com:8880/live/bibi/1234/6688.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image5501966555f723beba32f3.png" tvg-id="0" group-title="CANAIS",SEX HOT2
 http://esrv.cc:80/live/user91920/pass29190/471.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image8259632545f723beba33f4.png" tvg-id="0" group-title="CANAIS",PLAY BOY
 http://esrv.cc:80/live/user91920/pass29190/465.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="CINE 01" tvg-logo="https://lh3.googleusercontent.com/-zTLIZNUDfug/X17IkEYpBpI/AAAAAAAAHBU/f7QA96J1OBwVEfXCPXyZFd4DycVr4SvgwCLcBGAsYHQ/cine%2Bpipoca.png" group-title="CINE PIPOCA",CINE 01
-http://multicdn.xyz:8080/264543/264543/23395
-#EXTINF:-1 tvg-id="" tvg-name="CINE 02" tvg-logo="https://lh3.googleusercontent.com/-zTLIZNUDfug/X17IkEYpBpI/AAAAAAAAHBU/f7QA96J1OBwVEfXCPXyZFd4DycVr4SvgwCLcBGAsYHQ/cine%2Bpipoca.png" group-title="CINE PIPOCA",CINE 02
-http://multicdn.xyz:8080/264543/264543/43022
-#EXTINF:-1 tvg-id="" tvg-name="CINE 03" tvg-logo="https://lh3.googleusercontent.com/-zTLIZNUDfug/X17IkEYpBpI/AAAAAAAAHBU/f7QA96J1OBwVEfXCPXyZFd4DycVr4SvgwCLcBGAsYHQ/cine%2Bpipoca.png" group-title="CINE PIPOCA",CINE 03
-http://multicdn.xyz:8080/264543/264543/45967
-#EXTINF:-1 tvg-id="" tvg-name="CINE 04" tvg-logo="https://lh3.googleusercontent.com/-zTLIZNUDfug/X17IkEYpBpI/AAAAAAAAHBU/f7QA96J1OBwVEfXCPXyZFd4DycVr4SvgwCLcBGAsYHQ/cine%2Bpipoca.png" group-title="CINE PIPOCA",CINE 04
-http://multicdn.xyz:8080/264543/264543/46445
-#EXTINF:-1 tvg-id="" tvg-name="CINE 05" tvg-logo="https://lh3.googleusercontent.com/-zTLIZNUDfug/X17IkEYpBpI/AAAAAAAAHBU/f7QA96J1OBwVEfXCPXyZFd4DycVr4SvgwCLcBGAsYHQ/cine%2Bpipoca.png" group-title="CINE PIPOCA",CINE 05
-http://multicdn.xyz:8080/264543/264543/47572
-#EXTINF:-1 tvg-id="" tvg-name="CINE 06" tvg-logo="https://lh3.googleusercontent.com/-zTLIZNUDfug/X17IkEYpBpI/AAAAAAAAHBU/f7QA96J1OBwVEfXCPXyZFd4DycVr4SvgwCLcBGAsYHQ/cine%2Bpipoca.png" group-title="CINE PIPOCA",CINE 06
-http://multicdn.xyz:8080/264543/264543/47573
-#EXTINF:-1 tvg-id="" tvg-name="CINE 07" tvg-logo="https://lh3.googleusercontent.com/-zTLIZNUDfug/X17IkEYpBpI/AAAAAAAAHBU/f7QA96J1OBwVEfXCPXyZFd4DycVr4SvgwCLcBGAsYHQ/cine%2Bpipoca.png" group-title="CINE PIPOCA",CINE 07
-http://multicdn.xyz:8080/264543/264543/42013
-#EXTINF:-1 tvg-id="" tvg-name="CINE 08" tvg-logo="https://lh3.googleusercontent.com/-zTLIZNUDfug/X17IkEYpBpI/AAAAAAAAHBU/f7QA96J1OBwVEfXCPXyZFd4DycVr4SvgwCLcBGAsYHQ/cine%2Bpipoca.png" group-title="CINE PIPOCA",CINE 08
-http://multicdn.xyz:8080/264543/264543/48642
-#EXTINF:-1 tvg-id="" tvg-name="CINE 09" tvg-logo="https://lh3.googleusercontent.com/-zTLIZNUDfug/X17IkEYpBpI/AAAAAAAAHBU/f7QA96J1OBwVEfXCPXyZFd4DycVr4SvgwCLcBGAsYHQ/cine%2Bpipoca.png" group-title="CINE PIPOCA",CINE 09
-http://multicdn.xyz:8080/264543/264543/48663
-#EXTINF:-1 tvg-id="" tvg-name="CINE 10" tvg-logo="https://lh3.googleusercontent.com/-zTLIZNUDfug/X17IkEYpBpI/AAAAAAAAHBU/f7QA96J1OBwVEfXCPXyZFd4DycVr4SvgwCLcBGAsYHQ/cine%2Bpipoca.png" group-title="CINE PIPOCA",CINE 10
-http://multicdn.xyz:8080/264543/264543/48665
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD ACTION" tvg-logo="https://1.bp.blogspot.com/-Yw4CYMSAYz8/XvvrSKqtdGI/AAAAAAAAGhA/zIvdMrpZdMo8cj-VMKHrQZo8cq0LaJUiQCLcBGAsYHQ/s1600/cine%2Ba%25C3%25A7%25C3%25A3o%2B01.png" group-title="CINE SKY",CINE HD ACTION
-http://multicdn.xyz:8080/264543/264543/32586
-#EXTINF:-1 tvg-id="" tvg-name="CINE KID" tvg-logo="https://1.bp.blogspot.com/-TncAaYInomk/X0VYuaSMK3I/AAAAAAAAG8Q/oq-7lA-JCs0xzSBgpw1X4De-Q6UscOiAgCLcBGAsYHQ/s300/CINE%2BKID.png" group-title="CINE SKY",CINE KID
-http://multicdn.xyz:8080/264543/264543/43368
-#EXTINF:-1 tvg-id="" tvg-name="CINE MARVEL VS DC" tvg-logo="https://4.bp.blogspot.com/-eNIsvpD7vwQ/Xt-W6zlbtvI/AAAAAAAAGNk/RwJanh-vRmAzfKsY2t9eIqJUOxdpZlBxgCK4BGAYYCw/s1600/Marvel%2Bvs%2BDC.png" group-title="CINE SKY",CINE MARVEL VS DC
-http://multicdn.xyz:8080/264543/264543/29900
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01" tvg-logo="https://lh3.googleusercontent.com/-FsG9l72mYTk/X2z1Gx02dDI/AAAAAAAAHEE/zopJ1LyvVRUecUyKpY3wNFE5Mvrrz3YVACLcBGAsYHQ/SKY.png" group-title="CINE SKY",CINE SKY 01
-http://multicdn.xyz:8080/live/264543/264543/48666.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 02" tvg-logo="https://lh3.googleusercontent.com/-FsG9l72mYTk/X2z1Gx02dDI/AAAAAAAAHEE/zopJ1LyvVRUecUyKpY3wNFE5Mvrrz3YVACLcBGAsYHQ/SKY.png" group-title="CINE SKY",CINE SKY 02
-http://multicdn.xyz:8080/264543/264543/48667
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 03" tvg-logo="https://lh3.googleusercontent.com/-FsG9l72mYTk/X2z1Gx02dDI/AAAAAAAAHEE/zopJ1LyvVRUecUyKpY3wNFE5Mvrrz3YVACLcBGAsYHQ/SKY.png" group-title="CINE SKY",CINE SKY 03
-http://multicdn.xyz:8080/264543/264543/48898
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 04" tvg-logo="https://lh3.googleusercontent.com/-FsG9l72mYTk/X2z1Gx02dDI/AAAAAAAAHEE/zopJ1LyvVRUecUyKpY3wNFE5Mvrrz3YVACLcBGAsYHQ/SKY.png" group-title="CINE SKY",CINE SKY 04
-http://multicdn.xyz:8080/264543/264543/49119
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 05" tvg-logo="https://lh3.googleusercontent.com/-FsG9l72mYTk/X2z1Gx02dDI/AAAAAAAAHEE/zopJ1LyvVRUecUyKpY3wNFE5Mvrrz3YVACLcBGAsYHQ/SKY.png" group-title="CINE SKY",CINE SKY 05
-http://multicdn.xyz:8080/264543/264543/23403
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 06" tvg-logo="https://lh3.googleusercontent.com/-FsG9l72mYTk/X2z1Gx02dDI/AAAAAAAAHEE/zopJ1LyvVRUecUyKpY3wNFE5Mvrrz3YVACLcBGAsYHQ/SKY.png" group-title="CINE SKY",CINE SKY 06
-http://multicdn.xyz:8080/264543/264543/23404
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 07" tvg-logo="https://lh3.googleusercontent.com/-FsG9l72mYTk/X2z1Gx02dDI/AAAAAAAAHEE/zopJ1LyvVRUecUyKpY3wNFE5Mvrrz3YVACLcBGAsYHQ/SKY.png" group-title="CINE SKY",CINE SKY 07
-http://multicdn.xyz:8080/264543/264543/23405
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 08" tvg-logo="https://lh3.googleusercontent.com/-FsG9l72mYTk/X2z1Gx02dDI/AAAAAAAAHEE/zopJ1LyvVRUecUyKpY3wNFE5Mvrrz3YVACLcBGAsYHQ/SKY.png" group-title="CINE SKY",CINE SKY 08
-http://multicdn.xyz:8080/264543/264543/23406
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 09" tvg-logo="https://lh3.googleusercontent.com/-FsG9l72mYTk/X2z1Gx02dDI/AAAAAAAAHEE/zopJ1LyvVRUecUyKpY3wNFE5Mvrrz3YVACLcBGAsYHQ/SKY.png" group-title="CINE SKY",CINE SKY 09
-http://multicdn.xyz:8080/264543/264543/23407
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 10" tvg-logo="https://lh3.googleusercontent.com/-FsG9l72mYTk/X2z1Gx02dDI/AAAAAAAAHEE/zopJ1LyvVRUecUyKpY3wNFE5Mvrrz3YVACLcBGAsYHQ/SKY.png" group-title="CINE SKY",CINE SKY 10
-http://multicdn.xyz:8080/264543/264543/35432
-#EXTINF:-1 tvg-id="" tvg-name="CINE TERROR" tvg-logo="https://3.bp.blogspot.com/-_kiK6-7GrGg/Xt0w2-0sz-I/AAAAAAAAGMw/nhYDku1wjC8ntnnNghaXYSD3SCVwIUq9wCK4BGAYYCw/s1600/cine%2Bterror.png" group-title="CINE SKY",CINE TERROR
-http://multicdn.xyz:8080/264543/264543/29633
-
- 
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Liga da Justiça" tvg-logo="https://i.pinimg.com/originals/0f/54/78/0f5478645982b355d7ad56729a6bd8ab.png" group-title="CANAIS 24 HORAS ",Liga da Justiça
-http://multicdn.xyz:8080/live/264543/264543/10809.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="X-Men" tvg-logo="https://1.bp.blogspot.com/-eOMC3Pqgm8k/XsRNpoI0YDI/AAAAAAAAF6Y/AjbCPglX6aA4_x8J-aOsJlVTjllrLk2JgCK4BGAYYCw/s1600/X-Men.png" group-title="CANAIS 24 HORAS ",X-Men
-http://multicdn.xyz:8080/live/264543/264543/23332.m3u8
-
-#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",24h X-MEN EVOLUTION
-http://multicdn.xyz:8080/live/264543/264543/30147.m3u8
-
-#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",24h O HOMEM ARANHA
-http://stream-sky.cf:8080/live/edvandro24h/4mRJSpRD1h/715108.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/services/img/os-cavaleiros-do-zodiaco-saga-do-torneio-galatico-download-torrent-1986-dublado-" group-title="Canais @ 24 Horas",24H CDZ - Competlo
-http://multicdn.xyz:8080/live/264543/264543/31064.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/services/img/os-cavaleiros-do-zodiaco-saga-do-torneio-galatico-download-torrent-1986-dublado-" group-title="Canais @ 24 Horas",24H CDZ - Saga do Santuario
-http://esrv.cc:80/live/user91920/pass29190/31164.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/services/img/os-cavaleiros-do-zodiaco-saga-do-torneio-galatico-download-torrent-1986-dublado-" group-title="Canais @ 24 Horas",24H CDZ - Saga de Asgard
-http://esrv.cc:80/live/user91920/pass29190/31161.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/services/img/os-cavaleiros-do-zodiaco-saga-do-torneio-galatico-download-torrent-1986-dublado-" group-title="Canais @ 24 Horas",24H CDZ - Saga de Poseidon
-http://esrv.cc:80/live/user91920/pass29190/31163.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/services/img/os-cavaleiros-do-zodiaco-saga-do-torneio-galatico-download-torrent-1986-dublado-" group-title="Canais @ 24 Horas",24H CDZ - Saga de Hades
-http://esrv.cc:80/live/user91920/pass29190/31162.m3u8
-
-#EXTINF:-1 tvg-logo="https://archive.org/services/img/os-cavaleiros-do-zodiaco-saga-do-torneio-galatico-download-torrent-1986-dublado-" tvg-id="0" group-title="CANAIS",24h OS CAVALEIROS DO ZODIACO
-http://stream-sky.cf:8080/live/edvandro24h/4mRJSpRD1h/715092.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/28bd4a12d6a335179103617e0d0a4e7f.png" group-title="Canais @ 24 Horas",24H Dragon Ball Z - Saga dOs Sayajins
-http://esrv.cc:80/live/user91920/pass29190/30968.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/28bd4a12d6a335179103617e0d0a4e7f.png" group-title="Canais @ 24 Horas",24H Dragon Ball Z - Saga de Freeza
-http://esrv.cc:80/live/user91920/pass29190/30964.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/28bd4a12d6a335179103617e0d0a4e7f.png" group-title="Canais @ 24 Horas",24H Dragon Ball Z - Saga de Garlic Jr
-http://esrv.cc:80/live/user91920/pass29190/30965.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/28bd4a12d6a335179103617e0d0a4e7f.png" group-title="Canais @ 24 Horas",24H Dragon Ball Z - Saga dOs Androids
-http://esrv.cc:80/live/user91920/pass29190/30967.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/28bd4a12d6a335179103617e0d0a4e7f.png" group-title="Canais @ 24 Horas",24H Dragon Ball Z - Saga de Cell
-http://esrv.cc:80/live/user91920/pass29190/30963.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/28bd4a12d6a335179103617e0d0a4e7f.png" group-title="Canais @ 24 Horas",24H Dragon Ball Z - Saga Torneio de Outro Mundo
-http://esrv.cc:80/live/user91920/pass29190/30969.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/28bd4a12d6a335179103617e0d0a4e7f.png" group-title="Canais @ 24 Horas",24H Dragon Ball Z - Saga de Majin Boo
-http://esrv.cc:80/live/user91920/pass29190/30966.m3u8
-
-#EXTINF:-1 tvg-logo="https://ia801704.us.archive.org/3/items/dragon-ball-super-key-visual/Dragon_Ball_Super_Key_visual.jpg" tvg-id="0" group-title="CANAIS",24h DRAGON BALL SUPER 1
-http://stream-sky.cf:8080/live/edvandro24h/4mRJSpRD1h/755669.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/b60922d1716d338c1b061f301cbe6738.png" group-title="Canais @ 24 Horas",24H Dragon Ball Super 2
-http://esrv.cc:80/live/user91920/pass29190/30962.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super: Broly - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b7NeAtW9lS4XOoXkf8UL1pzwfsA.jpg" group-title="Dragon Ball Z",Dragon Ball Super: Broly - 2018
-http://multicdn.xyz:8080/movie/264543/264543/10012.mp4
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/125de3b349469521e152c61a191d43bf.png" group-title="Canais @ 24 Horas",24H Dragon Ball GT
-http://esrv.cc:80/live/user91920/pass29190/30957.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/0199711c57715c0c91a7303a7b1c2d16.png" group-title="Canais @ 24 Horas",24H Naruto 01
-http://esrv.cc:80/live/user91920/pass29190/31125.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/0199711c57715c0c91a7303a7b1c2d16.png" group-title="Canais @ 24 Horas",24H Naruto 02
-http://esrv.cc:80/live/user91920/pass29190/31126.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/0199711c57715c0c91a7303a7b1c2d16.png" group-title="Canais @ 24 Horas",24H Naruto 03
-http://esrv.cc:80/live/user91920/pass29190/31127.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/0199711c57715c0c91a7303a7b1c2d16.png" group-title="Canais @ 24 Horas",24H Naruto 04
-http://esrv.cc:80/live/user91920/pass29190/31128.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/0199711c57715c0c91a7303a7b1c2d16.png" group-title="Canais @ 24 Horas",24H Naruto 05
-http://esrv.cc:80/live/user91920/pass29190/31129.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/0199711c57715c0c91a7303a7b1c2d16.png" group-title="Canais @ 24 Horas",24H Naruto 06
-http://esrv.cc:80/live/user91920/pass29190/31130.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/0199711c57715c0c91a7303a7b1c2d16.png" group-title="Canais @ 24 Horas",24H Naruto 07
-http://esrv.cc:80/live/user91920/pass29190/31131.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/0199711c57715c0c91a7303a7b1c2d16.png" group-title="Canais @ 24 Horas",24H Naruto 08
-http://esrv.cc:80/live/user91920/pass29190/31132.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/0199711c57715c0c91a7303a7b1c2d16.png" group-title="Canais @ 24 Horas",24H Naruto 09
-http://esrv.cc:80/live/user91920/pass29190/31133.m3u8
-
-#EXTINF:-1 tvg-logo="https://ia801507.us.archive.org/10/items/naruto-classico-e-naruto-shippuden-fillers/Naruto-Cl%C3%A1ssico-e-Naruto-Shippuden-fillers.jpg" tvg-id="0" group-title="CANAIS",24h NARUTO CLASSICO
-http://stream-sky.cf/live/edvandro24h/4mRJSpRD1h/715098.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/3bbcd2bae4ab6fec37dbf5e791063162.png" group-title="Canais @ 24 Horas",24H Fly O Pequeno Guerreiro
-http://esrv.cc:80/live/user91920/pass29190/31002.m3u8
-
-#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",24h YI GI OH 
-http://stream-sky.cf:8080/live/edvandro24h/4mRJSpRD1h/755672.m3u8
-
-#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",24h EU A PATROA E AS CRIANCAS
-http://stream-sky.cf:8080/live/edvandro24h/4mRJSpRD1h/715105.m3u8
-
-
-#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",24h TODO MUNDO ODEIA O CRIS
-http://stream-sky.cf:8080/live/edvandro24h/4mRJSpRD1h/715099.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/14030bf82af095cc9d7255a3f81a3e90.png" group-title="Canais @ 24 Horas",24H Todo Mundo Odeia O Chris2
-http://esrv.cc:80/live/user91920/pass29190/31388.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e64ced27a054bcfecb6d78de471d25b4.jpg" group-title="Canais @ 24 Horas",24H Tunel do Tempo
-http://esrv.cc:80/live/user91920/pass29190/31400.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="black Kamen Rider" tvg-logo="https://1.bp.blogspot.com/-3cNQDDb3Nlk/XouWN2EYPxI/AAAAAAAACoU/klgdpihXbh4RBdLDdVa-jFQSLdZFUGFZACK4BGAYYCw/s320/5hi9828z.png" group-title="CANAIS 24 HORAS ",black Kamen Rider
-http://multicdn.xyz:8080/live/264543/264543/17743.m3u8
