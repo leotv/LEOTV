@@ -1,1236 +1,221 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png" group-title="FILMES & SÉRIES",A&E SD
-http://appcliente.com:8880/bibi/1234/6475
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png" group-title="FILMES & SÉRIES",A&E HD
-http://appcliente.com:8880/bibi/1234/6673
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png" group-title="FILMES & SÉRIES",A&E FHD
-http://appcliente.com:8880/bibi/1234/6699
-#EXTINF:-1 tvg-logo="https://agromais.band.uol.com.br/assets/images/logo_agro.png" group-title="CANAIS ABERTOS",Agro+ HD
-http://appcliente.com:8880/bibi/1234/25651
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/8vluOZ.png" group-title="CANAIS ABERTOS",AgroBrasil TV SD
-http://appcliente.com:8880/bibi/1234/17397
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/k0o7Ms.png" group-title="INTERNACIONAIS",Al Jazeera (Catar)
-http://appcliente.com:8880/bibi/1234/17393
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/NWiwiv.png" group-title="FILMES & SÉRIES",AMC SD
-http://appcliente.com:8880/bibi/1234/6558
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/NWiwiv.png" group-title="FILMES & SÉRIES",AMC HD
-http://appcliente.com:8880/bibi/1234/6586
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/NWiwiv.png" group-title="FILMES & SÉRIES",AMC FHD
-http://appcliente.com:8880/bibi/1234/6700
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/922/wYHvP7.png" group-title="DOCUMENTÁRIOS",Animal Planet SD
-http://appcliente.com:8880/bibi/1234/6476
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/922/wYHvP7.png" group-title="DOCUMENTÁRIOS",Animal Planet HD
-http://appcliente.com:8880/bibi/1234/6587
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/922/wYHvP7.png" group-title="DOCUMENTÁRIOS",Animal Planet FHD
-http://appcliente.com:8880/bibi/1234/6701
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/551/fTUizV.png" group-title="RÁDIOS ONLINE",ANOS 2000
-http://appcliente.com:8880/bibi/1234/8647
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/551/fTUizV.png" group-title="RÁDIOS ONLINE",ANOS 70
-http://appcliente.com:8880/bibi/1234/8648
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/551/fTUizV.png" group-title="RÁDIOS ONLINE",ANOS 80
-http://appcliente.com:8880/bibi/1234/8649
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/551/fTUizV.png" group-title="RÁDIOS ONLINE",ANOS 90
-http://appcliente.com:8880/bibi/1234/8650
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/924/oelLcf.png" group-title="INTERNACIONAIS",Antena 3 (Espanha)
-http://appcliente.com:8880/bibi/1234/7976
-#EXTINF:-1 tvg-logo="https://cdn.canaismax.com/assistir-arte-1-ao-vivo-em-hd-24-horas/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvZGY5Yjg0MTg0YWJhMmI3OGIwZjZmYTkwZWQ1YmJiNGEucG5n" group-title="FILMES & SÉRIES",Arte 1 SD
-http://appcliente.com:8880/bibi/1234/6477
-#EXTINF:-1 tvg-logo="https://cdn.canaismax.com/assistir-arte-1-ao-vivo-em-hd-24-horas/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvZGY5Yjg0MTg0YWJhMmI3OGIwZjZmYTkwZWQ1YmJiNGEucG5n" group-title="FILMES & SÉRIES",Arte 1 HD
-http://appcliente.com:8880/bibi/1234/6588
-#EXTINF:-1 tvg-logo="https://cdn.canaismax.com/assistir-arte-1-ao-vivo-em-hd-24-horas/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvZGY5Yjg0MTg0YWJhMmI3OGIwZjZmYTkwZWQ1YmJiNGEucG5n" group-title="FILMES & SÉRIES",Arte 1 FHD
-http://appcliente.com:8880/bibi/1234/6702
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/5028/WrbdRB.png" group-title="FILMES & SÉRIES",AXN SD
-http://appcliente.com:8880/bibi/1234/6478
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/5028/WrbdRB.png" group-title="FILMES & SÉRIES",AXN HD
-http://appcliente.com:8880/bibi/1234/6589
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/5028/WrbdRB.png" group-title="FILMES & SÉRIES",AXN FHD
-http://appcliente.com:8880/bibi/1234/6703
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/551/fTUizV.png" group-title="RÁDIOS ONLINE",AXÉ FOLIA
-http://appcliente.com:8880/bibi/1234/8651
-#EXTINF:-1 tvg-logo="https://cdn.canaismax.com/assistir-baby-tv-ao-vivo-online-24-horas-gratis/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvOGZjMTcxOGY1ZTZlZTJiNjEyNDNiOGQ3MGQ2N2YzZGEucG5n" group-title="INFANTIL",Baby TV SD
-http://appcliente.com:8880/bibi/1234/7906
-#EXTINF:-1 tvg-logo="https://cdn.canaismax.com/assistir-baby-tv-ao-vivo-online-24-horas-gratis/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvOGZjMTcxOGY1ZTZlZTJiNjEyNDNiOGQ3MGQ2N2YzZGEucG5n" group-title="INFANTIL",Baby TV HD
-http://appcliente.com:8880/bibi/1234/7907
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/CkUKdz.png" group-title="CANAIS ABERTOS",Band SD
-http://appcliente.com:8880/bibi/1234/6834
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/CkUKdz.png" group-title="CANAIS ABERTOS",Band HD
-http://appcliente.com:8880/bibi/1234/6835
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/CkUKdz.png" group-title="CANAIS ABERTOS",Band FHD
-http://appcliente.com:8880/bibi/1234/25790
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/y8ucbm.png" group-title="JORNALISMO",Band News SD
-http://appcliente.com:8880/bibi/1234/6479
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/y8ucbm.png" group-title="JORNALISMO",Band News HD
-http://appcliente.com:8880/bibi/1234/6590
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/y8ucbm.png" group-title="JORNALISMO",Band News FHD
-http://appcliente.com:8880/bibi/1234/6704
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/CkUKdz.png" group-title="CANAIS ABERTOS",Band PR SD
-http://appcliente.com:8880/bibi/1234/12248
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/CkUKdz.png" group-title="CANAIS ABERTOS",Band PR HD
-http://appcliente.com:8880/bibi/1234/12249
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/CkUKdz.png" group-title="CANAIS ABERTOS",Band PR FHD
-http://appcliente.com:8880/bibi/1234/12250
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/CkUKdz.png" group-title="CANAIS ABERTOS",Band RJ SD
-http://appcliente.com:8880/bibi/1234/6582
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/CkUKdz.png" group-title="CANAIS ABERTOS",Band RJ HD
-http://appcliente.com:8880/bibi/1234/6695
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/CkUKdz.png" group-title="CANAIS ABERTOS",Band RJ FHD
-http://appcliente.com:8880/bibi/1234/6809
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/oBJzZe.png" group-title="ESPORTES",Guia de Jogos Ao Vivo
-http://appcliente.com:8880/bibi/1234/15694
-#EXTINF:-1 tvg-logo="https://cdn.canaismax.com/assistir-band-sports-hd-online-gratis/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvODljODJhYzdiNDgxOTBkNDJjMjAyMDU3Yjk5YjM1NGIucG5n" group-title="ESPORTES",Band Sports SD
-http://appcliente.com:8880/bibi/1234/6480
-#EXTINF:-1 tvg-logo="https://cdn.canaismax.com/assistir-band-sports-hd-online-gratis/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvODljODJhYzdiNDgxOTBkNDJjMjAyMDU3Yjk5YjM1NGIucG5n" group-title="ESPORTES",Band Sports HD
-http://appcliente.com:8880/bibi/1234/6591
-#EXTINF:-1 tvg-logo="https://cdn.canaismax.com/assistir-band-sports-hd-online-gratis/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvODljODJhYzdiNDgxOTBkNDJjMjAyMDU3Yjk5YjM1NGIucG5n" group-title="ESPORTES",Band Sports FHD
-http://appcliente.com:8880/bibi/1234/6705
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/923/GnEL9H.png" group-title="INTERNACIONAIS",BeritaSatu (Indonésia )
-http://appcliente.com:8880/bibi/1234/17396
-#EXTINF:-1 tvg-logo="https://cdn.canaismax.com/assistir-bis-hd-ao-vivo-24-horas/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvOGQwZTk2NDhmYjgyMWQwMjA1NGE2NmViODc2ZGI2ZmEucG5n" group-title="MUSICA",BIS SD
-http://appcliente.com:8880/bibi/1234/6481
-#EXTINF:-1 tvg-logo="https://cdn.canaismax.com/assistir-bis-hd-ao-vivo-24-horas/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvOGQwZTk2NDhmYjgyMWQwMjA1NGE2NmViODc2ZGI2ZmEucG5n" group-title="MUSICA",BIS HD
-http://appcliente.com:8880/bibi/1234/6674
-#EXTINF:-1 tvg-logo="https://cdn.canaismax.com/assistir-bis-hd-ao-vivo-24-horas/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvOGQwZTk2NDhmYjgyMWQwMjA1NGE2NmViODc2ZGI2ZmEucG5n" group-title="MUSICA",BIS FHD
-http://appcliente.com:8880/bibi/1234/6706
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/551/fTUizV.png" group-title="RÁDIOS ONLINE",BLACK MUSIC
-http://appcliente.com:8880/bibi/1234/8652
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/924/XqZmnE.png" group-title="INTERNACIONAIS",Bloomberg (EUA)
-http://appcliente.com:8880/bibi/1234/7969
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/551/fTUizV.png" group-title="RÁDIOS ONLINE",BLUES
-http://appcliente.com:8880/bibi/1234/8653
-#EXTINF:-1 tvg-logo="http://www.costadosol.tv.br/site/wp-content/uploads/2017/12/lbv.png" group-title="RELIGIOSOS",Boa Vontade TV
-http://appcliente.com:8880/bibi/1234/7933
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/551/fTUizV.png" group-title="RÁDIOS ONLINE",BOLERO & SERESTA
-http://appcliente.com:8880/bibi/1234/8654
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/uBT8NS.png" group-title="INTERNACIONAIS",Bolívia TV  (Bolívia)
-http://appcliente.com:8880/bibi/1234/7970
-#EXTINF:-1 tvg-logo="https://cdn.canaismax.com/assistir-boomerang-ao-vivo-24-horas-hd/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvYzMzNjAyMDFjMDBmNzY2MjEzZWNkYjlmNGZmN2RiZjUucG5n" group-title="INFANTIL",Boomerang SD
-http://appcliente.com:8880/bibi/1234/6482
-#EXTINF:-1 tvg-logo="https://cdn.canaismax.com/assistir-boomerang-ao-vivo-24-horas-hd/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvYzMzNjAyMDFjMDBmNzY2MjEzZWNkYjlmNGZmN2RiZjUucG5n" group-title="INFANTIL",Boomerang HD
-http://appcliente.com:8880/bibi/1234/6592
-#EXTINF:-1 tvg-logo="https://cdn.canaismax.com/assistir-boomerang-ao-vivo-24-horas-hd/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvYzMzNjAyMDFjMDBmNzY2MjEzZWNkYjlmNGZmN2RiZjUucG5n" group-title="INFANTIL",Boomerang FHD
-http://appcliente.com:8880/bibi/1234/6707
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/551/fTUizV.png" group-title="RÁDIOS ONLINE",BOSSA NOVA
-http://appcliente.com:8880/bibi/1234/8655
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/551/fTUizV.png" group-title="RÁDIOS ONLINE",BREGA
-http://appcliente.com:8880/bibi/1234/8656
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png" group-title="INTERNACIONAIS",Canal 26 (Argentina)
-http://appcliente.com:8880/bibi/1234/7975
-#EXTINF:-1 tvg-logo="https://cdn.canaismax.com/assistir-canal-brasil-ao-vivo-gratis-online-24-horas/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvMDA5OTBjZjI2NzQzZjI1NzY2MThhNDExMjE3ZTQyMTQucG5n" group-title="FILMES & SÉRIES",Canal Brasil SD
-http://appcliente.com:8880/bibi/1234/6483
-#EXTINF:-1 tvg-logo="https://cdn.canaismax.com/assistir-canal-brasil-ao-vivo-gratis-online-24-horas/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvMDA5OTBjZjI2NzQzZjI1NzY2MThhNDExMjE3ZTQyMTQucG5n" group-title="FILMES & SÉRIES",Canal Brasil HD
-http://appcliente.com:8880/bibi/1234/6593
-#EXTINF:-1 tvg-logo="https://cdn.canaismax.com/assistir-canal-brasil-ao-vivo-gratis-online-24-horas/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvMDA5OTBjZjI2NzQzZjI1NzY2MThhNDExMjE3ZTQyMTQucG5n" group-title="FILMES & SÉRIES",Canal Brasil FHD
-http://appcliente.com:8880/bibi/1234/6708
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/9FKnAq.png" group-title="CANAIS ABERTOS",Canal do Boi SD
-http://appcliente.com:8880/bibi/1234/17360
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/9FKnAq.png" group-title="CANAIS ABERTOS",Canal do Boi HD
-http://appcliente.com:8880/bibi/1234/17359
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/9FKnAq.png" group-title="CANAIS ABERTOS",Canal do Boi FHD
-http://appcliente.com:8880/bibi/1234/17358
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/8626/sNeWhj.png" group-title="INTERNACIONAIS",Canal El Pinguino (Chile)
-http://appcliente.com:8880/bibi/1234/7974
-#EXTINF:-1 tvg-logo="https://cdn.canaismax.com/assistir-canal-sony-ao-vivo-online-gratis-24-horas/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvZGY4ZDYyNmFkZjI1YTI3MTUyZTZkNDNjNDAzMzRkMWMucG5n" group-title="FILMES & SÉRIES",Canal Sony SD
-http://appcliente.com:8880/bibi/1234/6484
-#EXTINF:-1 tvg-logo="https://cdn.canaismax.com/assistir-canal-sony-ao-vivo-online-gratis-24-horas/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvZGY4ZDYyNmFkZjI1YTI3MTUyZTZkNDNjNDAzMzRkMWMucG5n" group-title="FILMES & SÉRIES",Canal Sony HD
-http://appcliente.com:8880/bibi/1234/6594
-#EXTINF:-1 tvg-logo="https://cdn.canaismax.com/assistir-canal-sony-ao-vivo-online-gratis-24-horas/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvZGY4ZDYyNmFkZjI1YTI3MTUyZTZkNDNjNDAzMzRkMWMucG5n" group-title="FILMES & SÉRIES",Canal Sony FHD
-http://appcliente.com:8880/bibi/1234/6709
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-bKaGPzHjo_4/T_Lxx5e2vgI/AAAAAAAAAMo/mQ2TRVW2jgg/s600/V__GC_imagens_logo.png" group-title="RELIGIOSOS",Canção Nova
-http://appcliente.com:8880/bibi/1234/7934
-#EXTINF:-1 tvg-logo="https://toonswithtony.files.wordpress.com/2011/05/cartoon_network.png" group-title="INFANTIL",Cartoon Network SD
-http://appcliente.com:8880/bibi/1234/6565
-#EXTINF:-1 tvg-logo="https://toonswithtony.files.wordpress.com/2011/05/cartoon_network.png" group-title="INFANTIL",Cartoon Network HD
+#EXTINF:-1 tvg-logo="https://ia601406.us.archive.org/11/items/a-fazenda-12_20201011/A_Fazenda_12.jpg",A FAZENDA
+http://multicdn.xyz:8080/live/264543/264543/46781.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png",GLOBO RJ
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png",GLOBO RJ 2
+http://multicdn.xyz:8080/live/264543/264543/23344.m3u8
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="CANAIS ABERTOS",SBT
+http://189.91.128.146:5555/udp/227.10.20.120:1234
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="CANAIS ABERTOS",SBT 2 
+http://grtsvk.life:8080/live/12345678/123456789/16995.m3u8
+
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND" tvg-logo="" group-title="CANAIS ABERTOS",BAND
+http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="RECORD RJ" tvg-name="RECORD RJ" tvg-logo="http://img.elitehdbr.com/logos/record.png" group-title="CANAIS ABERTOS",RECORD RJ
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
+
+#EXTINF:-1 tvg-id="RECORD RJ" tvg-name="RECORD RJ" tvg-logo="http://img.elitehdbr.com/logos/record.png" group-title="CANAIS ABERTOS",RECORD SP
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV SD" tvg-logo="http://i.imgur.com/jJBUZ6O.png" group-title="CANAIS ABERTOS",REDE TV
+http://189.91.128.146:5555/udp/227.10.20.122:1234
+
+#EXTINF:-1 tvg-logo="http://z4.vc/nWk" group-title=" Canais | Esportes",Fox Sports HD
+http://189.91.128.146:5555/udp/227.10.20.116:1234
+
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image909634055f723beba06cc.png" tvg-id="0" group-title="CANAIS",FOX SPORTS2
+http://189.91.128.146:5555/udp/227.10.20.132:1234
+
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS",PREMIERE HD
+http://189.91.128.146:5555/udp/227.10.20.102:1234
+
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS",PREMIERE2 HD
+http://189.91.128.146:5555/udp/227.10.20.104:1234
+
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS",PREMIERE3 HD
+http://189.91.128.146:5555/udp/227.10.20.105:1234
+
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS", PREMIERE4 HD
+http://189.91.128.146:5555/udp/227.10.20.106:1234
+
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS",PREMIERE5 HD
+http://189.91.128.146:5555/udp/227.10.20.107:1234
+
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS",PREMIERE6 HD
+http://189.91.128.146:5555/udp/227.10.20.123:1234
+
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS",PREMIERE7 HD
+http://multicdn.xyz:8080/live/264543/264543/39977.m3u8
+
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image1957307665f723beba0135.png" tvg-id="0" group-title="CANAIS",ESPN EXTRA
+http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_360_av-b.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN BRASIL-1080-H264" tvg-logo="http://tcomweb.site/icons/ESPN-Brasil.png" group-title="SPORTS",ESPN BRASIL
+http://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image11882864935f723beba073f.png" tvg-id="0" group-title="CANAIS",COMBATE HD
+http://appcliente.com:8880/live/bibi/1234/6596.m3u8
+
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image18764987475f723beba0a4f.png" tvg-id="0" group-title="CANAIS",SPORTV HD
+http://appcliente.com:8880/live/bibi/1234/6654.m3u8
+
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image1294085625f723beba0a9f.png" tvg-id="0" group-title="CANAIS",SPORTV2 HD
+http://appcliente.com:8880/live/bibi/1234/6655.m3u8
+
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image3319401725f723beba0b21.png" tvg-id="0" group-title="CANAIS",SPORTV3 HD
+http://appcliente.com:8880/live/bibi/1234/6656.m3u8
+
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image12310254815f723beba0c4f.png" tvg-id="0" group-title="CANAIS",ESPN HD
+http://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_240_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image4091937375f723beba0cbc.png" tvg-id="0" group-title="CANAIS",ESPN2 HD
+http://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_360_av-b.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://ia601500.us.archive.org/31/items/conmeboldownload-1/CONMEBOLdownload%20%281%29.png" tvg-id="0" group-title="CANAIS",CONMEBOL 1
+http://appcliente.com:8880/live/bibi/1234/6596.m3u8
+
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image5993965045f723beba1057.png" tvg-id="0" group-title="CANAIS",CARTOON HD
 http://appcliente.com:8880/live/bibi/1234/6595.m3u8
-#EXTINF:-1 tvg-logo="https://toonswithtony.files.wordpress.com/2011/05/cartoon_network.png" group-title="INFANTIL",Cartoon Network FHD
-http://appcliente.com:8880/bibi/1234/6710
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/551/fTUizV.png" group-title="RÁDIOS ONLINE",CATÓLIA
-http://appcliente.com:8880/bibi/1234/8657
-#EXTINF:-1 tvg-logo="https://www.cbn.com/giving/general/7Ci/newcbnnews/images/cbnnews-logo-blue.png" group-title="INTERNACIONAIS",CBN News (EUA)
-http://appcliente.com:8880/bibi/1234/7977
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/4025/uUdg5m.png" group-title="FILMES & SÉRIES",Cinemax SD
-http://appcliente.com:8880/bibi/1234/6485
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/4025/uUdg5m.png" group-title="FILMES & SÉRIES",Cinemax HD
-http://appcliente.com:8880/bibi/1234/6675
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/4025/uUdg5m.png" group-title="FILMES & SÉRIES",Cinemax FHD
-http://appcliente.com:8880/bibi/1234/6711
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/551/fTUizV.png" group-title="RÁDIOS ONLINE",CLASSIC ROCK
-http://appcliente.com:8880/bibi/1234/8658
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/YX8piM.png" group-title="FILMES & SÉRIES",Classique TV
-http://appcliente.com:8880/bibi/1234/15954
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/jVB4oY.png" group-title="INTERNACIONAIS",Cable Noticias (Colômbia)
-http://appcliente.com:8880/bibi/1234/8055
-#EXTINF:-1 tvg-logo="https://cdn.canaismax.com/cnn-brasil/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvM2JkZGMyZGFiOTM0ODAwZDk4MjY2ZmY1YzNkMjgyYzQucG5n" group-title="JORNALISMO",CNN - Brasil SD
-http://appcliente.com:8880/bibi/1234/9966
-#EXTINF:-1 tvg-logo="https://cdn.canaismax.com/cnn-brasil/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvM2JkZGMyZGFiOTM0ODAwZDk4MjY2ZmY1YzNkMjgyYzQucG5n" group-title="JORNALISMO",CNN - Brasil HD
-http://appcliente.com:8880/bibi/1234/9774
-#EXTINF:-1 tvg-logo="https://cdn.canaismax.com/cnn-brasil/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvM2JkZGMyZGFiOTM0ODAwZDk4MjY2ZmY1YzNkMjgyYzQucG5n" group-title="JORNALISMO",CNN - Brasil FHD
-http://appcliente.com:8880/bibi/1234/10468
-#EXTINF:-1 tvg-logo="https://cdn.canaismax.com/cnn-international/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvYTZhZDUyMGVlMWRkZDUxOTljN2E5NzczYmI0ODQxMWIucG5n" group-title="JORNALISMO",CNN - International 
-http://appcliente.com:8880/bibi/1234/7979
-#EXTINF:-1 tvg-logo="https://cdn.canaismax.com/cnt-rio/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvYTcyMjJmMTA4ZjMwY2Y5ZWViM2NiM2RlYWRiOTA1YzgucG5n" group-title="CANAIS ABERTOS",CNT SD
-http://appcliente.com:8880/bibi/1234/7768
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/8510/tM7GEt.png" group-title="ESPORTES",Combate SD
-http://appcliente.com:8880/bibi/1234/6486
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/8510/tM7GEt.png" group-title="ESPORTES",Combate HD
-http://appcliente.com:8880/bibi/1234/6596
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/8510/tM7GEt.png" group-title="ESPORTES",Combate FHD
-http://appcliente.com:8880/bibi/1234/6712
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/9616/umC3tN.png" group-title="VARIEDADES",Comedy Central SD
-http://appcliente.com:8880/bibi/1234/6571
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/9616/umC3tN.png" group-title="VARIEDADES",Comedy Central HD
-http://appcliente.com:8880/bibi/1234/6597
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/9616/umC3tN.png" group-title="VARIEDADES",Comedy Central FHD
-http://appcliente.com:8880/bibi/1234/6713
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="CONMEBOL TV",Conmebol TV - 01
-http://appcliente.com:8880/bibi/1234/23388
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="CONMEBOL TV",Conmebol TV - 02
-http://appcliente.com:8880/bibi/1234/23389
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="CONMEBOL TV",Conmebol TV - 03
-http://appcliente.com:8880/bibi/1234/23390
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="CONMEBOL TV",Conmebol TV - 04
-http://appcliente.com:8880/bibi/1234/23391
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/551/fTUizV.png" group-title="RÁDIOS ONLINE",COUNTRY
-http://appcliente.com:8880/bibi/1234/8659
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/551/fTUizV.png" group-title="RÁDIOS ONLINE",COVERS
-http://appcliente.com:8880/bibi/1234/8660
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/0e6gpB.png" group-title="INTERNACIONAIS",CTV NEWS (Canadá)
-http://appcliente.com:8880/bibi/1234/7980
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-afg4AA1ihZs/WacphiEZsKI/AAAAAAAA-Nk/tH6tqCqmT3A-i8e7mn6EtQBIZ0FTYqBrgCLcBGAs/s640/curta.png" group-title="VARIEDADES",Curta! SD
-http://appcliente.com:8880/bibi/1234/6488
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-afg4AA1ihZs/WacphiEZsKI/AAAAAAAA-Nk/tH6tqCqmT3A-i8e7mn6EtQBIZ0FTYqBrgCLcBGAs/s640/curta.png" group-title="VARIEDADES",Curta! HD
-http://appcliente.com:8880/bibi/1234/6598
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-afg4AA1ihZs/WacphiEZsKI/AAAAAAAA-Nk/tH6tqCqmT3A-i8e7mn6EtQBIZ0FTYqBrgCLcBGAs/s640/curta.png" group-title="VARIEDADES",Curta! FHD
-http://appcliente.com:8880/bibi/1234/6715
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/551/fTUizV.png" group-title="RÁDIOS ONLINE",DANCE MUSIC
-http://appcliente.com:8880/bibi/1234/8661
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/1184/3G1Zs7.png" group-title="ESPORTES",DAZN 1
-http://appcliente.com:8880/bibi/1234/7895
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/5483/pDG9pp.png" group-title="ESPORTES",DAZN 2
-http://appcliente.com:8880/bibi/1234/7896
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/551/fTUizV.png" group-title="RÁDIOS ONLINE",DISCO
-http://appcliente.com:8880/bibi/1234/8662
-#EXTINF:-1 tvg-logo="https://cdn.canaismax.com/assistir-discovery-channel-ao-vivo-24-horas-online/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvZWZlZjA1NGY5OGUyMGRkOTliZWY3YWFkMmRmMWE1MjIucG5n" group-title="DOCUMENTÁRIOS",Discovery Channel SD
-http://appcliente.com:8880/bibi/1234/6493
-#EXTINF:-1 tvg-logo="https://cdn.canaismax.com/assistir-discovery-channel-ao-vivo-24-horas-online/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvZWZlZjA1NGY5OGUyMGRkOTliZWY3YWFkMmRmMWE1MjIucG5n" group-title="DOCUMENTÁRIOS",Discovery Channel HD
-http://appcliente.com:8880/bibi/1234/6677
-#EXTINF:-1 tvg-logo="https://cdn.canaismax.com/assistir-discovery-channel-ao-vivo-24-horas-online/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvZWZlZjA1NGY5OGUyMGRkOTliZWY3YWFkMmRmMWE1MjIucG5n" group-title="DOCUMENTÁRIOS",Discovery Channel FHD
-http://appcliente.com:8880/bibi/1234/6717
-#EXTINF:-1 tvg-logo="https://cdn.canaismax.com/assistir-discovery-home-and-health-hd-ao-vivo-online-gratis-24-horas/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvZTcwODc5ODhhODczYjNmMGQ2ZjlhMTc5ZTQzMTVhODQucG5n" group-title="DOCUMENTÁRIOS",Discovery H&H SD
-http://appcliente.com:8880/bibi/1234/6489
-#EXTINF:-1 tvg-logo="https://cdn.canaismax.com/assistir-discovery-home-and-health-hd-ao-vivo-online-gratis-24-horas/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvZTcwODc5ODhhODczYjNmMGQ2ZjlhMTc5ZTQzMTVhODQucG5n" group-title="DOCUMENTÁRIOS",Discovery H&H HD
-http://appcliente.com:8880/bibi/1234/6599
-#EXTINF:-1 tvg-logo="https://cdn.canaismax.com/assistir-discovery-home-and-health-hd-ao-vivo-online-gratis-24-horas/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvZTcwODc5ODhhODczYjNmMGQ2ZjlhMTc5ZTQzMTVhODQucG5n" group-title="DOCUMENTÁRIOS",Discovery H&H FHD
-http://appcliente.com:8880/bibi/1234/6716
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4b/Discovery_kids_hd_logo.png/revision/latest?cb=20140318145557" group-title="INFANTIL",Discovery Kids SD
-http://appcliente.com:8880/bibi/1234/6491
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4b/Discovery_kids_hd_logo.png/revision/latest?cb=20140318145557" group-title="INFANTIL",Discovery Kids HD
-http://appcliente.com:8880/bibi/1234/6678
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4b/Discovery_kids_hd_logo.png/revision/latest?cb=20140318145557" group-title="INFANTIL",Discovery Kids FHD
-http://appcliente.com:8880/bibi/1234/6718
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/TmNrAc.png" group-title="DOCUMENTÁRIOS",Discovery Science SD
-http://appcliente.com:8880/bibi/1234/6492
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/TmNrAc.png" group-title="DOCUMENTÁRIOS",Discovery Science HD
-http://appcliente.com:8880/bibi/1234/6679
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/TmNrAc.png" group-title="DOCUMENTÁRIOS",Discovery Science FHD
-http://appcliente.com:8880/bibi/1234/6719
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/oZHa2I.png" group-title="DOCUMENTÁRIOS",Discovery Theater SD
-http://appcliente.com:8880/bibi/1234/6494
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/oZHa2I.png" group-title="DOCUMENTÁRIOS",Discovery Theater HD
-http://appcliente.com:8880/bibi/1234/6600
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/oZHa2I.png" group-title="DOCUMENTÁRIOS",Discovery Theater FHD
-http://appcliente.com:8880/bibi/1234/6720
-#EXTINF:-1 tvg-logo="https://cdn.canaismax.com/assistir-discovery-turbo-ao-vivo-24-horas-online/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvYjYxODIyYmUxYzEyYWVlYTcxNTUyOGU0OWJlY2ZjNzAucG5n" group-title="DOCUMENTÁRIOS",Discovery Turbo SD
-http://appcliente.com:8880/bibi/1234/6495
-#EXTINF:-1 tvg-logo="https://cdn.canaismax.com/assistir-discovery-turbo-ao-vivo-24-horas-online/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvYjYxODIyYmUxYzEyYWVlYTcxNTUyOGU0OWJlY2ZjNzAucG5n" group-title="DOCUMENTÁRIOS",Discovery Turbo HD
-http://appcliente.com:8880/bibi/1234/6601
-#EXTINF:-1 tvg-logo="https://cdn.canaismax.com/assistir-discovery-turbo-ao-vivo-24-horas-online/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvYjYxODIyYmUxYzEyYWVlYTcxNTUyOGU0OWJlY2ZjNzAucG5n" group-title="DOCUMENTÁRIOS",Discovery Turbo FHD
-http://appcliente.com:8880/bibi/1234/6721
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/924/dyuGgl.png" group-title="DOCUMENTÁRIOS",Discovery World SD
-http://appcliente.com:8880/bibi/1234/6496
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/924/dyuGgl.png" group-title="DOCUMENTÁRIOS",Discovery World HD
-http://appcliente.com:8880/bibi/1234/6602
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/924/dyuGgl.png" group-title="DOCUMENTÁRIOS",Discovery World FHD
-http://appcliente.com:8880/bibi/1234/6722
-#EXTINF:-1 tvg-logo="https://www.edinazephyrus.com/wp-content/uploads/2014/11/DisneyChannel-900x720.png" group-title="INFANTIL",Disney Channel SD
-http://appcliente.com:8880/bibi/1234/6573
-#EXTINF:-1 tvg-logo="https://www.edinazephyrus.com/wp-content/uploads/2014/11/DisneyChannel-900x720.png" group-title="INFANTIL",Disney Channel HD
-http://appcliente.com:8880/bibi/1234/6603
-#EXTINF:-1 tvg-logo="https://www.edinazephyrus.com/wp-content/uploads/2014/11/DisneyChannel-900x720.png" group-title="INFANTIL",Disney Channel FHD
-http://appcliente.com:8880/bibi/1234/6723
-#EXTINF:-1 tvg-logo="https://cdn.canaismax.com/assistir-disney-channel-ao-vivo-hd-24-horas-gratis/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvNGE2ZTk5OGE4YzRkMTIxYjI2NDQzODk2YTJmNDYyMjYucG5n" group-title="INFANTIL",Disney Junior SD
-http://appcliente.com:8880/bibi/1234/6572
-#EXTINF:-1 tvg-logo="https://cdn.canaismax.com/assistir-disney-channel-ao-vivo-hd-24-horas-gratis/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvNGE2ZTk5OGE4YzRkMTIxYjI2NDQzODk2YTJmNDYyMjYucG5n" group-title="INFANTIL",Disney Junior HD
-http://appcliente.com:8880/bibi/1234/6604
-#EXTINF:-1 tvg-logo="https://cdn.canaismax.com/assistir-disney-channel-ao-vivo-hd-24-horas-gratis/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvNGE2ZTk5OGE4YzRkMTIxYjI2NDQzODk2YTJmNDYyMjYucG5n" group-title="INFANTIL",Disney Junior FHD
-http://appcliente.com:8880/bibi/1234/6724
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/pDGM0E.png" group-title="INFANTIL",Disney XD SD
-http://appcliente.com:8880/bibi/1234/7908
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Disney_XD_HD.png" group-title="INFANTIL",Disney XD HD
-http://appcliente.com:8880/bibi/1234/7910
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Disney_XD_HD.png" group-title="INFANTIL",Disney XD FHD
-http://appcliente.com:8880/bibi/1234/7909
-#EXTINF:-1 tvg-logo="https://dwactive.files.wordpress.com/2015/04/dw-logo_circles_turq.png" group-title="INTERNACIONAIS",DW (Alemanha)
-http://appcliente.com:8880/bibi/1234/7982
-#EXTINF:-1 tvg-logo="https://static1.squarespace.com/static/5134d411e4b027b1c0564b1e/51968996e4b0af15cc44e4e0/519a8072e4b08ccdf8f320e9/1369079923811/e_logo.png" group-title="VARIEDADES",E! SD
-http://appcliente.com:8880/bibi/1234/6497
-#EXTINF:-1 tvg-logo="https://static1.squarespace.com/static/5134d411e4b027b1c0564b1e/51968996e4b0af15cc44e4e0/519a8072e4b08ccdf8f320e9/1369079923811/e_logo.png" group-title="VARIEDADES",E! HD
-http://appcliente.com:8880/bibi/1234/6605
-#EXTINF:-1 tvg-logo="https://static1.squarespace.com/static/5134d411e4b027b1c0564b1e/51968996e4b0af15cc44e4e0/519a8072e4b08ccdf8f320e9/1369079923811/e_logo.png" group-title="VARIEDADES",E! FHD
-http://appcliente.com:8880/bibi/1234/6725
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img924/4325/6aKDHN.png" group-title="INTERNACIONAIS",EBS (Coreia do Sul)
-http://appcliente.com:8880/bibi/1234/8045
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/551/fTUizV.png" group-title="RÁDIOS ONLINE",ELETRO MUSIC
-http://appcliente.com:8880/bibi/1234/8663
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/9168/ZCxqJS.png" group-title="ESPORTES",ESPN SD
-http://appcliente.com:8880/bibi/1234/6500
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/9168/ZCxqJS.png" group-title="ESPORTES",ESPN HD
-http://appcliente.com:8880/bibi/1234/6608
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/9168/ZCxqJS.png" group-title="ESPORTES",ESPN FHD
-http://appcliente.com:8880/bibi/1234/6728
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/3127/lvs3XC.png" group-title="ESPORTES",ESPN2 SD
-http://appcliente.com:8880/bibi/1234/6501
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/3127/lvs3XC.png" group-title="ESPORTES",ESPN2 HD
-http://appcliente.com:8880/bibi/1234/6609
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/3127/lvs3XC.png" group-title="ESPORTES",ESPN2 FHD
-http://appcliente.com:8880/bibi/1234/6729
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img924/4650/HcgsRI.png" group-title="ESPORTES",ESPN Brasil SD
-http://appcliente.com:8880/bibi/1234/9308
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img924/4650/HcgsRI.png" group-title="ESPORTES",ESPN Brasil HD
-http://appcliente.com:8880/bibi/1234/6606
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img924/4650/HcgsRI.png" group-title="ESPORTES",ESPN Brasil FHD
-http://appcliente.com:8880/bibi/1234/6726
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/254/kDNW8G.png" group-title="ESPORTES",ESPN Extra SD
-http://appcliente.com:8880/bibi/1234/6499
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/254/kDNW8G.png" group-title="ESPORTES",ESPN Extra HD
-http://appcliente.com:8880/bibi/1234/6607
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/254/kDNW8G.png" group-title="ESPORTES",ESPN Extra FHD
-http://appcliente.com:8880/bibi/1234/6727
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/8JO7qD.png" group-title="ESPORTES",Esporte Interativo HD
-http://appcliente.com:8880/bibi/1234/7897
-#EXTINF:-1 tvg-logo="http://subversion.assembla.com/svn/mediaportal.LogoPack-Hungary/trunk/tv/euronews.png" group-title="INTERNACIONAIS",Euronews
-http://appcliente.com:8880/bibi/1234/8046
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/ffXmym.png" group-title="ESPORTES",Facebook Watch
-http://appcliente.com:8880/bibi/1234/9737
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/EPVUsW.png" group-title="VARIEDADES",Fashion TV SD
-http://appcliente.com:8880/bibi/1234/6568
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/EPVUsW.png" group-title="VARIEDADES",Fashion TV HD
-http://appcliente.com:8880/bibi/1234/6610
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/EPVUsW.png" group-title="VARIEDADES",Fashion TV FHD
-http://appcliente.com:8880/bibi/1234/6730
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/551/fTUizV.png" group-title="RÁDIOS ONLINE",FESTA MUSIC
-http://appcliente.com:8880/bibi/1234/8664
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/924/wDEDYg.png" group-title="DOCUMENTÁRIOS",Fish TV SD
-http://appcliente.com:8880/bibi/1234/6574
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/924/wDEDYg.png" group-title="DOCUMENTÁRIOS",Fish TV HD
-http://appcliente.com:8880/bibi/1234/6611
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/924/wDEDYg.png" group-title="DOCUMENTÁRIOS",Fish TV FHD
-http://appcliente.com:8880/bibi/1234/6731
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/551/fTUizV.png" group-title="RÁDIOS ONLINE",FLASH BACK
-http://appcliente.com:8880/bibi/1234/8665
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/551/fTUizV.png" group-title="RÁDIOS ONLINE",FOLK
-http://appcliente.com:8880/bibi/1234/8666
-#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/9b/9b3e5b15b5c1a7b9dda3e09ffae822ef.png" group-title="VARIEDADES",Food Network SD
-http://appcliente.com:8880/bibi/1234/6502
-#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/9b/9b3e5b15b5c1a7b9dda3e09ffae822ef.png" group-title="VARIEDADES",Food Network HD
-http://appcliente.com:8880/bibi/1234/6680
-#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/9b/9b3e5b15b5c1a7b9dda3e09ffae822ef.png" group-title="VARIEDADES",Food Network FHD
-http://appcliente.com:8880/bibi/1234/6732
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/551/fTUizV.png" group-title="RÁDIOS ONLINE",FORRÓ
-http://appcliente.com:8880/bibi/1234/8667
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/8682/VVIbON.png" group-title="FILMES & SÉRIES",FOX SD
-http://appcliente.com:8880/bibi/1234/6566
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/8682/VVIbON.png" group-title="FILMES & SÉRIES",FOX HD
-http://appcliente.com:8880/bibi/1234/6612
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/8682/VVIbON.png" group-title="FILMES & SÉRIES",FOX FHD
-http://appcliente.com:8880/bibi/1234/6733
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/9096/W3MZSY.png" group-title="VARIEDADES",FOX Life SD
-http://appcliente.com:8880/bibi/1234/6503
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/9096/W3MZSY.png" group-title="VARIEDADES",FOX Life HD
-http://appcliente.com:8880/bibi/1234/6613
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/9096/W3MZSY.png" group-title="VARIEDADES",FOX Life FHD
-http://appcliente.com:8880/bibi/1234/6734
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/AeOrD4.png" group-title="FILMES & SÉRIES",Fox Premium 1 SD
-http://appcliente.com:8880/bibi/1234/6504
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/AeOrD4.png" group-title="FILMES & SÉRIES",Fox Premium 1 HD
-http://appcliente.com:8880/bibi/1234/6614
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/AeOrD4.png" group-title="FILMES & SÉRIES",Fox Premium 1 FHD
-http://appcliente.com:8880/bibi/1234/6735
-#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/foxpremium2.png" group-title="FILMES & SÉRIES",Fox Premium 2 SD
-http://appcliente.com:8880/bibi/1234/6567
-#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/foxpremium2.png" group-title="FILMES & SÉRIES",Fox Premium 2 HD
-http://appcliente.com:8880/bibi/1234/6615
-#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/foxpremium2.png" group-title="FILMES & SÉRIES",Fox Premium 2 FHD
-http://appcliente.com:8880/bibi/1234/6736
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/8dyd5G.png" group-title="ESPORTES",Fox Sports SD
-http://appcliente.com:8880/bibi/1234/6506
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/8dyd5G.png" group-title="ESPORTES",Fox Sports HD
-http://appcliente.com:8880/bibi/1234/6617
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/8dyd5G.png" group-title="ESPORTES",Fox Sports FHD
-http://appcliente.com:8880/bibi/1234/6738
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/7/7e/Fox_Sports_2_logo.png/revision/latest?cb=20150605231953" group-title="ESPORTES",Fox Sports 2 SD
-http://appcliente.com:8880/bibi/1234/6505
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/7/7e/Fox_Sports_2_logo.png/revision/latest?cb=20150605231953" group-title="ESPORTES",Fox Sports 2 HD
-http://appcliente.com:8880/bibi/1234/6616
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/7/7e/Fox_Sports_2_logo.png/revision/latest?cb=20150605231953" group-title="ESPORTES",Fox Sports 2 FHD
-http://appcliente.com:8880/bibi/1234/6737
-#EXTINF:-1 tvg-logo="http://imageshack.com/a/img924/977/t25bDw.png" group-title="INTERNACIONAIS",France 24 (França)
-http://appcliente.com:8880/bibi/1234/8047
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/551/fTUizV.png" group-title="RÁDIOS ONLINE",FUNK
-http://appcliente.com:8880/bibi/1234/8668
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/551/fTUizV.png" group-title="RÁDIOS ONLINE",FUNK MELODY
-http://appcliente.com:8880/bibi/1234/8669
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/O6JzS4.png" group-title="DOCUMENTÁRIOS",Futura SD
-http://appcliente.com:8880/bibi/1234/6507
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/O6JzS4.png" group-title="DOCUMENTÁRIOS",Futura HD
-http://appcliente.com:8880/bibi/1234/6618
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/O6JzS4.png" group-title="DOCUMENTÁRIOS",Futura FHD
-http://appcliente.com:8880/bibi/1234/6739
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Xcy3z4Yo0QQ/WW5sdRDPxII/AAAAAAAAARA/_04-pfczsDg9dVS9Amn69TUEwQyrINOwQCEwYBhgL/s1600/fx%2Bchannel.png" group-title="FILMES & SÉRIES",FX SD
-http://appcliente.com:8880/bibi/1234/6508
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Xcy3z4Yo0QQ/WW5sdRDPxII/AAAAAAAAARA/_04-pfczsDg9dVS9Amn69TUEwQyrINOwQCEwYBhgL/s1600/fx%2Bchannel.png" group-title="FILMES & SÉRIES",FX HD
-http://appcliente.com:8880/bibi/1234/6619
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Xcy3z4Yo0QQ/WW5sdRDPxII/AAAAAAAAARA/_04-pfczsDg9dVS9Amn69TUEwQyrINOwQCEwYBhgL/s1600/fx%2Bchannel.png" group-title="FILMES & SÉRIES",FX FHD
-http://appcliente.com:8880/bibi/1234/6740
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/923/0zjxAU.png" group-title="CANAIS ABERTOS",Globo AL TV Gazeta SD
-http://appcliente.com:8880/bibi/1234/16719
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/923/0zjxAU.png" group-title="CANAIS ABERTOS",Globo AL TV Gazeta HD
-http://appcliente.com:8880/bibi/1234/16718
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/923/0zjxAU.png" group-title="CANAIS ABERTOS",Globo AL TV Gazeta FHD
-http://appcliente.com:8880/bibi/1234/16716
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/Wu3EAq.png" group-title="CANAIS ABERTOS",Globo AM TV Amazônia SD
-http://appcliente.com:8880/bibi/1234/7769
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/Wu3EAq.png" group-title="CANAIS ABERTOS",Globo AM TV Amazônia HD
-http://appcliente.com:8880/bibi/1234/17659
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/Wu3EAq.png" group-title="CANAIS ABERTOS",Globo AM TV Amazônia FHD
-http://appcliente.com:8880/bibi/1234/17660
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/dfq9HH.png" group-title="CANAIS ABERTOS",Globo BA Rede Bahia SD
-http://appcliente.com:8880/bibi/1234/7770
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/dfq9HH.png" group-title="CANAIS ABERTOS",Globo BA Rede Bahia HD
-http://appcliente.com:8880/bibi/1234/23324
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/dfq9HH.png" group-title="CANAIS ABERTOS",Globo BA Rede Bahia FHD
-http://appcliente.com:8880/bibi/1234/23323
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/dfq9HH.png" group-title="CANAIS ABERTOS",Globo BA TV Santa Cruz SD
-http://appcliente.com:8880/bibi/1234/23339
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/dfq9HH.png" group-title="CANAIS ABERTOS",Globo BA TV Santa Cruz HD
-http://appcliente.com:8880/bibi/1234/23338
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/dfq9HH.png" group-title="CANAIS ABERTOS",Globo BA TV Santa Cruz FHD
-http://appcliente.com:8880/bibi/1234/23337
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/dfq9HH.png" group-title="CANAIS ABERTOS",Globo BA TV Subae SD
-http://appcliente.com:8880/bibi/1234/23342
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/dfq9HH.png" group-title="CANAIS ABERTOS",Globo BA TV Subae HD
-http://appcliente.com:8880/bibi/1234/23341
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/dfq9HH.png" group-title="CANAIS ABERTOS",Globo BA TV Subae FHD
-http://appcliente.com:8880/bibi/1234/23340
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/dfq9HH.png" group-title="CANAIS ABERTOS",Globo BA TV Sudoeste SD
-http://appcliente.com:8880/bibi/1234/23345
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/dfq9HH.png" group-title="CANAIS ABERTOS",Globo BA TV Sudoeste HD
-http://appcliente.com:8880/bibi/1234/23344
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/dfq9HH.png" group-title="CANAIS ABERTOS",Globo BA TV Sudoeste FHD
-http://appcliente.com:8880/bibi/1234/23343
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/ufRuqI.png" group-title="CANAIS ABERTOS",Globo CE TV Verdes Mares SD
-http://appcliente.com:8880/bibi/1234/16731
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/ufRuqI.png" group-title="CANAIS ABERTOS",Globo CE TV Verdes Mares HD
-http://appcliente.com:8880/bibi/1234/16730
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/ufRuqI.png" group-title="CANAIS ABERTOS",Globo CE TV Verdes Mares FHD
-http://appcliente.com:8880/bibi/1234/16728
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/YcxtF8.png" group-title="CANAIS ABERTOS",Globo DF Brasilia SD
-http://appcliente.com:8880/bibi/1234/7771
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/YcxtF8.png" group-title="CANAIS ABERTOS",Globo DF Brasilia HD
-http://appcliente.com:8880/bibi/1234/16710
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/YcxtF8.png" group-title="CANAIS ABERTOS",Globo DF Brasilia FHD
-http://appcliente.com:8880/bibi/1234/16708
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/921/VeYX39.png" group-title="CANAIS ABERTOS",Globo ES TV Gazeta Sul SD
-http://appcliente.com:8880/bibi/1234/17320
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/921/VeYX39.png" group-title="CANAIS ABERTOS",Globo ES TV Gazeta Sul HD
-http://appcliente.com:8880/bibi/1234/6813
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/921/VeYX39.png" group-title="CANAIS ABERTOS",Globo ES TV Gazeta Sul FHD
-http://appcliente.com:8880/bibi/1234/17321
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/921/VeYX39.png" group-title="CANAIS ABERTOS",Globo ES TV Gazeta Vitoria SD
-http://appcliente.com:8880/bibi/1234/7775
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/921/VeYX39.png" group-title="CANAIS ABERTOS",Globo ES TV Gazeta Vitoria HD
-http://appcliente.com:8880/bibi/1234/16722
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/921/VeYX39.png" group-title="CANAIS ABERTOS",Globo ES TV Gazeta Vitoria FHD
-http://appcliente.com:8880/bibi/1234/16720
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/mzZFsT.png" group-title="CANAIS ABERTOS",Globo GO TV Anhanguera SD
-http://appcliente.com:8880/bibi/1234/16703
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/mzZFsT.png" group-title="CANAIS ABERTOS",Globo GO TV Anhanguera HD
-http://appcliente.com:8880/bibi/1234/16702
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/mzZFsT.png" group-title="CANAIS ABERTOS",Globo GO TV Anhanguera FHD
-http://appcliente.com:8880/bibi/1234/16700
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/JQAS5A.png" group-title="CANAIS ABERTOS",Globo MA TV Mirante Sao Luis SD
-http://appcliente.com:8880/bibi/1234/17322
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/JQAS5A.png" group-title="CANAIS ABERTOS",Globo MA TV Mirante Sao Luis HD
-http://appcliente.com:8880/bibi/1234/17323
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/JQAS5A.png" group-title="CANAIS ABERTOS",Globo MA TV Mirante Sao Luis FHD
-http://appcliente.com:8880/bibi/1234/17324
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/miLPPh.png" group-title="CANAIS ABERTOS",Globo MG Belo Horizonte SD
-http://appcliente.com:8880/bibi/1234/16707
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/miLPPh.png" group-title="CANAIS ABERTOS",Globo MG Belo Horizonte HD
-http://appcliente.com:8880/bibi/1234/16706
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/miLPPh.png" group-title="CANAIS ABERTOS",Globo MG Belo Horizonte FHD
-http://appcliente.com:8880/bibi/1234/16704
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/miLPPh.png" group-title="CANAIS ABERTOS",Globo MG BH
-http://appcliente.com:8880/bibi/1234/7777
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/miLPPh.png" group-title="CANAIS ABERTOS",Globo MG EPTV Sul de Minas SD
-http://appcliente.com:8880/bibi/1234/23305
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/miLPPh.png" group-title="CANAIS ABERTOS",Globo MG EPTV Sul de Minas HD
-http://appcliente.com:8880/bibi/1234/23304
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/miLPPh.png" group-title="CANAIS ABERTOS",Globo MG EPTV Sul de Minas FHD
-http://appcliente.com:8880/bibi/1234/23303
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img924/8448/miLPPh.png" group-title="CANAIS ABERTOS",Globo MG Integração JF HD
-http://appcliente.com:8880/bibi/1234/6819
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/miLPPh.png" group-title="CANAIS ABERTOS",Globo MG Inter TV dos Vales SD
-http://appcliente.com:8880/bibi/1234/23308
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/miLPPh.png" group-title="CANAIS ABERTOS",Globo MG Inter TV dos Vales HD
-http://appcliente.com:8880/bibi/1234/23307
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/miLPPh.png" group-title="CANAIS ABERTOS",Globo MG Inter TV dos Vales FHD
-http://appcliente.com:8880/bibi/1234/23306
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/miLPPh.png" group-title="CANAIS ABERTOS",Globo MG Inter TV Grande Minas SD
-http://appcliente.com:8880/bibi/1234/23311
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/miLPPh.png" group-title="CANAIS ABERTOS",Globo MG Inter TV Grande Minas HD
-http://appcliente.com:8880/bibi/1234/23310
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/miLPPh.png" group-title="CANAIS ABERTOS",Globo MG Inter TV Grande Minas FHD
-http://appcliente.com:8880/bibi/1234/23309
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/miLPPh.png" group-title="CANAIS ABERTOS",Globo MG TV Integracao Araxa SD
-http://appcliente.com:8880/bibi/1234/23331
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/miLPPh.png" group-title="CANAIS ABERTOS",Globo MG TV Integracao Araxa HD
-http://appcliente.com:8880/bibi/1234/23330
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/miLPPh.png" group-title="CANAIS ABERTOS",Globo MG TV Integracao Araxa FHD
-http://appcliente.com:8880/bibi/1234/23329
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/miLPPh.png" group-title="CANAIS ABERTOS",Globo MG TV Integracao Juiz de Fora SD
-http://appcliente.com:8880/bibi/1234/23334
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/miLPPh.png" group-title="CANAIS ABERTOS",Globo MG TV Integracao Juiz de Fora HD
-http://appcliente.com:8880/bibi/1234/23333
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/miLPPh.png" group-title="CANAIS ABERTOS",Globo MG TV Integracao Juiz de Fora FHD
-http://appcliente.com:8880/bibi/1234/23332
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/miLPPh.png" group-title="CANAIS ABERTOS",Globo MG TV Minas HD
-http://appcliente.com:8880/bibi/1234/7778
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/921/kUcrLJ.png" group-title="CANAIS ABERTOS",Globo MS TV Morena SD
-http://appcliente.com:8880/bibi/1234/23336
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/921/kUcrLJ.png" group-title="CANAIS ABERTOS",Globo MS TV Morena HD
-http://appcliente.com:8880/bibi/1234/6817
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/921/kUcrLJ.png" group-title="CANAIS ABERTOS",Globo MS TV Morena FHD
-http://appcliente.com:8880/bibi/1234/23335
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/921/FPqZh9.png" group-title="CANAIS ABERTOS",Globo MT TV Centro América SD
-http://appcliente.com:8880/bibi/1234/7772
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/921/FPqZh9.png" group-title="CANAIS ABERTOS",Globo MT TV Centro America HD
-http://appcliente.com:8880/bibi/1234/23328
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/921/FPqZh9.png" group-title="CANAIS ABERTOS",Globo MT TV Centro America FHD
-http://appcliente.com:8880/bibi/1234/23327
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/8852/3gTqnG.png" group-title="CANAIS ABERTOS",Globo NE Nordeste SD
-http://appcliente.com:8880/bibi/1234/6820
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/8852/3gTqnG.png" group-title="CANAIS ABERTOS",Globo NE Nordeste HD
-http://appcliente.com:8880/bibi/1234/17311
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/8852/3gTqnG.png" group-title="CANAIS ABERTOS",Globo NE Nordeste FHD
-http://appcliente.com:8880/bibi/1234/17312
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/1280x1024q90/921/gIgONl.png" group-title="JORNALISMO",Globo News SD
-http://appcliente.com:8880/bibi/1234/6509
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/1280x1024q90/921/gIgONl.png" group-title="JORNALISMO",Globo News HD
-http://appcliente.com:8880/bibi/1234/6620
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/1280x1024q90/921/gIgONl.png" group-title="JORNALISMO",Globo News FHD
-http://appcliente.com:8880/bibi/1234/6741
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/FHlB5D.png" group-title="CANAIS ABERTOS",Globo PA TV Liberal Belém SD
-http://appcliente.com:8880/bibi/1234/6815
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/FHlB5D.png" group-title="CANAIS ABERTOS",Globo PA TV Liberal Belém HD
-http://appcliente.com:8880/bibi/1234/17655
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/FHlB5D.png" group-title="CANAIS ABERTOS",Globo PA TV Liberal Belém FHD
-http://appcliente.com:8880/bibi/1234/17656
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/RGoDEV.png" group-title="CANAIS ABERTOS",Globo PB TV Cabo Branco SD
-http://appcliente.com:8880/bibi/1234/17663
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/RGoDEV.png" group-title="CANAIS ABERTOS",Globo PB TV Cabo Branco HD
-http://appcliente.com:8880/bibi/1234/17662
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/RGoDEV.png" group-title="CANAIS ABERTOS",Globo PB TV Cabo Branco FHD
-http://appcliente.com:8880/bibi/1234/17661
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/sVwXWJ.png" group-title="CANAIS ABERTOS",Globo PI Rede Clube SD
-http://appcliente.com:8880/bibi/1234/17317
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/sVwXWJ.png" group-title="CANAIS ABERTOS",Globo PI Rede Clube HD
-http://appcliente.com:8880/bibi/1234/17318
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/sVwXWJ.png" group-title="CANAIS ABERTOS",Globo PI Rede Clube FHD
-http://appcliente.com:8880/bibi/1234/17319
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/ftKuyM.png" group-title="CANAIS ABERTOS",Globo PR RPC SD
-http://appcliente.com:8880/bibi/1234/6827
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/ftKuyM.png" group-title="CANAIS ABERTOS",Globo PR RPC HD
-http://appcliente.com:8880/bibi/1234/6825
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/ftKuyM.png" group-title="CANAIS ABERTOS",Globo PR RPC FHD
-http://appcliente.com:8880/bibi/1234/6822
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/ftKuyM.png" group-title="CANAIS ABERTOS",Globo PR RPC Paranavai SD
-http://appcliente.com:8880/bibi/1234/23348
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/ftKuyM.png" group-title="CANAIS ABERTOS",Globo PR RPC Paranavai HD
-http://appcliente.com:8880/bibi/1234/23347
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/ftKuyM.png" group-title="CANAIS ABERTOS",Globo PR RPC Paranavai FHD
-http://appcliente.com:8880/bibi/1234/23346
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/ftKuyM.png" group-title="CANAIS ABERTOS",Globo PR RPC TV Foz do Iguacu SD
-http://appcliente.com:8880/bibi/1234/23351
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/ftKuyM.png" group-title="CANAIS ABERTOS",Globo PR RPC TV Foz do Iguacu HD
-http://appcliente.com:8880/bibi/1234/23350
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/ftKuyM.png" group-title="CANAIS ABERTOS",Globo PR RPC TV Foz do Iguacu FHD
-http://appcliente.com:8880/bibi/1234/23349
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/ftKuyM.png" group-title="CANAIS ABERTOS",Globo PR RPC TV Maringa SD
-http://appcliente.com:8880/bibi/1234/23354
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/ftKuyM.png" group-title="CANAIS ABERTOS",Globo PR RPC TV Maringa HD
-http://appcliente.com:8880/bibi/1234/23353
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/ftKuyM.png" group-title="CANAIS ABERTOS",Globo PR RPC TV Maringa FHD
-http://appcliente.com:8880/bibi/1234/23352
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/ftKuyM.png" group-title="CANAIS ABERTOS",Globo PR RPC TV Ponta Grossa SD
-http://appcliente.com:8880/bibi/1234/23326
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/ftKuyM.png" group-title="CANAIS ABERTOS",Globo PR RPC TV Ponta Grossa HD
-http://appcliente.com:8880/bibi/1234/23325
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/ftKuyM.png" group-title="CANAIS ABERTOS",Globo PR RPC TV Ponta Grossa FHD
-http://appcliente.com:8880/bibi/1234/23302
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/1107/DR9eNF.png" group-title="CANAIS ABERTOS",Globo RJ Capital SD
-http://appcliente.com:8880/bibi/1234/7794
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/1107/DR9eNF.png" group-title="CANAIS ABERTOS",Globo RJ Capital HD
-http://appcliente.com:8880/bibi/1234/16714
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/1107/DR9eNF.png" group-title="CANAIS ABERTOS",Globo RJ Capital FHD
-http://appcliente.com:8880/bibi/1234/6837
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/1107/DR9eNF.png" group-title="CANAIS ABERTOS",Globo RJ Inter TV Alto Litoral SD
-http://appcliente.com:8880/bibi/1234/17308
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/1107/DR9eNF.png" group-title="CANAIS ABERTOS",Globo RJ Inter TV Alto Litoral HD
-http://appcliente.com:8880/bibi/1234/17309
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/1107/DR9eNF.png" group-title="CANAIS ABERTOS",Globo RJ Inter TV Alto Litoral FHD
-http://appcliente.com:8880/bibi/1234/17310
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/miLPPh.png" group-title="CANAIS ABERTOS",Globo RJ Inter TV Serra Mar SD
-http://appcliente.com:8880/bibi/1234/23314
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/miLPPh.png" group-title="CANAIS ABERTOS",Globo RJ Inter TV Serra Mar HD
-http://appcliente.com:8880/bibi/1234/23313
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/miLPPh.png" group-title="CANAIS ABERTOS",Globo RJ Inter TV Serra Mar FHD
-http://appcliente.com:8880/bibi/1234/23312
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/U2phDV.png" group-title="CANAIS ABERTOS",Globo RJ TV Rio Sul SD
-http://appcliente.com:8880/bibi/1234/6826
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/U2phDV.png" group-title="CANAIS ABERTOS",Globo RJ TV Rio Sul HD
-http://appcliente.com:8880/bibi/1234/6823
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/U2phDV.png" group-title="CANAIS ABERTOS",Globo RJ TV Rio Sul FHD
-http://appcliente.com:8880/bibi/1234/6824
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/medJy3.png" group-title="CANAIS ABERTOS",Globo RN Inter TV Cabugi SD
-http://appcliente.com:8880/bibi/1234/7776
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/medJy3.png" group-title="CANAIS ABERTOS",Globo RN Inter TV Cabugi HD
-http://appcliente.com:8880/bibi/1234/17657
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/medJy3.png" group-title="CANAIS ABERTOS",Globo RN Inter TV Cabugi FHD
-http://appcliente.com:8880/bibi/1234/17658
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/rocK4p.png" group-title="CANAIS ABERTOS",Globo RS RBS TV Caxias do Sul SD
-http://appcliente.com:8880/bibi/1234/23322
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/rocK4p.png" group-title="CANAIS ABERTOS",Globo RS RBS TV Caxias do Sul HD
-http://appcliente.com:8880/bibi/1234/23321
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/rocK4p.png" group-title="CANAIS ABERTOS",Globo RS RBS TV Caxias do Sul FHD
-http://appcliente.com:8880/bibi/1234/23320
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/rocK4p.png" group-title="CANAIS ABERTOS",Globo RS RBS TV Porto Alegre SD
-http://appcliente.com:8880/bibi/1234/6814
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/rocK4p.png" group-title="CANAIS ABERTOS",Globo RS RBS TV Porto Alegre HD
-http://appcliente.com:8880/bibi/1234/17315
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/rocK4p.png" group-title="CANAIS ABERTOS",Globo RS RBS TV Porto Alegre FHD
-http://appcliente.com:8880/bibi/1234/17316
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/AvHrNu.png" group-title="CANAIS ABERTOS",Globo SC NSC TV Blumenau SD
-http://appcliente.com:8880/bibi/1234/23316
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/AvHrNu.png" group-title="CANAIS ABERTOS",Globo SC NSC TV Blumenau HD
-http://appcliente.com:8880/bibi/1234/6833
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/AvHrNu.png" group-title="CANAIS ABERTOS",Globo SC NSC TV Blumenau FHD
-http://appcliente.com:8880/bibi/1234/23315
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/AvHrNu.png" group-title="CANAIS ABERTOS",Globo SC NSC TV Chapeco SD
-http://appcliente.com:8880/bibi/1234/23319
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/AvHrNu.png" group-title="CANAIS ABERTOS",Globo SC NSC TV Chapeco HD
-http://appcliente.com:8880/bibi/1234/23318
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/AvHrNu.png" group-title="CANAIS ABERTOS",Globo SC NSC TV Chapeco FHD
-http://appcliente.com:8880/bibi/1234/23317
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/AvHrNu.png" group-title="CANAIS ABERTOS",Globo SC NSC TV Florianópolis SD
-http://appcliente.com:8880/bibi/1234/17313
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/AvHrNu.png" group-title="CANAIS ABERTOS",Globo SC NSC TV Florianópolis HD
-http://appcliente.com:8880/bibi/1234/6821
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/AvHrNu.png" group-title="CANAIS ABERTOS",Globo SC NSC TV Florianópolis FHD
-http://appcliente.com:8880/bibi/1234/17314
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/924/QBk4PB.png" group-title="CANAIS ABERTOS",Globo SE Tv Sergipe SD
-http://appcliente.com:8880/bibi/1234/17325
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/924/QBk4PB.png" group-title="CANAIS ABERTOS",Globo SE Tv Sergipe HD
-http://appcliente.com:8880/bibi/1234/17326
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/924/QBk4PB.png" group-title="CANAIS ABERTOS",Globo SE Tv Sergipe FHD
-http://appcliente.com:8880/bibi/1234/17327
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/hQXD0I.png" group-title="CANAIS ABERTOS",Globo SP Capital SD
-http://appcliente.com:8880/bibi/1234/7816
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/hQXD0I.png" group-title="CANAIS ABERTOS",Globo SP Capital HD
-http://appcliente.com:8880/bibi/1234/11937
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/hQXD0I.png" group-title="CANAIS ABERTOS",Globo SP Capital FHD
-http://appcliente.com:8880/bibi/1234/11936
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/921/pqbBL4.png" group-title="CANAIS ABERTOS",Globo SP EPTV Campinas SD
-http://appcliente.com:8880/bibi/1234/7773
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/921/pqbBL4.png" group-title="CANAIS ABERTOS",Globo SP EPTV Campinas HD
-http://appcliente.com:8880/bibi/1234/17745
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/921/pqbBL4.png" group-title="CANAIS ABERTOS",Globo SP EPTV Campinas FHD
-http://appcliente.com:8880/bibi/1234/17746
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/921/CJWrxm.png" group-title="CANAIS ABERTOS",Globo SP EPTV Ribeirão Preto SD
-http://appcliente.com:8880/bibi/1234/7774
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/hQXD0I.png" group-title="CANAIS ABERTOS",Globo SP TV Tribuna Santos SD
-http://appcliente.com:8880/bibi/1234/7815
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/hQXD0I.png" group-title="CANAIS ABERTOS",Globo SP TV Vanguarda São José dos Campos SD
-http://appcliente.com:8880/bibi/1234/7818
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/L3nMY3.png" group-title="ESPORTES",Globoesporte.Com
-http://appcliente.com:8880/bibi/1234/9736
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/telepedia/images/0/00/Gloob_logo.png/revision/latest?cb=20131018185345&path-prefix=pt-br" group-title="INFANTIL",Gloob SD
-http://appcliente.com:8880/bibi/1234/6510
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/telepedia/images/0/00/Gloob_logo.png/revision/latest?cb=20131018185345&path-prefix=pt-br" group-title="INFANTIL",Gloob HD
-http://appcliente.com:8880/bibi/1234/6681
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/telepedia/images/0/00/Gloob_logo.png/revision/latest?cb=20131018185345&path-prefix=pt-br" group-title="INFANTIL",Gloob FHD
-http://appcliente.com:8880/bibi/1234/6742
-#EXTINF:-1 tvg-logo="https://s2.glbimg.com/LwgafYuhmRPqOZMi1XCehoo-g0U=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/7a/6f/74e4a5f0ba3ea11e0b9715260014.png" group-title="INFANTIL",Gloobinho SD
-http://appcliente.com:8880/bibi/1234/7912
-#EXTINF:-1 tvg-logo="https://s2.glbimg.com/LwgafYuhmRPqOZMi1XCehoo-g0U=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/7a/6f/74e4a5f0ba3ea11e0b9715260014.png" group-title="INFANTIL",Gloobinho HD
-http://appcliente.com:8880/bibi/1234/7911
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/u02Iqb.png" group-title="VARIEDADES",GNT SD
-http://appcliente.com:8880/bibi/1234/6511
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/u02Iqb.png" group-title="VARIEDADES",GNT HD
-http://appcliente.com:8880/bibi/1234/6621
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/u02Iqb.png" group-title="VARIEDADES",GNT FHD
-http://appcliente.com:8880/bibi/1234/6743
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/551/fTUizV.png" group-title="RÁDIOS ONLINE",GOSPEL
-http://appcliente.com:8880/bibi/1234/8670
-#EXTINF:-1 tvg-logo="https://cdn.canaismax.com/assistir-hbo-ao-vivo-24-horas-online-gratis/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvMWE3NmQzZjliNDBhY2VhYjAwYTdlYTY1ZDRmODU2ODcucG5n" group-title="FILMES & SÉRIES",HBO SD
-http://appcliente.com:8880/bibi/1234/6514
-#EXTINF:-1 tvg-logo="https://cdn.canaismax.com/assistir-hbo-ao-vivo-24-horas-online-gratis/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvMWE3NmQzZjliNDBhY2VhYjAwYTdlYTY1ZDRmODU2ODcucG5n" group-title="FILMES & SÉRIES",HBO HD
-http://appcliente.com:8880/bibi/1234/6623
-#EXTINF:-1 tvg-logo="https://cdn.canaismax.com/assistir-hbo-ao-vivo-24-horas-online-gratis/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvMWE3NmQzZjliNDBhY2VhYjAwYTdlYTY1ZDRmODU2ODcucG5n" group-title="FILMES & SÉRIES",HBO FHD
-http://appcliente.com:8880/bibi/1234/6745
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/9863/IY5zwM.png" group-title="FILMES & SÉRIES",HBO2 SD
-http://appcliente.com:8880/bibi/1234/6516
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/9863/IY5zwM.png" group-title="FILMES & SÉRIES",HBO2 HD
-http://appcliente.com:8880/bibi/1234/6626
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/9863/IY5zwM.png" group-title="FILMES & SÉRIES",HBO2 FHD
-http://appcliente.com:8880/bibi/1234/6748
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/3IBU8y.png" group-title="FILMES & SÉRIES",HBO + SD
-http://appcliente.com:8880/bibi/1234/6513
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/3IBU8y.png" group-title="FILMES & SÉRIES",HBO + HD
-http://appcliente.com:8880/bibi/1234/6624
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/3IBU8y.png" group-title="FILMES & SÉRIES",HBO + FHD
-http://appcliente.com:8880/bibi/1234/10467
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img924/8617/2gpz5i.png" group-title="FILMES & SÉRIES",HBO Family SD
-http://appcliente.com:8880/bibi/1234/6512
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img924/8617/2gpz5i.png" group-title="FILMES & SÉRIES",HBO Family HD
-http://appcliente.com:8880/bibi/1234/6622
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img924/8617/2gpz5i.png" group-title="FILMES & SÉRIES",HBO Family FHD
-http://appcliente.com:8880/bibi/1234/6744
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/924/AQoYT1.png" group-title="FILMES & SÉRIES",HBO Mundi SD
-http://appcliente.com:8880/bibi/1234/6523
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/924/AQoYT1.png" group-title="FILMES & SÉRIES",HBO Mundi HD
-http://appcliente.com:8880/bibi/1234/6686
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/924/AQoYT1.png" group-title="FILMES & SÉRIES",HBO Mundi FHD
-http://appcliente.com:8880/bibi/1234/6756
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/zBI36X.png" group-title="FILMES & SÉRIES",HBO Pop SD
-http://appcliente.com:8880/bibi/1234/6524
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/zBI36X.png" group-title="FILMES & SÉRIES",HBO Pop HD
-http://appcliente.com:8880/bibi/1234/6630
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/zBI36X.png" group-title="FILMES & SÉRIES",HBO POP FHD
-http://appcliente.com:8880/bibi/1234/6758
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img924/9891/ksghFG.png" group-title="FILMES & SÉRIES",HBO Signature SD
-http://appcliente.com:8880/bibi/1234/6515
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img924/9891/ksghFG.png" group-title="FILMES & SÉRIES",HBO Signature HD
-http://appcliente.com:8880/bibi/1234/6625
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img924/9891/ksghFG.png" group-title="FILMES & SÉRIES",HBO Signature FHD
-http://appcliente.com:8880/bibi/1234/6747
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/dack3P.png" group-title="FILMES & SÉRIES",HBO Xtreme SD
-http://appcliente.com:8880/bibi/1234/6522
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/dack3P.png" group-title="FILMES & SÉRIES",HBO Xtreme HD
-http://appcliente.com:8880/bibi/1234/6687
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/dack3P.png" group-title="FILMES & SÉRIES",HBO Xtreme FHD
-http://appcliente.com:8880/bibi/1234/6757
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/551/fTUizV.png" group-title="RÁDIOS ONLINE",HEAVY METAL
-http://appcliente.com:8880/bibi/1234/8671
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/yLVo0Y.png" group-title="VARIEDADES",HGTV SD
-http://appcliente.com:8880/bibi/1234/6517
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/yLVo0Y.png" group-title="VARIEDADES",HGTV HD
-http://appcliente.com:8880/bibi/1234/6682
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/yLVo0Y.png" group-title="VARIEDADES",HGTV FHD
-http://appcliente.com:8880/bibi/1234/6807
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/551/fTUizV.png" group-title="RÁDIOS ONLINE",HIP HOP 
-http://appcliente.com:8880/bibi/1234/8672
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/5QbC6N.png" group-title="DOCUMENTÁRIOS",History Channel SD
-http://appcliente.com:8880/bibi/1234/6519
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/5QbC6N.png" group-title="DOCUMENTÁRIOS",History Channel HD
-http://appcliente.com:8880/bibi/1234/6627
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/5QbC6N.png" group-title="DOCUMENTÁRIOS",History Channel FHD
-http://appcliente.com:8880/bibi/1234/6750
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/923/JKU0Ir.png" group-title="DOCUMENTÁRIOS",H2 SD
-http://appcliente.com:8880/bibi/1234/6518
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/923/JKU0Ir.png" group-title="DOCUMENTÁRIOS",H2 HD
-http://appcliente.com:8880/bibi/1234/6683
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/923/JKU0Ir.png" group-title="DOCUMENTÁRIOS",H2 FHD
-http://appcliente.com:8880/bibi/1234/6749
-#EXTINF:-1 tvg-logo="https://cdn.canaismax.com/assistir-investigacao-discovery-ao-vivo-discovery-id-gratis-online-24-horas/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvYzNlYzNhMzQ1MDViMzNhNjM0YTZiZWY2NTUwNjViOWMucG5n" group-title="DOCUMENTÁRIOS",ID - Investigation Discovery SD
-http://appcliente.com:8880/bibi/1234/6575
-#EXTINF:-1 tvg-logo="https://cdn.canaismax.com/assistir-investigacao-discovery-ao-vivo-discovery-id-gratis-online-24-horas/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvYzNlYzNhMzQ1MDViMzNhNjM0YTZiZWY2NTUwNjViOWMucG5n" group-title="DOCUMENTÁRIOS",ID - Investigation Discovery HD
-http://appcliente.com:8880/bibi/1234/6628
-#EXTINF:-1 tvg-logo="https://cdn.canaismax.com/assistir-investigacao-discovery-ao-vivo-discovery-id-gratis-online-24-horas/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvYzNlYzNhMzQ1MDViMzNhNjM0YTZiZWY2NTUwNjViOWMucG5n" group-title="DOCUMENTÁRIOS",ID - Investigation Discovery FHD
-http://appcliente.com:8880/bibi/1234/6751
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/551/fTUizV.png" group-title="RÁDIOS ONLINE",INFANTIL
-http://appcliente.com:8880/bibi/1234/8673
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/551/fTUizV.png" group-title="RÁDIOS ONLINE",INSTRUMENTAL
-http://appcliente.com:8880/bibi/1234/8674
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/551/fTUizV.png" group-title="RÁDIOS ONLINE",JAZZ
-http://appcliente.com:8880/bibi/1234/8675
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/551/fTUizV.png" group-title="RÁDIOS ONLINE",K-POP
-http://appcliente.com:8880/bibi/1234/8676
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/mgbnIL.png" group-title="ESPORTES",Kombat Sports (PT)
-http://appcliente.com:8880/bibi/1234/7898
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/supermarketsweep/images/b/b1/Logo-Lifetime-001.png/revision/latest?cb=20151229224122" group-title="VARIEDADES",Lifetime SD
-http://appcliente.com:8880/bibi/1234/6520
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/supermarketsweep/images/b/b1/Logo-Lifetime-001.png/revision/latest?cb=20151229224122" group-title="VARIEDADES",Lifetime HD
-http://appcliente.com:8880/bibi/1234/6684
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/supermarketsweep/images/b/b1/Logo-Lifetime-001.png/revision/latest?cb=20151229224122" group-title="VARIEDADES",Lifetime FHD
-http://appcliente.com:8880/bibi/1234/6752
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/dPmzol.png" group-title="DOCUMENTÁRIOS",Love Nature
-http://appcliente.com:8880/bibi/1234/22167
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/551/fTUizV.png" group-title="RÁDIOS ONLINE",LOVE SONGS
-http://appcliente.com:8880/bibi/1234/8677
-#EXTINF:-1 tvg-logo="https://s2.glbimg.com/uiEeBZJKeOneVk97k2Oo00zutxI=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/f1/9f/b246cd313d3bbf3d94cfc654a161.png" group-title="VARIEDADES",Mais Globosat SD
-http://appcliente.com:8880/bibi/1234/6521
-#EXTINF:-1 tvg-logo="https://s2.glbimg.com/uiEeBZJKeOneVk97k2Oo00zutxI=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/f1/9f/b246cd313d3bbf3d94cfc654a161.png" group-title="VARIEDADES",Mais Globosat HD
-http://appcliente.com:8880/bibi/1234/6685
-#EXTINF:-1 tvg-logo="https://s2.glbimg.com/uiEeBZJKeOneVk97k2Oo00zutxI=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/f1/9f/b246cd313d3bbf3d94cfc654a161.png" group-title="VARIEDADES",Mais Globosat FHD
-http://appcliente.com:8880/bibi/1234/6754
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/9138/z7mtU6.png" group-title="FILMES & SÉRIES",Megapix SD
-http://appcliente.com:8880/bibi/1234/6525
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/9138/z7mtU6.png" group-title="FILMES & SÉRIES",Megapix HD
-http://appcliente.com:8880/bibi/1234/6631
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/9138/z7mtU6.png" group-title="FILMES & SÉRIES",Megapix FHD
-http://appcliente.com:8880/bibi/1234/6759
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/551/fTUizV.png" group-title="RÁDIOS ONLINE",MPB 
-http://appcliente.com:8880/bibi/1234/8678
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/cC4RIF.png" group-title="MUSICA",MTV SD
-http://appcliente.com:8880/bibi/1234/6526
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/cC4RIF.png" group-title="MUSICA",MTV HD
-http://appcliente.com:8880/bibi/1234/6632
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/cC4RIF.png" group-title="MUSICA",MTV FHD
-http://appcliente.com:8880/bibi/1234/6760
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/338OeC.png" group-title="MUSICA",MTV LIVE SD
-http://appcliente.com:8880/bibi/1234/6564
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/338OeC.png" group-title="MUSICA",MTV LIVE HD
-http://appcliente.com:8880/bibi/1234/6633
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/338OeC.png" group-title="MUSICA",MTV LIVE FHD
-http://appcliente.com:8880/bibi/1234/6761
-#EXTINF:-1 tvg-logo="https://cdn.canaismax.com/assistir-multishow-ao-vivo-gratis-24-horas-online/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvMzM1NDM4OWVkZTc1OTBiNjliOTBmMjlhYTNiZjQ2NDcucG5n" group-title="VARIEDADES",Multishow SD
-http://appcliente.com:8880/bibi/1234/6527
-#EXTINF:-1 tvg-logo="https://cdn.canaismax.com/assistir-multishow-ao-vivo-gratis-24-horas-online/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvMzM1NDM4OWVkZTc1OTBiNjliOTBmMjlhYTNiZjQ2NDcucG5n" group-title="VARIEDADES",Multishow HD
-http://appcliente.com:8880/bibi/1234/6634
-#EXTINF:-1 tvg-logo="https://cdn.canaismax.com/assistir-multishow-ao-vivo-gratis-24-horas-online/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvMzM1NDM4OWVkZTc1OTBiNjliOTBmMjlhYTNiZjQ2NDcucG5n" group-title="VARIEDADES",Multishow FHD
-http://appcliente.com:8880/bibi/1234/6762
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img924/6991/yrTRb5.png" group-title="MUSICA",Music Box Brazil SD
-http://appcliente.com:8880/bibi/1234/6528
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img924/6991/yrTRb5.png" group-title="MUSICA",Music Box Brazil HD
-http://appcliente.com:8880/bibi/1234/6635
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img924/6991/yrTRb5.png" group-title="MUSICA",Music Box Brazil FHD
-http://appcliente.com:8880/bibi/1234/6763
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/canal-9-multivision.png" group-title="INTERNACIONAIS",Multivision (Argentina )
-http://appcliente.com:8880/bibi/1234/8048
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/tDJIma.png" group-title="INFANTIL",Nat Geo Kids SD
-http://appcliente.com:8880/bibi/1234/6529
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/tDJIma.png" group-title="INFANTIL",Nat Geo Kids HD
-http://appcliente.com:8880/bibi/1234/6636
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/tDJIma.png" group-title="INFANTIL",Nat Geo Kids FHD
-http://appcliente.com:8880/bibi/1234/6764
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/5083/JVsClY.png" group-title="DOCUMENTÁRIOS",NatGeo Wild SD
-http://appcliente.com:8880/bibi/1234/6576
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/5083/JVsClY.png" group-title="DOCUMENTÁRIOS",NatGeo Wild HD
-http://appcliente.com:8880/bibi/1234/6638
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/5083/JVsClY.png" group-title="DOCUMENTÁRIOS",NatGeo Wild FHD
-http://appcliente.com:8880/bibi/1234/6766
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/8668/2EW8eh.png" group-title="DOCUMENTÁRIOS",National Geographic SD
-http://appcliente.com:8880/bibi/1234/6530
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/8668/2EW8eh.png" group-title="DOCUMENTÁRIOS",National Geographic HD
-http://appcliente.com:8880/bibi/1234/6637
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/8668/2EW8eh.png" group-title="DOCUMENTÁRIOS",National Geographic FHD
-http://appcliente.com:8880/bibi/1234/6765
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/1930/0kKIRJ.png" group-title="INTERNACIONAIS",NHK WORLD (EUA)
-http://appcliente.com:8880/bibi/1234/6531
-#EXTINF:-1 tvg-logo="https://cdn.canaismax.com/assistir-nick-jr-ao-vivo-hd-24-horas-online-gratis/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvYmNmOGIyMzA3NTY0MmNlY2UyNGI5MWIyMjg3ZDUwMDYucG5n" group-title="INFANTIL",Nick Jr. SD
-http://appcliente.com:8880/bibi/1234/6577
-#EXTINF:-1 tvg-logo="https://cdn.canaismax.com/assistir-nick-jr-ao-vivo-hd-24-horas-online-gratis/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvYmNmOGIyMzA3NTY0MmNlY2UyNGI5MWIyMjg3ZDUwMDYucG5n" group-title="INFANTIL",Nick Jr. HD
-http://appcliente.com:8880/bibi/1234/6639
-#EXTINF:-1 tvg-logo="https://cdn.canaismax.com/assistir-nick-jr-ao-vivo-hd-24-horas-online-gratis/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvYmNmOGIyMzA3NTY0MmNlY2UyNGI5MWIyMjg3ZDUwMDYucG5n" group-title="INFANTIL",Nick Jr. FHD
-http://appcliente.com:8880/bibi/1234/6767
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Nickelodeon_Logo.svg/1280px-Nickelodeon_Logo.svg.png" group-title="INFANTIL",Nickelodeon SD
-http://appcliente.com:8880/bibi/1234/6532
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Nickelodeon_Logo.svg/1280px-Nickelodeon_Logo.svg.png" group-title="INFANTIL",Nickelodeon HD
-http://appcliente.com:8880/bibi/1234/6640
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Nickelodeon_Logo.svg/1280px-Nickelodeon_Logo.svg.png" group-title="INFANTIL",Nickelodeon FHD
-http://appcliente.com:8880/bibi/1234/6768
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo-0.png" group-title="VARIEDADES",OFF SD
-http://appcliente.com:8880/bibi/1234/6533
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo-0.png" group-title="VARIEDADES",OFF HD
-http://appcliente.com:8880/bibi/1234/6688
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo-0.png" group-title="VARIEDADES",OFF FHD
-http://appcliente.com:8880/bibi/1234/6769
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/551/fTUizV.png" group-title="RÁDIOS ONLINE",PAGODE
-http://appcliente.com:8880/bibi/1234/8679
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img924/9282/Qa7Xr5.png" group-title="FILMES & SÉRIES",Paramount SD
-http://appcliente.com:8880/bibi/1234/9283
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img924/9282/Qa7Xr5.png" group-title="FILMES & SÉRIES",Paramount HD
-http://appcliente.com:8880/bibi/1234/6641
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img924/9282/Qa7Xr5.png" group-title="FILMES & SÉRIES",Paramount FHD
-http://appcliente.com:8880/bibi/1234/6770
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/551/fTUizV.png" group-title="RÁDIOS ONLINE",POP
-http://appcliente.com:8880/bibi/1234/8680
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/551/fTUizV.png" group-title="RÁDIOS ONLINE",POP ROCK
-http://appcliente.com:8880/bibi/1234/8681
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/jbsMeh.png" group-title="ESPORTES",Premiere 2 SD
-http://appcliente.com:8880/bibi/1234/6535
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/jbsMeh.png" group-title="ESPORTES",Premiere 2 HD
-http://appcliente.com:8880/bibi/1234/6643
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/jbsMeh.png" group-title="ESPORTES",Premiere 2 FHD
-http://appcliente.com:8880/bibi/1234/6772
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/kNe8YK.png" group-title="ESPORTES",Premiere 3 SD
-http://appcliente.com:8880/bibi/1234/6536
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/kNe8YK.png" group-title="ESPORTES",Premiere 3 HD
-http://appcliente.com:8880/bibi/1234/6644
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/kNe8YK.png" group-title="ESPORTES",Premiere 3 FHD
-http://appcliente.com:8880/bibi/1234/6773
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/924/dxZgq6.png" group-title="ESPORTES",Premiere 4 SD
-http://appcliente.com:8880/bibi/1234/6537
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/924/dxZgq6.png" group-title="ESPORTES",Premiere 4 HD
-http://appcliente.com:8880/bibi/1234/6645
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/924/dxZgq6.png" group-title="ESPORTES",Premiere 4 FHD
-http://appcliente.com:8880/bibi/1234/6774
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/923/y7gI6S.png" group-title="ESPORTES",Premiere 5 SD
-http://appcliente.com:8880/bibi/1234/6538
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/923/y7gI6S.png" group-title="ESPORTES",Premiere 5 HD
-http://appcliente.com:8880/bibi/1234/6646
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/923/y7gI6S.png" group-title="ESPORTES",Premiere 5 FHD
-http://appcliente.com:8880/bibi/1234/6775
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/0RQIRP.png" group-title="ESPORTES",Premiere 6 SD
-http://appcliente.com:8880/bibi/1234/6578
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/0RQIRP.png" group-title="ESPORTES",Premiere 6 HD
-http://appcliente.com:8880/bibi/1234/6647
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/0RQIRP.png" group-title="ESPORTES",Premiere 6 FHD
-http://appcliente.com:8880/bibi/1234/6776
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/YJbbQ6.png" group-title="ESPORTES",Premiere 7 SD
-http://appcliente.com:8880/bibi/1234/6570
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/YJbbQ6.png" group-title="ESPORTES",Premiere 7 HD
-http://appcliente.com:8880/bibi/1234/6648
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/YJbbQ6.png" group-title="ESPORTES",Premiere 7 FHD
-http://appcliente.com:8880/bibi/1234/6777
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/UUQW0b.png" group-title="ESPORTES",Premiere Clubes SD
-http://appcliente.com:8880/live/bibi/1234/6539.m3u8
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/UUQW0b.png" group-title="ESPORTES",Premiere Clubes HD
-http://appcliente.com:8880/bibi/1234/6649
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/UUQW0b.png" group-title="ESPORTES",Premiere Clubes FHD
-http://appcliente.com:8880/live/bibi/1234/6778.m3u8
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/922/llUm4U.png" group-title="DOCUMENTÁRIOS",Prime Box Brazil SD
-http://appcliente.com:8880/bibi/1234/6540
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/922/llUm4U.png" group-title="DOCUMENTÁRIOS",Prime Box Brazil HD
-http://appcliente.com:8880/bibi/1234/6650
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/922/llUm4U.png" group-title="DOCUMENTÁRIOS",Prime Box Brazil FHD
-http://appcliente.com:8880/bibi/1234/6779
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/2859/AlwNV9.png" group-title="INTERNACIONAIS",RAI (Itália)
-http://appcliente.com:8880/bibi/1234/8049
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/6vIznf.png" group-title="INTERNACIONAIS",Rai News 24 (Itália)
-http://appcliente.com:8880/bibi/1234/17394
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/921/38DcVs.png" group-title="CANAIS ABERTOS",Record BA -  TV Itapoan HD
-http://appcliente.com:8880/bibi/1234/25649
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/921/38DcVs.png" group-title="CANAIS ABERTOS",Record BA - Tv Cabrália HD
-http://appcliente.com:8880/bibi/1234/7819
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/921/38DcVs.png" group-title="CANAIS ABERTOS",Record DF - HD
-http://appcliente.com:8880/bibi/1234/7821
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/921/38DcVs.png" group-title="CANAIS ABERTOS",Record ES - Tv Vitória HD
-http://appcliente.com:8880/bibi/1234/6828
-#EXTINF:-1 tvg-logo="https://cdn.canaismax.com/assistir-record-news-ao-vivo-gratis-24-horas/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvNzkwZDljN2MxODI2MDc0YWJhODQyZGYzMTMwYmU2MDQucG5n" group-title="JORNALISMO",Record News SD
-http://appcliente.com:8880/bibi/1234/7918
-#EXTINF:-1 tvg-logo="https://cdn.canaismax.com/assistir-record-news-ao-vivo-gratis-24-horas/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvNzkwZDljN2MxODI2MDc0YWJhODQyZGYzMTMwYmU2MDQucG5n" group-title="JORNALISMO",Record News HD
-http://appcliente.com:8880/bibi/1234/7919
-#EXTINF:-1 tvg-logo="https://cdn.canaismax.com/assistir-record-news-ao-vivo-gratis-24-horas/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvNzkwZDljN2MxODI2MDc0YWJhODQyZGYzMTMwYmU2MDQucG5n" group-title="JORNALISMO",Record News FHD
-http://appcliente.com:8880/bibi/1234/7920
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/921/38DcVs.png" group-title="CANAIS ABERTOS",Record PR - RIC Paraná SD
-http://appcliente.com:8880/bibi/1234/24606
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/921/38DcVs.png" group-title="CANAIS ABERTOS",Record PR - RIC Paraná HD
-http://appcliente.com:8880/bibi/1234/24607
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/921/38DcVs.png" group-title="CANAIS ABERTOS",Record PR - RIC Paraná FHD
-http://appcliente.com:8880/bibi/1234/24608
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/921/38DcVs.png" group-title="CANAIS ABERTOS",Record RJ HD
-http://appcliente.com:8880/bibi/1234/7823
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/921/38DcVs.png" group-title="CANAIS ABERTOS",Record SP 
-http://appcliente.com:8880/bibi/1234/17747
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/921/38DcVs.png" group-title="CANAIS ABERTOS",Record SP - Tv Litoral Vale HD
-http://appcliente.com:8880/bibi/1234/25650
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/921/38DcVs.png" group-title="CANAIS ABERTOS",Record SP - TV Interior HD
-http://appcliente.com:8880/bibi/1234/7820
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/922/RcZH7W.png" group-title="ESPORTES",Red Bull TV (EUA)
-http://appcliente.com:8880/bibi/1234/7900
-#EXTINF:-1 tvg-logo="http://www.imprensaemidia.com.br/wp-content/uploads/2018/04/LOGO-RBTV-Alta-resolu%C3%A7%C3%A3o.png" group-title="CANAIS ABERTOS",Rede Brasil SD
-http://appcliente.com:8880/bibi/1234/7825
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/pt/thumb/b/ba/LGT_Rede_Gospel.png/470px-LGT_Rede_Gospel.png" group-title="RELIGIOSOS",Rede Gospel
-http://appcliente.com:8880/bibi/1234/7936
-#EXTINF:-1 tvg-logo="https://i1.wp.com/www.pibcuritiba.org.br/wp-content/uploads/2016/07/rede-super-logo-tv.png?w=1080&ssl=1" group-title="RELIGIOSOS",Rede Super
-http://appcliente.com:8880/bibi/1234/7935
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/nhVvbA.png" group-title="RELIGIOSOS",Rede Vida SD
-http://appcliente.com:8880/bibi/1234/6541
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/nhVvbA.png" group-title="RELIGIOSOS",Rede Vida HD
-http://appcliente.com:8880/bibi/1234/6651
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/nhVvbA.png" group-title="RELIGIOSOS",Rede Vida FHD
-http://appcliente.com:8880/bibi/1234/6780
-#EXTINF:-1 tvg-logo="https://cdn.canaismax.com/assistir-redetv-ao-vivo-gratis-24-horas-online/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvNzRmYWMwMTI1MTNiZDRmMDAyZDgzZDFkMzY1YmRlMmMucG5n" group-title="CANAIS ABERTOS",RedeTV! SD
-http://appcliente.com:8880/bibi/1234/7826
-#EXTINF:-1 tvg-logo="https://cdn.canaismax.com/assistir-redetv-ao-vivo-gratis-24-horas-online/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvNzRmYWMwMTI1MTNiZDRmMDAyZDgzZDFkMzY1YmRlMmMucG5n" group-title="CANAIS ABERTOS",RedeTV! HD
-http://appcliente.com:8880/bibi/1234/7827
-#EXTINF:-1 tvg-logo="https://cdn.canaismax.com/assistir-redetv-ao-vivo-gratis-24-horas-online/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvNzRmYWMwMTI1MTNiZDRmMDAyZDgzZDFkMzY1YmRlMmMucG5n" group-title="CANAIS ABERTOS",RedeTV! FHD
-http://appcliente.com:8880/bibi/1234/24605
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/551/fTUizV.png" group-title="RÁDIOS ONLINE",REGGAE
-http://appcliente.com:8880/bibi/1234/8683
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/551/fTUizV.png" group-title="RÁDIOS ONLINE",RELAX MUSIC
-http://appcliente.com:8880/bibi/1234/8684
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/280x200q90/924/9e3iU3.png" group-title="MUSICA",Retro Music Television
-http://appcliente.com:8880/bibi/1234/11949
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/551/fTUizV.png" group-title="RÁDIOS ONLINE",ROCK ALTERNATIVO
-http://appcliente.com:8880/bibi/1234/8686
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/551/fTUizV.png" group-title="RÁDIOS ONLINE",ROCK ROLL
-http://appcliente.com:8880/bibi/1234/8687
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_de_RPC_2016.png" group-title="INTERNACIONAIS",RPC  (Paraguay)
-http://appcliente.com:8880/bibi/1234/8054
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png" group-title="INTERNACIONAIS",RT (Rússia)
-http://appcliente.com:8880/bibi/1234/8050
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/551/fTUizV.png" group-title="RÁDIOS ONLINE",SAMBA RAIZ
-http://appcliente.com:8880/bibi/1234/8688
-#EXTINF:-1 tvg-logo="http://imageshack.com/a/img922/3637/BijOM9.png" group-title="CANAIS ABERTOS",SBT - PR SD
-http://appcliente.com:8880/bibi/1234/6832
-#EXTINF:-1 tvg-logo="http://imageshack.com/a/img922/3637/BijOM9.png" group-title="CANAIS ABERTOS",SBT - PR HD
-http://appcliente.com:8880/bibi/1234/6831
-#EXTINF:-1 tvg-logo="http://imageshack.com/a/img922/3637/BijOM9.png" group-title="CANAIS ABERTOS",SBT - PR FHD
-http://appcliente.com:8880/bibi/1234/6830
-#EXTINF:-1 tvg-logo="http://imageshack.com/a/img922/3637/BijOM9.png" group-title="CANAIS ABERTOS",SBT - RJ SD
-http://appcliente.com:8880/bibi/1234/6838
-#EXTINF:-1 tvg-logo="http://imageshack.com/a/img922/3637/BijOM9.png" group-title="CANAIS ABERTOS",SBT - RJ HD
-http://appcliente.com:8880/bibi/1234/6694
-#EXTINF:-1 tvg-logo="http://imageshack.com/a/img922/3637/BijOM9.png" group-title="CANAIS ABERTOS",SBT - RJ FHD
-http://appcliente.com:8880/bibi/1234/6808
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/551/fTUizV.png" group-title="RÁDIOS ONLINE",SERTANEJO RAIZ
-http://appcliente.com:8880/bibi/1234/8689
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/551/fTUizV.png" group-title="RÁDIOS ONLINE",SERTANEJO UNIVERSITÁRIO
-http://appcliente.com:8880/bibi/1234/8690
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b0/Sic_internacional_logo_1997.png/revision/latest?cb=20110817040604" group-title="INTERNACIONAIS",SIC Internacional (Portugal)
-http://appcliente.com:8880/bibi/1234/8053
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/921/XAlmWO.png" group-title="DOCUMENTÁRIOS",Smithsonian FHD
-http://appcliente.com:8880/bibi/1234/6781
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/921/XAlmWO.png" group-title="DOCUMENTÁRIOS",Smithsonian HD
-http://appcliente.com:8880/bibi/1234/6652
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/921/XAlmWO.png" group-title="DOCUMENTÁRIOS",Smithsonian SD
-http://appcliente.com:8880/bibi/1234/6581
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/551/fTUizV.png" group-title="RÁDIOS ONLINE",SOUL R&B
-http://appcliente.com:8880/bibi/1234/8691
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img924/5407/C01ffa.png" group-title="FILMES & SÉRIES",Space SD
-http://appcliente.com:8880/bibi/1234/6557
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img924/5407/C01ffa.png" group-title="FILMES & SÉRIES",Space HD
-http://appcliente.com:8880/bibi/1234/6653
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img924/5407/C01ffa.png" group-title="FILMES & SÉRIES",Space FHD
-http://appcliente.com:8880/bibi/1234/6782
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/922/zOwI01.png" group-title="ESPORTES",SporTV SD
-http://appcliente.com:8880/bibi/1234/6542
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/922/zOwI01.png" group-title="ESPORTES",SporTV HD
-http://appcliente.com:8880/bibi/1234/6654
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/922/zOwI01.png" group-title="ESPORTES",SporTV FHD
-http://appcliente.com:8880/bibi/1234/6783
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/924/H352mZ.png" group-title="ESPORTES",SporTV2 SD
-http://appcliente.com:8880/bibi/1234/6543
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/924/H352mZ.png" group-title="ESPORTES",SporTV2 HD
-http://appcliente.com:8880/bibi/1234/6655
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/924/H352mZ.png" group-title="ESPORTES",SporTV2 FHD
-http://appcliente.com:8880/bibi/1234/6784
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/keqyjq.png" group-title="ESPORTES",SporTV3 SD
-http://appcliente.com:8880/bibi/1234/6544
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/keqyjq.png" group-title="ESPORTES",SporTV3 HD
-http://appcliente.com:8880/bibi/1234/6656
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/keqyjq.png" group-title="ESPORTES",SporTV3 FHD
-http://appcliente.com:8880/bibi/1234/6785
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/hXxEyb.png" group-title="ESPORTES",SPORT TV 1 (PT)
-http://appcliente.com:8880/bibi/1234/7901
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/Ugydg8.png" group-title="ESPORTES",SPORT TV 2 (PT)
-http://appcliente.com:8880/bibi/1234/7902
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/Z6ivyG.png" group-title="ESPORTES",SPORT TV 3 (PT)
-http://appcliente.com:8880/bibi/1234/7903
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/921/yalRwR.png" group-title="ESPORTES",SPORT TV 4 (PT)
-http://appcliente.com:8880/bibi/1234/7904
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/wBigkS.png" group-title="ESPORTES",SPORT TV 5 (PT)
-http://appcliente.com:8880/bibi/1234/7905
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/1694/6ustKq.png" group-title="FILMES & SÉRIES",Studio Universal SD
-http://appcliente.com:8880/bibi/1234/6545
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/1694/6ustKq.png" group-title="FILMES & SÉRIES",Studio Universal HD
-http://appcliente.com:8880/bibi/1234/6689
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/1694/6ustKq.png" group-title="FILMES & SÉRIES",Studio Universal FHD
-http://appcliente.com:8880/bibi/1234/6786
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/551/fTUizV.png" group-title="RÁDIOS ONLINE",SURF MUSIC
-http://appcliente.com:8880/bibi/1234/8692
-#EXTINF:-1 tvg-logo="https://cdn.canaismax.com/assistir-syfy-ao-vivo-24-horas-gratis/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvMTMxNTM5NWVhOGE0MmI3ZmRiM2M4ZmY5ZjRkYzAxODAucG5n" group-title="DOCUMENTÁRIOS",SYFY SD
-http://appcliente.com:8880/bibi/1234/6546
-#EXTINF:-1 tvg-logo="https://cdn.canaismax.com/assistir-syfy-ao-vivo-24-horas-gratis/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvMTMxNTM5NWVhOGE0MmI3ZmRiM2M4ZmY5ZjRkYzAxODAucG5n" group-title="DOCUMENTÁRIOS",SYFY HD
-http://appcliente.com:8880/bibi/1234/6690
-#EXTINF:-1 tvg-logo="https://cdn.canaismax.com/assistir-syfy-ao-vivo-24-horas-gratis/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvMTMxNTM5NWVhOGE0MmI3ZmRiM2M4ZmY5ZjRkYzAxODAucG5n" group-title="DOCUMENTÁRIOS",SYFY FHD
-http://appcliente.com:8880/bibi/1234/6787
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/onALWo.png" group-title="VARIEDADES",TBS SD
-http://appcliente.com:8880/bibi/1234/6579
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/onALWo.png" group-title="VARIEDADES",TBS HD
-http://appcliente.com:8880/bibi/1234/6657
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/onALWo.png" group-title="VARIEDADES",TBS FHD
-http://appcliente.com:8880/bibi/1234/6788
-#EXTINF:-1 tvg-logo="https://www.tctelevision.com/core/img/logotc-101.png" group-title="INTERNACIONAIS",TC Televisión (Equador)
-http://appcliente.com:8880/bibi/1234/8051
-#EXTINF:-1 tvg-logo="https://grafiteroeventos.es/wp-content/uploads/2017/07/telecinco_logo_500.png" group-title="INTERNACIONAIS",Telecinco (Espanha)
-http://appcliente.com:8880/bibi/1234/8052
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/485/2l41YY.png" group-title="FILMES & SÉRIES",Telecine Action SD
-http://appcliente.com:8880/bibi/1234/6547
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/485/2l41YY.png" group-title="FILMES & SÉRIES",Telecine Action HD
-http://appcliente.com:8880/bibi/1234/6658
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/485/2l41YY.png" group-title="FILMES & SÉRIES",Telecine Action FHD
-http://appcliente.com:8880/bibi/1234/6789
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/9210/edK7AV.png" group-title="FILMES & SÉRIES",Telecine Cult SD
-http://appcliente.com:8880/bibi/1234/6548
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/9210/edK7AV.png" group-title="FILMES & SÉRIES",Telecine Cult HD
-http://appcliente.com:8880/bibi/1234/6659
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/9210/edK7AV.png" group-title="FILMES & SÉRIES",Telecine Cult FHD
-http://appcliente.com:8880/bibi/1234/6790
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/4598/UU13EO.png" group-title="FILMES & SÉRIES",Telecine Fun SD
-http://appcliente.com:8880/bibi/1234/6549
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/4598/UU13EO.png" group-title="FILMES & SÉRIES",Telecine Fun HD
-http://appcliente.com:8880/bibi/1234/6660
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/4598/UU13EO.png" group-title="FILMES & SÉRIES",Telecine Fun FHD
-http://appcliente.com:8880/bibi/1234/6791
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/5030/l1BLin.png" group-title="FILMES & SÉRIES",Telecine Pipoca SD
-http://appcliente.com:8880/bibi/1234/6562
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/5030/l1BLin.png" group-title="FILMES & SÉRIES",Telecine Pipoca HD
-http://appcliente.com:8880/bibi/1234/6661
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/5030/l1BLin.png" group-title="FILMES & SÉRIES",Telecine Pipoca FHD
-http://appcliente.com:8880/bibi/1234/6792
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/2738/2DUqBJ.png" group-title="FILMES & SÉRIES",Telecine Premium SD
-http://appcliente.com:8880/bibi/1234/6563
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/2738/2DUqBJ.png" group-title="FILMES & SÉRIES",Telecine Premium HD
-http://appcliente.com:8880/bibi/1234/6662
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/2738/2DUqBJ.png" group-title="FILMES & SÉRIES",Telecine Premium FHD
-http://appcliente.com:8880/bibi/1234/6793
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img924/3106/whVhdS.png" group-title="FILMES & SÉRIES",Telecine Touch SD
-http://appcliente.com:8880/bibi/1234/6561
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img924/3106/whVhdS.png" group-title="FILMES & SÉRIES",Telecine Touch HD
-http://appcliente.com:8880/bibi/1234/6663
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img924/3106/whVhdS.png" group-title="FILMES & SÉRIES",Telecine Touch FHD
-http://appcliente.com:8880/bibi/1234/6794
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/100px-TeleSUR-Logo.svg.png" group-title="INTERNACIONAIS",TeleSur (Venezuela)
-http://appcliente.com:8880/bibi/1234/8057
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/BBdTfu.png" group-title="CANAIS ABERTOS",Terra Viva
-http://appcliente.com:8880/bibi/1234/17398
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1920px-TLC_Logo.svg.png" group-title="VARIEDADES",TLC SD
-http://appcliente.com:8880/bibi/1234/6550
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1920px-TLC_Logo.svg.png" group-title="VARIEDADES",TLC HD
-http://appcliente.com:8880/bibi/1234/6691
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1920px-TLC_Logo.svg.png" group-title="VARIEDADES",TLC FHD
-http://appcliente.com:8880/bibi/1234/6795
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/NAETrb.png" group-title="FILMES & SÉRIES",TNT SD
-http://appcliente.com:8880/bibi/1234/6559
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/NAETrb.png" group-title="FILMES & SÉRIES",TNT HD
-http://appcliente.com:8880/bibi/1234/6664
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/NAETrb.png" group-title="FILMES & SÉRIES",TNT FHD
-http://appcliente.com:8880/bibi/1234/6796
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/qcqLWr.png" group-title="FILMES & SÉRIES",TNT Séries SD
-http://appcliente.com:8880/bibi/1234/6560
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/qcqLWr.png" group-title="FILMES & SÉRIES",TNT Séries HD
+
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image18024634895f723beba110d.png" tvg-id="0" group-title="CANAIS",TOONCAST HD
+http://appcliente.com:8880/live/bibi/1234/7915.m3u8
+
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image14746337025f723beba117b.png" tvg-id="0" group-title="CANAIS",DISNEY JR
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image15369247285f723beba11da.png" tvg-id="0" group-title="CANAIS",DISNEY XD HD
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image4768043505f723beba12d4.png" tvg-id="0" group-title="CANAIS",DISNEY CHANNEL HD
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/goobunnamed/goobunnamed.png" tvg-id="0" group-title="CANAIS",GLOOB
+http://189.91.128.146:5555/udp/227.10.20.91:1234
+
+#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/11/items/boomerangdownload-1/boomerangdownload%20%281%29.png" tvg-id="0" group-title="CANAIS",BOOMERANG FHD
+http://appcliente.com:8880/live/bibi/1234/6592.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS-1080-H264" tvg-logo="http://tcomweb.site/icons/Discovery-Kids.png" group-title="KIDS",DISCOVERY KIDS HD
+http://189.91.128.146:5555/udp/227.10.20.83:1234
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image2627063995f723beba1739.png" tvg-id="0" group-title="CANAIS",TELECINE PREMIUM HD
+http://189.91.128.146:5555/udp/227.10.20.134:1234
+
+
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image2627063995f723beba1739.png" tvg-id="0" group-title="CANAIS",TELECINE ACTION HD
+http://189.91.128.146:5555/udp/227.10.20.135:1234
+
+
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image2627063995f723beba1739.png" tvg-id="0" group-title="CANAIS",TELECINE PIPOCA HD
+http://189.91.128.146:5555/udp/227.10.20.87:1234
+
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image2627063995f723beba1739.png" tvg-id="0" group-title="CANAIS",TELECINE CULT HD
+http://multicdn.xyz:8080/live/264543/264543/29914.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image2627063995f723beba1739.png" tvg-id="0" group-title="CANAIS",TELECINE FUN HD
+http://189.91.128.146:5555/udp/227.10.20.137:1234
+
+
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image2627063995f723beba1739.png" tvg-id="0" group-title="CANAIS",TELECINE TOUCH HD
+http://189.91.128.146:5555/udp/227.10.20.136:1234
+
+
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image4542980535f723beba1afe.png" tvg-id="0" group-title="CANAIS",HBO PLUS HD
+http://189.91.128.146:5555/udp/227.10.20.96:1234
+
+
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image4542980535f723beba1afe.png" tvg-id="0" group-title="CANAIS",HBO HD
+http://189.91.128.146:5555/udp/227.10.20.94:1234
+
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image4542980535f723beba1afe.png" tvg-id="0" group-title="CANAIS",HBO 2 HD
+http://189.91.128.146:5555/udp/227.10.20.95:1234
+
+
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image4542980535f723beba1afe.png" tvg-id="0" group-title="CANAIS",HBO MUNDI HD
+http://multicdn.xyz:8080/live/264543/264543/29926.m3u8
+
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image4542980535f723beba1afe.png" tvg-id="0" group-title="CANAIS",HBO SIGNATURE HD
+http://189.91.128.146:5555/udp/227.10.20.98:1234
+
+
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image4542980535f723beba1afe.png" tvg-id="0" group-title="CANAIS",HBO EXTREME HD
+http://189.91.128.146:5555/udp/227.10.20.100:1234
+
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image113543565f723beba1c04.png" tvg-id="0" group-title="CANAIS",WARNER HD
+http://189.91.128.146:5555/udp/227.10.20.126:1234
+
+
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image9660833135f723beba1fc1.png" tvg-id="0" group-title="CANAIS",MEGAPIX HD
+http://189.91.128.146:5555/udp/227.10.20.89:1234
+
+
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image18805195855f723beba2029.png" tvg-id="0" group-title="CANAIS",SPACE HD
+http://appcliente.com:8880/live/bibi/1234/6653.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 1-1080-H264" tvg-logo="http://tcomweb.site/icons/Fox-Premium-1.png" group-title="FILMES E SERIES",FOX PREMIUM 1-HD
+http://appcliente.com:8880/live/bibi/1234/6614.m3u8
+
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="FOX PREMIUM 2 SD" tvg-logo="https://1.bp.blogspot.com/-oY_j0lWUEK8/Xk70VU06WDI/AAAAAAAACE4/b-3iELzjF7k3YzBqk9QW-6vfIR076iKXQCLcBGAsYHQ/s1600/foxpremium2.png" group-title="FILMES E SERIES",FOX PREMIUM 2 SD
+http://appcliente.com:8880/live/bibi/1234/6615.m3u8
+
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image6457640105f723beba2077.png" tvg-id="0" group-title="CANAIS",FOX HD
+http://189.91.128.146:5555/udp/227.10.20.139:1234
+
+
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image4162304725f723beba2131.png" tvg-id="0" group-title="CANAIS",TNT HD
+http://appcliente.com:8880/live/bibi/1234/6664.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image4162304725f723beba2131.png" tvg-id="0" group-title="CANAIS",TNT SERIES HD
 http://appcliente.com:8880/live/bibi/1234/6665.m3u8
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/qcqLWr.png" group-title="FILMES & SÉRIES",TNT Séries FHD
-http://appcliente.com:8880/bibi/1234/6797
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/UkI8z8.png" group-title="INFANTIL",Tooncast SD
-http://appcliente.com:8880/bibi/1234/7915
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/551/fTUizV.png" group-title="RÁDIOS ONLINE",TRANCE MUSIC
-http://appcliente.com:8880/bibi/1234/8693
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_travel-box-brazil_m.png" group-title="VARIEDADES",Travel Box Brazil SD
-http://appcliente.com:8880/bibi/1234/6569
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_travel-box-brazil_m.png" group-title="VARIEDADES",Travel Box Brazil HD
-http://appcliente.com:8880/bibi/1234/6666
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_travel-box-brazil_m.png" group-title="VARIEDADES",Travel Box Brazil FHD
-http://appcliente.com:8880/bibi/1234/6798
-#EXTINF:-1 tvg-logo="https://cdn.canaismax.com/assistir-trutv-hd-ao-vivo-gratis-online-24-horas/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvY2Q4NDE1OGJhYzE4NDc4OTVkODBiMmI1MDRjMjgyMWIucG5n" group-title="VARIEDADES",Tru TV SD
-http://appcliente.com:8880/bibi/1234/11045
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/wOmuF0.png" group-title="INTERNACIONAIS",TV Aguascalientes (México)
-http://appcliente.com:8880/bibi/1234/8059
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/6936/3OeYjR.png" group-title="RELIGIOSOS",TV Aparecida SD
-http://appcliente.com:8880/bibi/1234/17361
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/6936/3OeYjR.png" group-title="RELIGIOSOS",TV Aparecida HD
-http://appcliente.com:8880/bibi/1234/7932
-#EXTINF:-1 tvg-logo="https://imageshack.com/a/img923/6936/3OeYjR.png" group-title="RELIGIOSOS",TV Aparecida FHD
-http://appcliente.com:8880/bibi/1234/17362
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/TV_Brasil_logo.png" group-title="CANAIS ABERTOS",TV Brasil SD
-http://appcliente.com:8880/bibi/1234/9286
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/TV_Brasil_logo.png" group-title="CANAIS ABERTOS",TV Brasil HD
-http://appcliente.com:8880/bibi/1234/6667
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/TV_Brasil_logo.png" group-title="CANAIS ABERTOS",TV Brasil FHD
-http://appcliente.com:8880/bibi/1234/6799
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/280x200q90/924/ALK4yS.png" group-title="RELIGIOSOS",TV Cristo Vive
-http://appcliente.com:8880/bibi/1234/11948
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/TPnvmR.png" group-title="CANAIS ABERTOS",TV Cultura SD
-http://appcliente.com:8880/bibi/1234/6487
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/TPnvmR.png" group-title="CANAIS ABERTOS",TV Cultura HD
-http://appcliente.com:8880/bibi/1234/6676
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/TPnvmR.png" group-title="CANAIS ABERTOS",TV Cultura FHD
-http://appcliente.com:8880/bibi/1234/6714
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/8935/BdTbRE.png" group-title="CANAIS ABERTOS",TV Escola SD
-http://appcliente.com:8880/bibi/1234/7828
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/921/TAa54t.png" group-title="RELIGIOSOS",TV Evangelizar
-http://appcliente.com:8880/bibi/1234/7937
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/8131/kxcZ8j.png" group-title="CANAIS ABERTOS",TV Gazeta SD
-http://appcliente.com:8880/bibi/1234/7829
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/vm5eo7.png" group-title="CANAIS ABERTOS",TV Geral SD
-http://appcliente.com:8880/bibi/1234/7830
-#EXTINF:-1 tvg-logo="https://www.gideoes.com.br/wp-content/uploads/2018/12/logotipo-tvgideoes@2x.png" group-title="RELIGIOSOS",Tv Gideões
-http://appcliente.com:8880/bibi/1234/7938
-#EXTINF:-1 tvg-logo="http://logocanais.ddns.net/Logo/justica.png" group-title="CANAIS ABERTOS",TV Justiça SD
-http://appcliente.com:8880/bibi/1234/7831
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/10/igreja-mundial-do-poder-de-deus-logo-simbolo-4.png" group-title="RELIGIOSOS",TV Mundial
-http://appcliente.com:8880/bibi/1234/7939
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" group-title="RELIGIOSOS",TV Novo Tempo SD
-http://appcliente.com:8880/bibi/1234/6580
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" group-title="RELIGIOSOS",TV Novo Tempo HD
-http://appcliente.com:8880/bibi/1234/6668
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" group-title="RELIGIOSOS",TV Novo Tempo FHD
-http://appcliente.com:8880/bibi/1234/6800
-#EXTINF:-1 tvg-logo="http://imageshack.com/a/img922/7467/FH96Y1.png" group-title="RELIGIOSOS",TV Pai Eterno SD
-http://appcliente.com:8880/bibi/1234/9285
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/br_ra-tim-bum-1_m.png" group-title="INFANTIL",TV Rá Tim Bum SD
-http://appcliente.com:8880/bibi/1234/6551
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/br_ra-tim-bum-1_m.png" group-title="INFANTIL",TV Rá Tim Bum HD
-http://appcliente.com:8880/bibi/1234/6692
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/br_ra-tim-bum-1_m.png" group-title="INFANTIL",TV Rá Tim Bum FHD
-http://appcliente.com:8880/bibi/1234/6801
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/tv-senado-logo.png" group-title="CANAIS ABERTOS",TV Senado SD
-http://appcliente.com:8880/bibi/1234/7832
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/cbE0oPcN9ybGpP-VNVkz9AEnzWezqdbXXdEBcsWI0PLbCYQwPYYEMGJW-C253khNNRk=s180" group-title="RELIGIOSOS",TV Século 21
-http://appcliente.com:8880/bibi/1234/7940
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/10/igreja-umiversal-logo-simbolo.gif" group-title="RELIGIOSOS",Tv Universal
-http://appcliente.com:8880/bibi/1234/7941
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TV5_%28logo%29.svg/1280px-TV5_%28logo%29.svg.png" group-title="INTERNACIONAIS",TV5 Monde (França)
-http://appcliente.com:8880/bibi/1234/8060
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-Zw2D5rt6Ol0/WS5Z99Rf1cI/AAAAAAAAFJ8/FvvJ2sJFytAi7k3SY4qd9styGgF5CKTUwCLcB/s1600/TVE%2B-%2B1996.gif" group-title="CANAIS ABERTOS",TVE Brasil SD
-http://appcliente.com:8880/bibi/1234/7833
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/6TvXnU.png" group-title="FILMES & SÉRIES",Universal TV SD
-http://appcliente.com:8880/bibi/1234/6552
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/6TvXnU.png" group-title="FILMES & SÉRIES",Universal TV HD
-http://appcliente.com:8880/bibi/1234/6669
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/6TvXnU.png" group-title="FILMES & SÉRIES",Universal TV FHD
-http://appcliente.com:8880/bibi/1234/6802
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/55/VH1_Russia.png/revision/latest/scale-to-width-down/1000?cb=20160506165433" group-title="MUSICA",VH1 SD
-http://appcliente.com:8880/bibi/1234/6553
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/55/VH1_Russia.png/revision/latest/scale-to-width-down/1000?cb=20160506165433" group-title="MUSICA",VH1 HD
-http://appcliente.com:8880/bibi/1234/6670
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/55/VH1_Russia.png/revision/latest/scale-to-width-down/1000?cb=20160506165433" group-title="MUSICA",VH1 FHD
-http://appcliente.com:8880/bibi/1234/6803
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/1460/8RgLPT.png" group-title="MUSICA",VH1 Megahits HD
-http://appcliente.com:8880/bibi/1234/7922
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e8/Canal_Viva_logo.png/revision/latest?cb=20130831133157" group-title="VARIEDADES",Viva SD
-http://appcliente.com:8880/bibi/1234/6554
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e8/Canal_Viva_logo.png/revision/latest?cb=20130831133157" group-title="VARIEDADES",Viva HD
-http://appcliente.com:8880/bibi/1234/6671
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e8/Canal_Viva_logo.png/revision/latest?cb=20130831133157" group-title="VARIEDADES",Viva FHD
-http://appcliente.com:8880/bibi/1234/6804
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img924/3108/BlllSq.png" group-title="FILMES & SÉRIES",Warner SD
-http://appcliente.com:8880/bibi/1234/6555
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img924/3108/BlllSq.png" group-title="FILMES & SÉRIES",Warner HD
-http://appcliente.com:8880/bibi/1234/6672
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img924/3108/BlllSq.png" group-title="FILMES & SÉRIES",Warner FHD
-http://appcliente.com:8880/bibi/1234/6805
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/7755/Ze8vFz.png" group-title="FILMES & SÉRIES",Woohoo SD
-http://appcliente.com:8880/bibi/1234/6556
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/7755/Ze8vFz.png" group-title="FILMES & SÉRIES",Woohoo HD
-http://appcliente.com:8880/bibi/1234/6693
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/7755/Ze8vFz.png" group-title="FILMES & SÉRIES",Woohoo FHD
-http://appcliente.com:8880/bibi/1234/6806
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6128/Ucr8mo.png" group-title="INFANTIL",ZooMoo SD
-http://appcliente.com:8880/bibi/1234/7917
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img921/6128/Ucr8mo.png" group-title="INFANTIL",ZooMoo HD
-http://appcliente.com:8880/bibi/1234/7916
+
+
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image10971972655f723beba2567.png" tvg-id="0" group-title="CANAIS",DISCOREVY H&H HD
+http://189.91.128.146:5555/udp/227.10.20.85:1234
+
+#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",DISCOREVY HD
+http://189.91.128.146:5555/udp/227.10.20.80:1234
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET-1080-H264" tvg-logo="http://tcomweb.site/icons/Animal-Planet.png" group-title="ENTRETENIMENTO",ANIMAL PLANET-1080-H264
+http://189.91.128.146:5555/udp/227.10.20.118:1234
+
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image10971972655f723beba2567.png" tvg-id="0" group-title="CANAIS",HGTV HD
+http://appcliente.com:8880/live/bibi/1234/6682.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image18091603355f723beba2a1f.png" tvg-id="0" group-title="CANAIS",VIVA 
+http://appcliente.com:8880/live/bibi/1234/6671.m3u8
+
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image4272284965f723beba2a80.png" group-title="MUSICAS",Multishow
+http://multicdn.xyz:8080/live/264543/264543/29981.m3u8
+
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image5209234735f723beba2e2b.png" tvg-id="0" group-title="CANAIS",GLOBO NEWS HD
+http://appcliente.com:8880/live/bibi/1234/6620.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="GNT-1080-H264" tvg-logo="http://tcomweb.site/icons/GNT.png" group-title="ENTRETENIMENTO",GNT HD
+http://appcliente.com:8880/live/bibi/1234/6621.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image14677881085f723beba2f88.png" tvg-id="0" group-title="CANAIS",OFF
+http://appcliente.com:8880/live/bibi/1234/6688.m3u8
+
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image5501966555f723beba32f3.png" tvg-id="0" group-title="CANAIS",SEX HOT2
+http://esrv.cc:80/live/user91920/pass29190/471.m3u8
+
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image8259632545f723beba33f4.png" tvg-id="0" group-title="CANAIS",PLAY BOY
+http://esrv.cc:80/live/user91920/pass29190/465.m3u8
