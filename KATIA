@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://ia601406.us.archive.org/11/items/a-fazenda-12_20201011/A_Fazenda_12.jpg",A FAZENDA
-http://multicdn.xyz:8080/live/264543/264543/46781.m3u8
+http://pfsv.io:80/live/ibqJejmTr5/9Q1kvPkuRn/48757.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png",GLOBO RJ
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png",GLOBO RJ 2
-http://multicdn.xyz:8080/live/264543/264543/23344.m3u8
+http://189.91.128.146:5555/udp/227.10.20.109:1234
 
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="CANAIS ABERTOS",SBT
 http://189.91.128.146:5555/udp/227.10.20.120:1234
@@ -84,6 +84,10 @@ http://appcliente.com:8880/live/bibi/1234/6596.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image5993965045f723beba1057.png" tvg-id="0" group-title="CANAIS",CARTOON HD
 http://appcliente.com:8880/live/bibi/1234/6595.m3u8
+
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image5993965045f723beba1057.png" tvg-id="0" group-title="CANAIS",CARTOON network
+http://pfsv.io:80/live/ibqJejmTr5/9Q1kvPkuRn/126.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image18024634895f723beba110d.png" tvg-id="0" group-title="CANAIS",TOONCAST HD
 http://appcliente.com:8880/live/bibi/1234/7915.m3u8
@@ -210,6 +214,9 @@ http://appcliente.com:8880/live/bibi/1234/6620.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GNT-1080-H264" tvg-logo="http://tcomweb.site/icons/GNT.png" group-title="ENTRETENIMENTO",GNT HD
 http://appcliente.com:8880/live/bibi/1234/6621.m3u8
 
+
+#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS" tvg-logo="" group-title="ENTRETENIMENTO",BAND NEWS
+http://189.91.128.146:5555/udp/227.10.20.131:1234.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image14677881085f723beba2f88.png" tvg-id="0" group-title="CANAIS",OFF
 http://appcliente.com:8880/live/bibi/1234/6688.m3u8
