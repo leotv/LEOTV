@@ -57,6 +57,9 @@ http://cdn2.gizmodo.ml/live/premiere2/playlist.m3u8
 http://172.96.172.111:2095/streams/63_.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS",PREMIERE 22
+http://172.96.172.111:2095/streams/64_.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS",PREMIERE3 HD
