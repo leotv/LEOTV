@@ -32,16 +32,16 @@ http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://z4.vc/nWk" group-title=" Canais | Esportes",Fox Sports HD
-http://172.96.172.111:2095/streams/55_.m3u8
+http://info.techcrunch2.cf/live/foxsports/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Qen" group-title=" Canais | Esportes",Fox Sports 2 HD
-http://172.96.172.111:2095/streams/58_.m3u8
+http://info.techcrunch2.cf/live/foxsports2/chunks.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS",PREMIERE HD
-http://cdn2.gizmodo.ml/live/premiereclubes/playlist.m3u8
+http://info.techcrunch2.cf/live/premiereclubes/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS",PREMIERE 
@@ -50,20 +50,17 @@ http://172.96.172.111:2095/streams/61_.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS",PREMIERE2 HD
-http://cdn2.gizmodo.ml/live/premiere2/playlist.m3u8
+http://info.techcrunch2.cf/live/premiere2/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS",PREMIERE 2
 http://172.96.172.111:2095/streams/63_.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS",PREMIERE 22
-http://172.96.172.111:2095/streams/64_.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS",PREMIERE3 HD
-http://cdn2.gizmodo.ml/live/premiere3/playlist.m3u8
+http://info.techcrunch2.cf/live/premiere3/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS",PREMIERE 3
@@ -72,7 +69,7 @@ http://172.96.172.111:2095/streams/65_.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS", PREMIERE4 HD
-http://cdn2.gizmodo.ml/live/premiere4/playlist.m3u8
+http://info.techcrunch2.cf/live/premiere4/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS",PREMIERE 4
@@ -80,14 +77,14 @@ http://172.96.172.111:2095/streams/66_.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS",PREMIERE5 HD
-http://cdn2.gizmodo.ml/live/premiere5/playlist.m3u8
+http://info.techcrunch2.cf/live/premiere5/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS",PREMIERE 5
 http://172.96.172.111:2095/streams/67_.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS",PREMIERE6 HD
-http://cdn2.gizmodo.ml/live/premiere6/playlist.m3u8
+http://info.techcrunch2.cf/live/premiere6/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS",PREMIERE 6
@@ -95,7 +92,7 @@ http://172.96.172.111:2095/streams/68_.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS",PREMIERE7 HD
-http://cdn2.gizmodo.ml/live/premiere7/playlist.m3u8
+http://info.techcrunch2.cf/live/premiere7/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS",PREMIERE 7
@@ -114,14 +111,14 @@ http://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image11882864935f723beba073f.png" tvg-id="0" group-title="CANAIS",COMBATE HD
-http://cdn2.gizmodo.ml/live/combate/playlist.m3u8
+http://info.techcrunch2.cf/live/combate/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image11882864935f723beba073f.png" tvg-id="0" group-title="CANAIS",COMBATE 
 http://172.96.172.111:2095/streams/48_.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image18764987475f723beba0a4f.png" tvg-id="0" group-title="CANAIS",SPORTV HD
-http://cdn2.gizmodo.ml/live/sportv/playlist.m3u8
+http://info.techcrunch2.cf/live/sportv/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image18764987475f723beba0a4f.png" tvg-id="0" group-title="CANAIS",SPORTV 
@@ -130,7 +127,7 @@ http://172.96.172.111:2095/streams/70_.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image1294085625f723beba0a9f.png" tvg-id="0" group-title="CANAIS",SPORTV2 HD
-http://cdn2.gizmodo.ml/live/sportv2/playlist.m3u8
+http://info.techcrunch2.cf/live/sportv2/chunks.m3u8
 
 
 
@@ -140,7 +137,7 @@ http://172.96.172.111:2095/streams/72_.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image3319401725f723beba0b21.png" tvg-id="0" group-title="CANAIS",SPORTV3 HD
-http://cdn2.gizmodo.ml/live/sportv3/playlist.m3u8
+http://info.techcrunch2.cf/live/sportv3/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image3319401725f723beba0b21.png" tvg-id="0" group-title="CANAIS",SPORTV3 
@@ -161,53 +158,12 @@ http://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_360_av-b.m3u8
 http://172.96.172.111:2095/streams/308_.m3u8
 
 
-#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",BIEN 1
-http://172.96.172.111:2095/streams/87_.m3u8
-
-
-#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",BIEN 2
-http://172.96.172.111:2095/streams/88_.m3u8
-
-
-#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",BIEN 3
-http://172.96.172.111:2095/streams/89_.m3u8
-
-
-#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",BIEN 4
-http://172.96.172.111:2095/streams/90_.m3u8
-
-
-#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",BIEN 5
-http://172.96.172.111:2095/streams/91_.m3u8
-
-#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",BIEN 6
-http://172.96.172.111:2095/streams/92_.m3u8
-
-
-#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",BIEN 7
-http://172.96.172.111:2095/streams/93_.m3u8
-
-
-#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",BIEN 8
-http://172.96.172.111:2095/streams/94_.m3u8
-
-#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",BIEN 9
-http://172.96.172.111:2095/streams/95_.m3u8
-
-
-#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",BIEN 10
-http://172.96.172.111:2095/streams/96_.m3u8
-
-
-
-
-
 
 
 
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image5993965045f723beba1057.png" tvg-id="0" group-title="CANAIS",CARTOON network
-http://cdn2.gizmodo.ml/live/cartoonnetwork/playlist.m3u8
+http://info.techcrunch2.cf/live/cartoonnetwork/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image5993965045f723beba1057.png" tvg-id="0" group-title="CANAIS",CARTOON 
@@ -215,7 +171,7 @@ http://172.96.172.111:2095/streams/128_.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image18024634895f723beba110d.png" tvg-id="0" group-title="CANAIS",TOONCAST HD
-http://cdn2.gizmodo.ml/live/tooncast/playlist.m3u8
+http://info.techcrunch2.cf/live/tooncast/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image14746337025f723beba117b.png" tvg-id="0" group-title="CANAIS",DISNEY JR
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8
@@ -232,15 +188,15 @@ http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/goobunnamed/goobunnamed.png" tvg-id="0" group-title="CANAIS",GLOOB
-http://cdn2.gizmodo.ml/live/gloob/playlist.m3u8
+http://info.techcrunch2.cf/live/gloob/chunks.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/11/items/boomerangdownload-1/boomerangdownload%20%281%29.png" tvg-id="0" group-title="CANAIS",BOOMERANG FHD
-http://cdn2.gizmodo.ml/live/boomerang/playlist.m3u8
+http://info.techcrunch2.cf/live/boomerang/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS-1080-H264" tvg-logo="http://tcomweb.site/icons/Discovery-Kids.png" group-title="KIDS",DISCOVERY KIDS HD
-http://cdn2.gizmodo.ml/live/discoverykids/playlist.m3u8
+http://info.techcrunch2.cf/live/discoverykids/chunks.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS-1080-H264" tvg-logo="http://tcomweb.site/icons/Discovery-Kids.png" group-title="KIDS",DISCOVERY KIDS 
@@ -249,7 +205,7 @@ http://172.96.172.111:2095/streams/138_.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image2627063995f723beba1739.png" tvg-id="0" group-title="CANAIS",TELECINE PREMIUM HD
-http://cdn2.gizmodo.ml/live/telecinepremium/playlist.m3u8
+http://info.techcrunch2.cf/live/telecinepremium/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image2627063995f723beba1739.png" tvg-id="0" group-title="CANAIS",TELECINE PREMIUM 
@@ -257,7 +213,7 @@ http://172.96.172.111:2095/streams/210_.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image2627063995f723beba1739.png" tvg-id="0" group-title="CANAIS",TELECINE ACTION HD
-http://cdn2.gizmodo.ml/live/telecineaction/playlist.m3u8
+http://info.techcrunch2.cf/live/telecineaction/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image2627063995f723beba1739.png" tvg-id="0" group-title="CANAIS",TELECINE ACTION 
@@ -266,7 +222,7 @@ http://172.96.172.111:2095/streams/213_.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image2627063995f723beba1739.png" tvg-id="0" group-title="CANAIS",TELECINE PIPOCA HD
-http://cdn2.gizmodo.ml/live/telecinepipoca/playlist.m3u8
+http://info.techcrunch2.cf/live/telecinepipoca/chunks.m3u8
 
 
 
@@ -276,7 +232,7 @@ http://172.96.172.111:2095/streams/207_.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image2627063995f723beba1739.png" tvg-id="0" group-title="CANAIS",TELECINE CULT HD
-http://cdn2.gizmodo.ml/live/telecinecult/playlist.m3u8
+http://info.techcrunch2.cf/live/telecinecult/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image2627063995f723beba1739.png" tvg-id="0" group-title="CANAIS",TELECINE CULT 
@@ -285,7 +241,7 @@ http://172.96.172.111:2095/streams/204_.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image2627063995f723beba1739.png" tvg-id="0" group-title="CANAIS",TELECINE FUN HD
-http://cdn2.gizmodo.ml/live/telecinefun/playlist.m3u8
+http://info.techcrunch2.cf/live/telecinefun/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image2627063995f723beba1739.png" tvg-id="0" group-title="CANAIS",TELECINE FUN 
@@ -294,7 +250,7 @@ http://172.96.172.111:2095/streams/206_.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image2627063995f723beba1739.png" tvg-id="0" group-title="CANAIS",TELECINE TOUCH HD
-http://cdn2.gizmodo.ml/live/telecinetouch/playlist.m3u8
+http://info.techcrunch2.cf/live/telecinetouch/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image2627063995f723beba1739.png" tvg-id="0" group-title="CANAIS",TELECINE TOUCH 
 http://172.96.172.111:2095/streams/211_.m3u8
@@ -309,13 +265,13 @@ http://172.96.172.111:2095/streams/190_.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image4542980535f723beba1afe.png" tvg-id="0" group-title="CANAIS",HBO HD
-http://172.96.172.111:2095/streams/186_.m3u8
+http://info.techcrunch2.cf/live/hbo/chunks.m3u8
 
 
 
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image4542980535f723beba1afe.png" tvg-id="0" group-title="CANAIS",HBO 2 HD
-http://172.96.172.111:2095/streams/188_.m3u8
+http://info.techcrunch2.cf/live/hbo2/chunks.m3u8
 
 
 
@@ -338,11 +294,11 @@ http://172.96.172.111:2095/streams/197_.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image113543565f723beba1c04.png" tvg-id="0" group-title="CANAIS",WARNER HD
-http://172.96.172.111:2095/streams/180_.m3u8
+http://info.techcrunch2.cf/live/warner/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image9660833135f723beba1fc1.png" tvg-id="0" group-title="CANAIS",MEGAPIX HD
-http://cdn2.gizmodo.ml/live/megapix/playlist.m3u8
+http://info.techcrunch2.cf/live/megapix/chunks.m3u8
 
 
 
@@ -353,7 +309,7 @@ http://172.96.172.111:2095/streams/182_.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image18805195855f723beba2029.png" tvg-id="0" group-title="CANAIS",SPACE HD
-http://cdn2.gizmodo.ml/live/space/playlist.m3u8
+http://info.techcrunch2.cf/live/space/chunks.m3u8
 
 
 
@@ -375,7 +331,7 @@ http://172.96.172.111:2095/streams/168_.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image6457640105f723beba2077.png" tvg-id="0" group-title="CANAIS",FOX HD
-http://cdn2.gizmodo.ml/live/fox/playlist.m3u8
+http://info.techcrunch2.cf/live/fox/chunks.m3u8
 
 
 
@@ -384,7 +340,7 @@ http://172.96.172.111:2095/streams/162_.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image4162304725f723beba2131.png" tvg-id="0" group-title="CANAIS",TNT HD
-http://cdn2.gizmodo.ml/live/tnt/playlist.m3u8
+http://info.techcrunch2.cf/live/tnt/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image4162304725f723beba2131.png" tvg-id="0" group-title="CANAIS",TNT HD
@@ -397,7 +353,7 @@ http://172.96.172.111:2095/streams/202_.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image4162304725f723beba2131.png" tvg-id="0" group-title="CANAIS",TNT SERIES HD
-http://cdn2.gizmodo.ml/live/tntseries/playlist.m3u8
+http://info.techcrunch2.cf/live/tntseries/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image4162304725f723beba2131.png" tvg-id="0" group-title="CANAIS",TNT SERIES HD
@@ -413,7 +369,7 @@ http://172.96.172.111:2095/streams/100_.m3u8
 
 
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",DISCOVEVY HD
-http://cdn2.gizmodo.ml/live/discoverychannel/playlist.m3u8
+http://info.techcrunch2.cf/live/discoverychannel/chunks.m3u8
 
 
 
@@ -443,7 +399,7 @@ http://172.96.172.111:2095/streams/123_.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image18091603355f723beba2a1f.png" tvg-id="0" group-title="CANAIS",VIVA 
-http://cdn2.gizmodo.ml/live/viva/playlist.m3u8
+http://info.techcrunch2.cf/live/viva/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image18091603355f723beba2a1f.png" tvg-id="0" group-title="CANAIS",VIVA 
