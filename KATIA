@@ -1,10 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://ia601406.us.archive.org/11/items/a-fazenda-12_20201011/A_Fazenda_12.jpg",A FAZENDA
-http://172.96.172.111:2095/streams/307_.m3u8
-
-
-
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png",GLOBO RJ
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
@@ -12,12 +7,6 @@ http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1n
 #EXTINF:-1 tvg-logo="http://z4.vc/osc" group-title=" Canais | Globo",Globo RJ HD
 https://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="CANAIS ABERTOS",SBT
-http://cdn2.gizmodo.ml/live/sbt/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="CANAIS ABERTOS",SBT hd
-http://172.96.172.111:2095/streams/37_.m3u8
 
 #EXTINF:-1 tvg-id="band.br" tvg-name="BAND" tvg-logo="" group-title="CANAIS ABERTOS",BAND
 http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist.m3u8
@@ -31,117 +20,15 @@ http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://z4.vc/tkR" group-title="Canais | Abertos",RedeTV! HD
 https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://z4.vc/nWk" group-title=" Canais | Esportes",Fox Sports HD
-http://info.techcrunch2.cf/live/foxsports/chunks.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://z4.vc/Qen" group-title=" Canais | Esportes",Fox Sports 2 HD
-http://info.techcrunch2.cf/live/foxsports2/chunks.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS",PREMIERE HD
-http://info.techcrunch2.cf/live/premiereclubes/chunks.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS",PREMIERE 
-http://172.96.172.111:2095/streams/61_.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS",PREMIERE2 HD
-http://info.techcrunch2.cf/live/premiere2/chunks.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS",PREMIERE 2
-http://172.96.172.111:2095/streams/63_.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS",PREMIERE3 HD
-http://info.techcrunch2.cf/live/premiere3/chunks.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS",PREMIERE 3
-http://172.96.172.111:2095/streams/65_.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS", PREMIERE4 HD
-http://info.techcrunch2.cf/live/premiere4/chunks.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS",PREMIERE 4
-http://172.96.172.111:2095/streams/66_.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS",PREMIERE5 HD
-http://info.techcrunch2.cf/live/premiere5/chunks.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS",PREMIERE 5
-http://172.96.172.111:2095/streams/67_.m3u8
-
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS",PREMIERE6 HD
-http://info.techcrunch2.cf/live/premiere6/chunks.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS",PREMIERE 6
-http://172.96.172.111:2095/streams/68_.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS",PREMIERE7 HD
-http://info.techcrunch2.cf/live/premiere7/chunks.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image21290878035f723beb9ff83.png" tvg-id="0" group-title="CANAIS",PREMIERE 7
-http://172.96.172.111:2095/streams/69_.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image1957307665f723beba0135.png" tvg-id="0" group-title="CANAIS",ESPN EXTRA
 http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_360_av-b.m3u8
 
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image1957307665f723beba0135.png" tvg-id="0" group-title="CANAIS",ESPN EXTRa hd
-http://cdnbr.xyz:8080/200036256/167115791/220988
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN BRASIL-1080-H264" tvg-logo="http://tcomweb.site/icons/ESPN-Brasil.png" group-title="SPORTS",ESPN BRASIL
 http://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image11882864935f723beba073f.png" tvg-id="0" group-title="CANAIS",COMBATE HD
-http://info.techcrunch2.cf/live/combate/chunks.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image11882864935f723beba073f.png" tvg-id="0" group-title="CANAIS",COMBATE 
-http://172.96.172.111:2095/streams/48_.m3u8
-
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image18764987475f723beba0a4f.png" tvg-id="0" group-title="CANAIS",SPORTV HD
-http://info.techcrunch2.cf/live/sportv/chunks.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image18764987475f723beba0a4f.png" tvg-id="0" group-title="CANAIS",SPORTV 
-http://172.96.172.111:2095/streams/70_.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image1294085625f723beba0a9f.png" tvg-id="0" group-title="CANAIS",SPORTV2 HD
-http://info.techcrunch2.cf/live/sportv2/chunks.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image1294085625f723beba0a9f.png" tvg-id="0" group-title="CANAIS",SPORTV2 
-http://172.96.172.111:2095/streams/72_.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image3319401725f723beba0b21.png" tvg-id="0" group-title="CANAIS",SPORTV3 HD
-http://info.techcrunch2.cf/live/sportv3/chunks.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image3319401725f723beba0b21.png" tvg-id="0" group-title="CANAIS",SPORTV3 
-http://172.96.172.111:2095/streams/74_.m3u8
 
 
 
@@ -150,28 +37,9 @@ http://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_240_av-p.m3u8?sd=10&r
 
 
 
-
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image4091937375f723beba0cbc.png" tvg-id="0" group-title="CANAIS",ESPN2 HD
 http://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_360_av-b.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",CONMEBOL
-http://172.96.172.111:2095/streams/308_.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image5993965045f723beba1057.png" tvg-id="0" group-title="CANAIS",CARTOON network
-http://info.techcrunch2.cf/live/cartoonnetwork/chunks.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image5993965045f723beba1057.png" tvg-id="0" group-title="CANAIS",CARTOON 
-http://172.96.172.111:2095/streams/128_.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image18024634895f723beba110d.png" tvg-id="0" group-title="CANAIS",TOONCAST HD
-http://info.techcrunch2.cf/live/tooncast/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image14746337025f723beba117b.png" tvg-id="0" group-title="CANAIS",DISNEY JR
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8
@@ -187,248 +55,10 @@ http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/goobunnamed/goobunnamed.png" tvg-id="0" group-title="CANAIS",GLOOB
-http://info.techcrunch2.cf/live/gloob/chunks.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/11/items/boomerangdownload-1/boomerangdownload%20%281%29.png" tvg-id="0" group-title="CANAIS",BOOMERANG FHD
-http://info.techcrunch2.cf/live/boomerang/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS-1080-H264" tvg-logo="http://tcomweb.site/icons/Discovery-Kids.png" group-title="KIDS",DISCOVERY KIDS HD
-http://info.techcrunch2.cf/live/discoverykids/chunks.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS-1080-H264" tvg-logo="http://tcomweb.site/icons/Discovery-Kids.png" group-title="KIDS",DISCOVERY KIDS 
-http://172.96.172.111:2095/streams/138_.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image2627063995f723beba1739.png" tvg-id="0" group-title="CANAIS",TELECINE PREMIUM HD
-http://info.techcrunch2.cf/live/telecinepremium/chunks.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image2627063995f723beba1739.png" tvg-id="0" group-title="CANAIS",TELECINE PREMIUM 
-http://172.96.172.111:2095/streams/210_.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image2627063995f723beba1739.png" tvg-id="0" group-title="CANAIS",TELECINE ACTION HD
-http://info.techcrunch2.cf/live/telecineaction/chunks.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image2627063995f723beba1739.png" tvg-id="0" group-title="CANAIS",TELECINE ACTION 
-http://172.96.172.111:2095/streams/213_.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image2627063995f723beba1739.png" tvg-id="0" group-title="CANAIS",TELECINE PIPOCA HD
-http://info.techcrunch2.cf/live/telecinepipoca/chunks.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image2627063995f723beba1739.png" tvg-id="0" group-title="CANAIS",TELECINE PIPOCA 
-http://172.96.172.111:2095/streams/207_.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image2627063995f723beba1739.png" tvg-id="0" group-title="CANAIS",TELECINE CULT HD
-http://info.techcrunch2.cf/live/telecinecult/chunks.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image2627063995f723beba1739.png" tvg-id="0" group-title="CANAIS",TELECINE CULT 
-http://172.96.172.111:2095/streams/204_.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image2627063995f723beba1739.png" tvg-id="0" group-title="CANAIS",TELECINE FUN HD
-http://info.techcrunch2.cf/live/telecinefun/chunks.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image2627063995f723beba1739.png" tvg-id="0" group-title="CANAIS",TELECINE FUN 
-http://172.96.172.111:2095/streams/206_.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image2627063995f723beba1739.png" tvg-id="0" group-title="CANAIS",TELECINE TOUCH HD
-http://info.techcrunch2.cf/live/telecinetouch/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image2627063995f723beba1739.png" tvg-id="0" group-title="CANAIS",TELECINE TOUCH 
-http://172.96.172.111:2095/streams/211_.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image4542980535f723beba1afe.png" tvg-id="0" group-title="CANAIS",HBO PLUS HD
-http://172.96.172.111:2095/streams/190_.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image4542980535f723beba1afe.png" tvg-id="0" group-title="CANAIS",HBO HD
-http://info.techcrunch2.cf/live/hbo/chunks.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image4542980535f723beba1afe.png" tvg-id="0" group-title="CANAIS",HBO 2 HD
-http://info.techcrunch2.cf/live/hbo2/chunks.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image4542980535f723beba1afe.png" tvg-id="0" group-title="CANAIS",HBO MUNDI HD
-http://172.96.172.111:2095/streams/196_.m3u8
-
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image4542980535f723beba1afe.png" tvg-id="0" group-title="CANAIS",HBO SIGNATURE HD
-http://172.96.172.111:2095/streams/192_.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image4542980535f723beba1afe.png" tvg-id="0" group-title="CANAIS",HBO EXTREME HD
-http://172.96.172.111:2095/streams/197_.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image113543565f723beba1c04.png" tvg-id="0" group-title="CANAIS",WARNER HD
-http://info.techcrunch2.cf/live/warner/chunks.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image9660833135f723beba1fc1.png" tvg-id="0" group-title="CANAIS",MEGAPIX HD
-http://info.techcrunch2.cf/live/megapix/chunks.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image9660833135f723beba1fc1.png" tvg-id="0" group-title="CANAIS",MEGAPIX
-http://172.96.172.111:2095/streams/182_.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image18805195855f723beba2029.png" tvg-id="0" group-title="CANAIS",SPACE HD
-http://info.techcrunch2.cf/live/space/chunks.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image18805195855f723beba2029.png" tvg-id="0" group-title="CANAIS",SPACE
-http://172.96.172.111:2095/streams/200_.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 1-1080-H264" tvg-logo="http://tcomweb.site/icons/Fox-Premium-1.png" group-title="FILMES E SERIES",FOX PREMIUM 1-HD
-http://172.96.172.111:2095/streams/166_.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="FOX PREMIUM 2 SD" tvg-logo="https://1.bp.blogspot.com/-oY_j0lWUEK8/Xk70VU06WDI/AAAAAAAACE4/b-3iELzjF7k3YzBqk9QW-6vfIR076iKXQCLcBGAsYHQ/s1600/foxpremium2.png" group-title="FILMES E SERIES",FOX PREMIUM 2 SD
-http://172.96.172.111:2095/streams/168_.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image6457640105f723beba2077.png" tvg-id="0" group-title="CANAIS",FOX HD
-http://info.techcrunch2.cf/live/fox/chunks.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image6457640105f723beba2077.png" tvg-id="0" group-title="CANAIS",FOX 
-http://172.96.172.111:2095/streams/162_.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image4162304725f723beba2131.png" tvg-id="0" group-title="CANAIS",TNT HD
-http://info.techcrunch2.cf/live/tnt/chunks.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image4162304725f723beba2131.png" tvg-id="0" group-title="CANAIS",TNT HD
-http://172.96.172.111:2095/streams/202_.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image4162304725f723beba2131.png" tvg-id="0" group-title="CANAIS",TNT SERIES HD
-http://info.techcrunch2.cf/live/tntseries/chunks.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image4162304725f723beba2131.png" tvg-id="0" group-title="CANAIS",TNT SERIES HD
-http://172.96.172.111:2095/streams/176_.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image10971972655f723beba2567.png" tvg-id="0" group-title="CANAIS",DISCOREVY H&H HD
-http://172.96.172.111:2095/streams/100_.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",DISCOVEVY HD
-http://info.techcrunch2.cf/live/discoverychannel/chunks.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",DISCOVEVY 
-http://172.96.172.111:2095/streams/102_.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET-1080-H264" tvg-logo="http://tcomweb.site/icons/Animal-Planet.png" group-title="ENTRETENIMENTO",ANIMAL PLANET-1080-H264
-http://cdn2.gizmodo.ml/live/animalplanet/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET-1080-H264" tvg-logo="http://tcomweb.site/icons/Animal-Planet.png" group-title="ENTRETENIMENTO",ANIMAL PLANET-
-http://172.96.172.111:2095/streams/98_.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image10971972655f723beba2567.png" tvg-id="0" group-title="CANAIS",HGTV HD
-http://cdn2.gizmodo.ml/live/hgtv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image10971972655f723beba2567.png" tvg-id="0" group-title="CANAIS",HGTV 
-http://172.96.172.111:2095/streams/123_.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image18091603355f723beba2a1f.png" tvg-id="0" group-title="CANAIS",VIVA 
-http://info.techcrunch2.cf/live/viva/chunks.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image18091603355f723beba2a1f.png" tvg-id="0" group-title="CANAIS",VIVA 
-http://172.96.172.111:2095/streams/153_.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image4272284965f723beba2a80.png" group-title="MUSICAS",Multishow
-https://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image5209234735f723beba2e2b.png" tvg-id="0" group-title="CANAIS",GLOBO NEWS HD
-http://cdn2.gizmodo.ml/live/globonews/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image5209234735f723beba2e2b.png" tvg-id="0" group-title="CANAIS",GLOBO NEWS 
-http://172.96.172.111:2095/streams/184_.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="GNT-1080-H264" tvg-logo="http://tcomweb.site/icons/GNT.png" group-title="ENTRETENIMENTO",GNT HD
-http://172.96.172.111:2095/streams/150_.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS" tvg-logo="" group-title="ENTRETENIMENTO",BAND NEWS
-http://172.96.172.111:2095/streams/85_.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="record news" tvg-logo="" group-title="ENTRETENIMENTO",record NEWS
 http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-p.m3u8
@@ -440,21 +70,199 @@ https://streaming.cnnbrasil.com.br/cnndigital_main_Output2.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image5501966555f723beba32f3.png" tvg-id="0" group-title="CANAIS",SEX HOT2
-http://cdn2.gizmodo.ml/live/sexhot/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image5501966555f723beba32f3.png" tvg-id="0" group-title="CANAIS",SEX HOT2
-http://172.96.172.111:2095/streams/217_.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image8259632545f723beba33f4.png" tvg-id="0" group-title="CANAIS",PLAY BOY
-http://cdn2.gizmodo.ml/live/playboy/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image8259632545f723beba33f4.png" tvg-id="0" group-title="CANAIS",PLAY BOY
-http://172.96.172.111:2095/streams/215_.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="http://distv.net/icons/ae.png" group-title="todos",A&E
+http://thecurto.xyz:8080/app232/app/1
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="http://distv.net/icons/amc.png" group-title="todos",AMC
+http://thecurto.xyz:8080/app232/app/2
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="http://distv.net/icons/animalplanet.png" group-title="todos",ANIMAL PLANET
+http://thecurto.xyz:8080/app232/app/3
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="http://distv.net/icons/axn.png" group-title="todos",AXN
+http://thecurto.xyz:8080/app232/app/4
+#EXTINF:-1 tvg-id="" tvg-name="BAND" tvg-logo="http://distv.net/icons/band.png" group-title="todos",BAND
+http://thecurto.xyz:8080/app232/app/5
+#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS" tvg-logo="http://distv.net/icons/bandnews.png" group-title="todos",BAND NEWS
+http://thecurto.xyz:8080/app232/app/6
+#EXTINF:-1 tvg-id="" tvg-name="BIS" tvg-logo="http://distv.net/icons/bis.png" group-title="todos",BIS
+http://thecurto.xyz:8080/app232/app/7
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG" tvg-logo="http://distv.net/icons/boomerang.png" group-title="todos",BOOMERANG
+http://thecurto.xyz:8080/app232/app/8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL BRASIL" tvg-logo="http://distv.net/icons/canalbrasil.png" group-title="todos",CANAL BRASIL
+http://thecurto.xyz:8080/app232/app/9
+#EXTINF:-1 tvg-id="" tvg-name="CANAL SONY" tvg-logo="http://distv.net/icons/sonychannel.png" group-title="todos",CANAL SONY
+http://thecurto.xyz:8080/app232/app/10
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="http://distv.net/icons/cartoonnetwork.png" group-title="todos",CARTOON NETWORK
+http://thecurto.xyz:8080/app232/app/11
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="http://distv.net/icons/cinemax.png" group-title="todos",CINEMAX
+http://thecurto.xyz:8080/app232/app/12
+#EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL" tvg-logo="http://distv.net/icons/cnnbrasil.png" group-title="todos",CNN BRASIL
+http://thecurto.xyz:8080/app232/app/13
+#EXTINF:-1 tvg-id="" tvg-name="COMBATE" tvg-logo="http://distv.net/icons/combate.png" group-title="todos",COMBATE
+http://thecurto.xyz:8080/app232/app/14
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="http://distv.net/icons/comedycentral.png" group-title="todos",COMEDY CENTRAL
+http://thecurto.xyz:8080/app232/app/15
+#EXTINF:-1 tvg-id="" tvg-name="DAZN" tvg-logo="http://distv.net/icons/dazn.png" group-title="todos",DAZN
+http://thecurto.xyz:8080/app232/app/16
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://distv.net/icons/discoverychannel.png" group-title="todos",DISCOVERY CHANNEL
+http://thecurto.xyz:8080/app232/app/17
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HOME & HEALTH" tvg-logo="http://distv.net/icons/discoveryhomehealth.png" group-title="todos",DISCOVERY HOME & HEALTH
+http://thecurto.xyz:8080/app232/app/18
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS" tvg-logo="http://distv.net/icons/discoverykids.png" group-title="todos",DISCOVERY KIDS
+http://thecurto.xyz:8080/app232/app/19
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE" tvg-logo="http://distv.net/icons/discoveryscience.png" group-title="todos",DISCOVERY SCIENCE
+http://thecurto.xyz:8080/app232/app/20
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER" tvg-logo="http://distv.net/icons/discoverytheater.png" group-title="todos",DISCOVERY THEATER
+http://thecurto.xyz:8080/app232/app/21
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO" tvg-logo="http://distv.net/icons/discoveryturbo.png" group-title="todos",DISCOVERY TURBO
+http://thecurto.xyz:8080/app232/app/22
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="http://distv.net/icons/disneychannel.png" group-title="todos",DISNEY CHANNEL
+http://thecurto.xyz:8080/app232/app/23
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR" tvg-logo="http://distv.net/icons/disneyjr.png" group-title="todos",DISNEY JR
+http://thecurto.xyz:8080/app232/app/24
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD" tvg-logo="http://distv.net/icons/disneyxd.png" group-title="todos",DISNEY XD
+http://thecurto.xyz:8080/app232/app/25
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="http://distv.net/icons/espn.png" group-title="todos",ESPN
+http://thecurto.xyz:8080/app232/app/26
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="http://distv.net/icons/espn2.png" group-title="todos",ESPN 2
+http://thecurto.xyz:8080/app232/app/27
+#EXTINF:-1 tvg-id="" tvg-name="ESPN BRASIL" tvg-logo="http://distv.net/icons/espnbrasil.png" group-title="todos",ESPN BRASIL
+http://thecurto.xyz:8080/app232/app/28
+#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA" tvg-logo="http://distv.net/icons/espnextra.png" group-title="todos",ESPN EXTRA
+http://thecurto.xyz:8080/app232/app/29
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE INTERATIVO" tvg-logo="http://distv.net/icons/esporteinterativo.png" group-title="todos",ESPORTE INTERATIVO
+http://thecurto.xyz:8080/app232/app/30
+#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="http://distv.net/icons/foxchannel.png" group-title="todos",FOX
+http://thecurto.xyz:8080/app232/app/31
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE" tvg-logo="http://distv.net/icons/foxlife.png" group-title="todos",FOX LIFE
+http://thecurto.xyz:8080/app232/app/32
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 1" tvg-logo="http://distv.net/icons/foxpremium1.png" group-title="todos",FOX PREMIUM 1
+http://thecurto.xyz:8080/app232/app/33
+#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 2" tvg-logo="http://distv.net/icons/foxpremium2.png" group-title="todos",FOX PREMIUM 2
+http://thecurto.xyz:8080/app232/app/34
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS" tvg-logo="http://distv.net/icons/foxsports.png" group-title="todos",FOX SPORTS
+http://thecurto.xyz:8080/app232/app/35
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2" tvg-logo="http://distv.net/icons/foxsports2.png" group-title="todos",FOX SPORTS 2
+http://thecurto.xyz:8080/app232/app/36
+#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="http://distv.net/icons/fx.png" group-title="todos",FX
+http://thecurto.xyz:8080/app232/app/37
+#EXTINF:-1 tvg-id="" tvg-name="GAZETA" tvg-logo="http://distv.net/icons/gazeta.png" group-title="todos",GAZETA
+http://thecurto.xyz:8080/app232/app/38
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO" tvg-logo="http://distv.net/icons/globo.png" group-title="todos",GLOBO
+http://thecurto.xyz:8080/app232/app/39
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS" tvg-logo="http://distv.net/icons/globonews.png" group-title="todos",GLOBO NEWS
+http://thecurto.xyz:8080/app232/app/40
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RIO HD" tvg-logo="http://distv.net/icons/globo.png" group-title="todos",GLOBO RIO HD
+http://thecurto.xyz:8080/app232/app/41
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP HD" tvg-logo="http://distv.net/icons/globo.png" group-title="todos",GLOBO SP HD
+http://thecurto.xyz:8080/app232/app/42
+#EXTINF:-1 tvg-id="" tvg-name="GNT" tvg-logo="http://distv.net/icons/gnt.png" group-title="todos",GNT
+http://thecurto.xyz:8080/app232/app/43
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="http://distv.net/icons/hbo.png" group-title="todos",HBO
+http://thecurto.xyz:8080/app232/app/44
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="http://distv.net/icons/hbo2.png" group-title="todos",HBO 2
+http://thecurto.xyz:8080/app232/app/45
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY" tvg-logo="http://distv.net/icons/hbofamily.png" group-title="todos",HBO FAMILY
+http://thecurto.xyz:8080/app232/app/46
+#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI" tvg-logo="http://distv.net/icons/hbomundi.png" group-title="todos",HBO MUNDI
+http://thecurto.xyz:8080/app232/app/47
+#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS" tvg-logo="http://distv.net/icons/hboplus.png" group-title="todos",HBO PLUS
+http://thecurto.xyz:8080/app232/app/48
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP" tvg-logo="http://distv.net/icons/hbopop.png" group-title="todos",HBO POP
+http://thecurto.xyz:8080/app232/app/49
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE" tvg-logo="http://distv.net/icons/hbosignature.png" group-title="todos",HBO SIGNATURE
+http://thecurto.xyz:8080/app232/app/50
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME" tvg-logo="http://distv.net/icons/hboextreme.png" group-title="todos",HBO XTREME
+http://thecurto.xyz:8080/app232/app/51
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY" tvg-logo="http://distv.net/icons/historychannel.png" group-title="todos",HISTORY
+http://thecurto.xyz:8080/app232/app/52
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY 2" tvg-logo="http://distv.net/icons/h2.png" group-title="todos",HISTORY 2
+http://thecurto.xyz:8080/app232/app/53
+#EXTINF:-1 tvg-id="" tvg-name="MEGAPIX" tvg-logo="http://distv.net/icons/megapix.png" group-title="todos",MEGAPIX
+http://thecurto.xyz:8080/app232/app/54
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="http://distv.net/icons/mtv.png" group-title="todos",MTV
+http://thecurto.xyz:8080/app232/app/55
+#EXTINF:-1 tvg-id="" tvg-name="MULTISHOW" tvg-logo="http://distv.net/icons/multishow.png" group-title="todos",MULTISHOW
+http://thecurto.xyz:8080/app232/app/56
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO" tvg-logo="http://distv.net/icons/natgeo.png" group-title="todos",NAT GEO
+http://thecurto.xyz:8080/app232/app/57
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO KIDS" tvg-logo="http://distv.net/icons/natgeokids.png" group-title="todos",NAT GEO KIDS
+http://thecurto.xyz:8080/app232/app/58
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="http://distv.net/icons/natgeowild.png" group-title="todos",NAT GEO WILD
+http://thecurto.xyz:8080/app232/app/59
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="http://distv.net/icons/nickjr.png" group-title="todos",NICK JR
+http://thecurto.xyz:8080/app232/app/60
+#EXTINF:-1 tvg-id="" tvg-name="OFF" tvg-logo="http://distv.net/icons/off.png" group-title="todos",OFF
+http://thecurto.xyz:8080/app232/app/61
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT" tvg-logo="http://distv.net/icons/paramount.png" group-title="todos",PARAMOUNT
+http://thecurto.xyz:8080/app232/app/62
+#EXTINF:-1 tvg-id="" tvg-name="PLAY KIDS" tvg-logo="http://distv.net/icons/playkids.png" group-title="todos",PLAY KIDS
+http://thecurto.xyz:8080/app232/app/63
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2" tvg-logo="http://distv.net/icons/premiere2.png" group-title="todos",PREMIERE 2
+http://thecurto.xyz:8080/app232/app/64
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3" tvg-logo="http://distv.net/icons/premiere3.png" group-title="todos",PREMIERE 3
+http://thecurto.xyz:8080/app232/app/65
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4" tvg-logo="http://distv.net/icons/premeire4.png" group-title="todos",PREMIERE 4
+http://thecurto.xyz:8080/app232/app/66
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5" tvg-logo="http://distv.net/icons/premeire5.png" group-title="todos",PREMIERE 5
+http://thecurto.xyz:8080/app232/app/67
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 6" tvg-logo="http://distv.net/icons/premiere6.png" group-title="todos",PREMIERE 6
+http://thecurto.xyz:8080/app232/app/68
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 7" tvg-logo="http://distv.net/icons/premiere7.png" group-title="todos",PREMIERE 7
+http://thecurto.xyz:8080/app232/app/69
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES" tvg-logo="http://distv.net/icons/premiereclubes.png" group-title="todos",PREMIERE CLUBES
+http://thecurto.xyz:8080/app232/app/70
+#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS" tvg-logo="http://distv.net/icons/recordnews.png" group-title="todos",RECORD NEWS
+http://thecurto.xyz:8080/app232/app/71
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RIO" tvg-logo="http://distv.net/icons/record.png" group-title="todos",RECORD RIO
+http://thecurto.xyz:8080/app232/app/72
+#EXTINF:-1 tvg-id="" tvg-name="RECORD SP" tvg-logo="http://distv.net/icons/record.png" group-title="todos",RECORD SP
+http://thecurto.xyz:8080/app232/app/73
+#EXTINF:-1 tvg-id="" tvg-name="REDE TV" tvg-logo="http://distv.net/icons/redetv.png" group-title="todos",REDE TV
+http://thecurto.xyz:8080/app232/app/74
+#EXTINF:-1 tvg-id="" tvg-name="SBT" tvg-logo="http://distv.net/icons/sbt.png" group-title="todos",SBT
+http://thecurto.xyz:8080/app232/app/75
+#EXTINF:-1 tvg-id="" tvg-name="SPACE" tvg-logo="http://distv.net/icons/space.png" group-title="todos",SPACE
+http://thecurto.xyz:8080/app232/app/76
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV" tvg-logo="http://distv.net/icons/sportv.png" group-title="todos",SPORTV
+http://thecurto.xyz:8080/app232/app/77
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2" tvg-logo="http://distv.net/icons/sportv2.png" group-title="todos",SPORTV 2
+http://thecurto.xyz:8080/app232/app/78
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 3" tvg-logo="http://distv.net/icons/sportv3.png" group-title="todos",SPORTV 3
+http://thecurto.xyz:8080/app232/app/79
+#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL" tvg-logo="http://distv.net/icons/studiouniversal.png" group-title="todos",STUDIO UNIVERSAL
+http://thecurto.xyz:8080/app232/app/80
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE ACTION" tvg-logo="http://distv.net/icons/tcaction.png" group-title="todos",TELECINE ACTION
+http://thecurto.xyz:8080/app232/app/81
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE CULT" tvg-logo="http://distv.net/icons/tccult.png" group-title="todos",TELECINE CULT
+http://thecurto.xyz:8080/app232/app/82
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE FUN" tvg-logo="http://distv.net/icons/tcfun.png" group-title="todos",TELECINE FUN
+http://thecurto.xyz:8080/app232/app/83
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA" tvg-logo="http://distv.net/icons/tcpipoca.png" group-title="todos",TELECINE PIPOCA
+http://thecurto.xyz:8080/app232/app/84
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PREMIUM" tvg-logo="http://distv.net/icons/tcpremium.png" group-title="todos",TELECINE PREMIUM
+http://thecurto.xyz:8080/app232/app/85
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE TOUCH" tvg-logo="http://distv.net/icons/tctouch.png" group-title="todos",TELECINE TOUCH
+http://thecurto.xyz:8080/app232/app/86
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="http://distv.net/icons/tlc.png" group-title="todos",TLC
+http://thecurto.xyz:8080/app232/app/87
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="http://distv.net/icons/tnt.png" group-title="todos",TNT
+http://thecurto.xyz:8080/app232/app/88
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES" tvg-logo="http://distv.net/icons/tntseries.png" group-title="todos",TNT SERIES
+http://thecurto.xyz:8080/app232/app/89
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL TV" tvg-logo="http://distv.net/icons/universalchannel.png" group-title="todos",UNIVERSAL TV
+http://thecurto.xyz:8080/app232/app/90
+#EXTINF:-1 tvg-id="" tvg-name="VIVA" tvg-logo="http://distv.net/icons/viva.png" group-title="todos",VIVA
+http://thecurto.xyz:8080/app232/app/91
+#EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL" tvg-logo="http://distv.net/icons/warnerchannel.png" group-title="todos",WARNER CHANNEL
+http://thecurto.xyz:8080/app232/app/92
+
+
 
 
 
