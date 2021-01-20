@@ -20,7 +20,8 @@ http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://z4.vc/tkR" group-title="Canais | Abertos",RedeTV! HD
 https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8
 
-
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="ESQUENTA BIG BROTHER BRASIL 2021" tvg-logo="https://i.imgur.com/hMHytWv.png" group-title="Canais Especiais",ESQUENTA BIG BROTHER BRASIL 2021
+http://bigforce.club:8880/ArllemFariasMensal/LVDS5M92/25983
 
 #EXTINF:-1 tvg-logo="http://appsgeyser.com/public/673/6735103/12269137/template_files/tvPlayer_5f735a1d29129/image1957307665f723beba0135.png" tvg-id="0" group-title="CANAIS",ESPN EXTRA
 http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_360_av-b.m3u8
